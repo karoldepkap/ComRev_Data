@@ -68,14 +68,14 @@
 - id: 12256376
   name: ionic-team/ionic-framework
   url: https://github.com/ionic-team/ionic-framework
-  stars: 52490
+  stars: 52489
   pushed_at: '2026-05-02T03:49:16Z'
   description: A powerful cross-platform UI toolkit for building native-quality iOS,
     Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
   language: TypeScript
   forks: 13386
   open_issues: 628
-  watchers: 52490
+  watchers: 52489
   owner_login: ionic-team
   owner_avatar: https://avatars.githubusercontent.com/u/3171503?v=4
   owner_url: https://github.com/ionic-team
@@ -104,7 +104,7 @@
   archived: false
   disabled: false
   created_at: '2013-08-20T23:06:02Z'
-  updated_at: '2026-05-02T09:53:25Z'
+  updated_at: '2026-05-02T09:59:23Z'
   size: 1663841
   visibility: public
   has_issues: true
@@ -154,6 +154,45 @@
   visibility: public
   has_issues: true
   has_projects: false
+  has_wiki: true
+  has_pages: false
+  has_downloads: true
+- id: 253222599
+  name: CorentinTh/it-tools
+  url: https://github.com/CorentinTh/it-tools
+  stars: 38349
+  pushed_at: '2026-05-02T09:56:28Z'
+  description: 'Collection of handy online tools for developers, with great UX. '
+  language: Vue
+  forks: 4811
+  open_issues: 787
+  watchers: 38349
+  owner_login: CorentinTh
+  owner_avatar: https://avatars.githubusercontent.com/u/25065347?v=4
+  owner_url: https://github.com/CorentinTh
+  topics:
+  - converter
+  - developer-productivity
+  - developer-tools
+  - frontend
+  - javascript
+  - productivity
+  - tool
+  - tools
+  - typescript
+  - vuejs
+  - website
+  license: GPL-3.0
+  homepage: https://it-tools.tech
+  default_branch: main
+  archived: false
+  disabled: false
+  created_at: '2020-04-05T11:50:24Z'
+  updated_at: '2026-05-02T02:18:34Z'
+  size: 13734
+  visibility: public
+  has_issues: true
+  has_projects: true
   has_wiki: true
   has_pages: false
   has_downloads: true
@@ -284,14 +323,14 @@
 - id: 1162099055
   name: Leonxlnx/taste-skill
   url: https://github.com/Leonxlnx/taste-skill
-  stars: 14436
+  stars: 14437
   pushed_at: '2026-04-30T15:21:38Z'
   description: 'Taste-Skill - gives your AI good taste. stops the AI from generating
     boring, generic slop '
   language: Shell
   forks: 1262
   open_issues: 10
-  watchers: 14436
+  watchers: 14437
   owner_login: Leonxlnx
   owner_avatar: https://avatars.githubusercontent.com/u/219127460?v=4
   owner_url: https://github.com/Leonxlnx
@@ -315,7 +354,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-19T21:44:05Z'
-  updated_at: '2026-05-02T09:39:22Z'
+  updated_at: '2026-05-02T10:06:00Z'
   size: 2675
   visibility: public
   has_issues: true
@@ -413,7 +452,7 @@
   name: webstudio-is/webstudio
   url: https://github.com/webstudio-is/webstudio
   stars: 8505
-  pushed_at: '2026-05-02T09:47:45Z'
+  pushed_at: '2026-05-02T10:07:40Z'
   description: Open source website builder and Webflow alternative. Webstudio is an
     advanced visual builder that connects to any headless CMS, supports all CSS properties,
     and can be hosted anywhere, including with us.
