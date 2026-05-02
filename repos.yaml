@@ -68,14 +68,14 @@
 - id: 12256376
   name: ionic-team/ionic-framework
   url: https://github.com/ionic-team/ionic-framework
-  stars: 52489
+  stars: 52488
   pushed_at: '2026-05-02T03:49:16Z'
   description: A powerful cross-platform UI toolkit for building native-quality iOS,
     Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
   language: TypeScript
   forks: 13386
   open_issues: 628
-  watchers: 52489
+  watchers: 52488
   owner_login: ionic-team
   owner_avatar: https://avatars.githubusercontent.com/u/3171503?v=4
   owner_url: https://github.com/ionic-team
@@ -104,7 +104,7 @@
   archived: false
   disabled: false
   created_at: '2013-08-20T23:06:02Z'
-  updated_at: '2026-05-02T09:59:23Z'
+  updated_at: '2026-05-02T10:11:05Z'
   size: 1663841
   visibility: public
   has_issues: true
@@ -284,13 +284,13 @@
 - id: 365250183
   name: zauberzeug/nicegui
   url: https://github.com/zauberzeug/nicegui
-  stars: 15742
+  stars: 15743
   pushed_at: '2026-05-01T08:14:59Z'
   description: Create web-based user interfaces with Python. The nice way.
   language: Python
   forks: 918
   open_issues: 56
-  watchers: 15742
+  watchers: 15743
   owner_login: zauberzeug
   owner_avatar: https://avatars.githubusercontent.com/u/2843826?v=4
   owner_url: https://github.com/zauberzeug
@@ -312,7 +312,7 @@
   archived: false
   disabled: false
   created_at: '2021-05-07T13:55:05Z'
-  updated_at: '2026-05-02T05:49:44Z'
+  updated_at: '2026-05-02T10:11:02Z'
   size: 108885
   visibility: public
   has_issues: true
@@ -323,14 +323,14 @@
 - id: 1162099055
   name: Leonxlnx/taste-skill
   url: https://github.com/Leonxlnx/taste-skill
-  stars: 14437
+  stars: 14438
   pushed_at: '2026-04-30T15:21:38Z'
   description: 'Taste-Skill - gives your AI good taste. stops the AI from generating
     boring, generic slop '
   language: Shell
   forks: 1262
   open_issues: 10
-  watchers: 14437
+  watchers: 14438
   owner_login: Leonxlnx
   owner_avatar: https://avatars.githubusercontent.com/u/219127460?v=4
   owner_url: https://github.com/Leonxlnx
@@ -354,7 +354,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-19T21:44:05Z'
-  updated_at: '2026-05-02T10:06:00Z'
+  updated_at: '2026-05-02T10:10:47Z'
   size: 2675
   visibility: public
   has_issues: true
@@ -452,7 +452,7 @@
   name: webstudio-is/webstudio
   url: https://github.com/webstudio-is/webstudio
   stars: 8505
-  pushed_at: '2026-05-02T10:07:40Z'
+  pushed_at: '2026-05-02T10:11:36Z'
   description: Open source website builder and Webflow alternative. Webstudio is an
     advanced visual builder that connects to any headless CMS, supports all CSS properties,
     and can be hosted anywhere, including with us.
