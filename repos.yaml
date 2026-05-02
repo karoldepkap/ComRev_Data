@@ -1,13 +1,13 @@
 - id: 10270250
   name: facebook/react
   url: https://github.com/facebook/react
-  stars: 244798
+  stars: 244800
   pushed_at: '2026-05-02T08:50:41Z'
   description: The library for web and native user interfaces.
   language: JavaScript
   forks: 51046
   open_issues: 1264
-  watchers: 244798
+  watchers: 244800
   owner_login: facebook
   owner_avatar: https://avatars.githubusercontent.com/u/69631?v=4
   owner_url: https://github.com/facebook
@@ -24,7 +24,7 @@
   archived: false
   disabled: false
   created_at: '2013-05-24T16:15:54Z'
-  updated_at: '2026-05-02T10:29:35Z'
+  updated_at: '2026-05-02T11:23:11Z'
   size: 968010
   visibility: public
   has_issues: true
@@ -35,13 +35,13 @@
 - id: 257485422
   name: vitejs/vite
   url: https://github.com/vitejs/vite
-  stars: 80345
+  stars: 80346
   pushed_at: '2026-05-01T17:58:11Z'
   description: Next generation frontend tooling. It's fast!
   language: TypeScript
   forks: 8119
   open_issues: 742
-  watchers: 80345
+  watchers: 80346
   owner_login: vitejs
   owner_avatar: https://avatars.githubusercontent.com/u/65625612?v=4
   owner_url: https://github.com/vitejs
@@ -57,7 +57,7 @@
   archived: false
   disabled: false
   created_at: '2020-04-21T05:03:57Z'
-  updated_at: '2026-05-02T10:34:13Z'
+  updated_at: '2026-05-02T11:18:50Z'
   size: 68919
   visibility: public
   has_issues: true
@@ -116,12 +116,12 @@
   name: expo/expo
   url: https://github.com/expo/expo
   stars: 49149
-  pushed_at: '2026-05-02T11:06:06Z'
+  pushed_at: '2026-05-02T11:28:17Z'
   description: An open-source framework for making universal native apps with React.
     Expo runs on Android, iOS, and the web.
   language: TypeScript
-  forks: 12030
-  open_issues: 896
+  forks: 12031
+  open_issues: 897
   watchers: 49149
   owner_login: expo
   owner_avatar: https://avatars.githubusercontent.com/u/12504344?v=4
@@ -323,14 +323,14 @@
 - id: 1162099055
   name: Leonxlnx/taste-skill
   url: https://github.com/Leonxlnx/taste-skill
-  stars: 14452
+  stars: 14453
   pushed_at: '2026-04-30T15:21:38Z'
   description: 'Taste-Skill - gives your AI good taste. stops the AI from generating
     boring, generic slop '
   language: Shell
   forks: 1262
   open_issues: 10
-  watchers: 14452
+  watchers: 14453
   owner_login: Leonxlnx
   owner_avatar: https://avatars.githubusercontent.com/u/219127460?v=4
   owner_url: https://github.com/Leonxlnx
@@ -354,7 +354,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-19T21:44:05Z'
-  updated_at: '2026-05-02T11:10:13Z'
+  updated_at: '2026-05-02T11:27:32Z'
   size: 2675
   visibility: public
   has_issues: true
