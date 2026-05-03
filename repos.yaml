@@ -1,14 +1,14 @@
 - id: 28457823
   name: freeCodeCamp/freeCodeCamp
   url: https://github.com/freeCodeCamp/freeCodeCamp
-  stars: 444049
+  stars: 444051
   pushed_at: '2026-05-03T04:57:42Z'
   description: freeCodeCamp.org's open-source codebase and curriculum. Learn math,
     programming, and computer science for free.
   language: TypeScript
   forks: 44449
   open_issues: 189
-  watchers: 444049
+  watchers: 444051
   owner_login: freeCodeCamp
   owner_avatar: https://avatars.githubusercontent.com/u/9892522?v=4
   owner_url: https://github.com/freeCodeCamp
@@ -34,7 +34,7 @@
   archived: false
   disabled: false
   created_at: '2014-12-24T17:49:19Z'
-  updated_at: '2026-05-03T06:39:15Z'
+  updated_at: '2026-05-03T07:30:35Z'
   size: 571018
   visibility: public
   has_issues: true
@@ -45,13 +45,13 @@
 - id: 54346799
   name: public-apis/public-apis
   url: https://github.com/public-apis/public-apis
-  stars: 430221
+  stars: 430228
   pushed_at: '2026-05-02T11:14:19Z'
   description: A collective list of free APIs
   language: Python
-  forks: 46964
+  forks: 46965
   open_issues: 1314
-  watchers: 430221
+  watchers: 430228
   owner_login: public-apis
   owner_avatar: https://avatars.githubusercontent.com/u/51121562?v=4
   owner_url: https://github.com/public-apis
@@ -75,7 +75,7 @@
   archived: false
   disabled: false
   created_at: '2016-03-20T23:49:42Z'
-  updated_at: '2026-05-03T06:54:55Z'
+  updated_at: '2026-05-03T07:30:14Z'
   size: 5006
   visibility: public
   has_issues: true
@@ -86,14 +86,14 @@
 - id: 1103012935
   name: openclaw/openclaw
   url: https://github.com/openclaw/openclaw
-  stars: 367647
-  pushed_at: '2026-05-03T06:59:36Z'
+  stars: 367654
+  pushed_at: '2026-05-03T07:29:16Z'
   description: 'Your own personal AI assistant. Any OS. Any Platform. The lobster
     way. 🦞 '
   language: TypeScript
-  forks: 75641
-  open_issues: 6676
-  watchers: 367647
+  forks: 75643
+  open_issues: 6670
+  watchers: 367654
   owner_login: openclaw
   owner_avatar: https://avatars.githubusercontent.com/u/252820863?v=4
   owner_url: https://github.com/openclaw
@@ -111,7 +111,7 @@
   archived: false
   disabled: false
   created_at: '2025-11-24T10:16:47Z'
-  updated_at: '2026-05-03T07:00:58Z'
+  updated_at: '2026-05-03T07:30:24Z'
   size: 805938
   visibility: public
   has_issues: true
@@ -122,13 +122,13 @@
 - id: 21289110
   name: vinta/awesome-python
   url: https://github.com/vinta/awesome-python
-  stars: 295695
+  stars: 295697
   pushed_at: '2026-05-03T04:38:14Z'
   description: An opinionated list of Python frameworks, libraries, tools, and resources
   language: Python
   forks: 27803
   open_issues: 20
-  watchers: 295695
+  watchers: 295697
   owner_login: vinta
   owner_avatar: https://avatars.githubusercontent.com/u/652070?v=4
   owner_url: https://github.com/vinta
@@ -145,7 +145,7 @@
   archived: false
   disabled: false
   created_at: '2014-06-27T21:00:06Z'
-  updated_at: '2026-05-03T06:48:39Z'
+  updated_at: '2026-05-03T07:20:35Z'
   size: 5436
   visibility: public
   has_issues: false
@@ -156,13 +156,13 @@
 - id: 10270250
   name: facebook/react
   url: https://github.com/facebook/react
-  stars: 244809
+  stars: 244811
   pushed_at: '2026-05-02T08:50:41Z'
   description: The library for web and native user interfaces.
   language: JavaScript
   forks: 51054
   open_issues: 1267
-  watchers: 244809
+  watchers: 244811
   owner_login: facebook
   owner_avatar: https://avatars.githubusercontent.com/u/69631?v=4
   owner_url: https://github.com/facebook
@@ -179,7 +179,7 @@
   archived: false
   disabled: false
   created_at: '2013-05-24T16:15:54Z'
-  updated_at: '2026-05-03T06:57:43Z'
+  updated_at: '2026-05-03T07:11:30Z'
   size: 968010
   visibility: public
   has_issues: true
@@ -191,7 +191,7 @@
   name: tensorflow/tensorflow
   url: https://github.com/tensorflow/tensorflow
   stars: 194977
-  pushed_at: '2026-05-03T06:41:04Z'
+  pushed_at: '2026-05-03T07:21:02Z'
   description: An Open Source Machine Learning Framework for Everyone
   language: C++
   forks: 75330
@@ -226,14 +226,14 @@
 - id: 193215554
   name: n8n-io/n8n
   url: https://github.com/n8n-io/n8n
-  stars: 186508
-  pushed_at: '2026-05-02T21:39:04Z'
+  stars: 186510
+  pushed_at: '2026-05-03T07:26:12Z'
   description: Fair-code workflow automation platform with native AI capabilities.
     Combine visual building with custom code, self-host or cloud, 400+ integrations.
   language: TypeScript
   forks: 57297
   open_issues: 1578
-  watchers: 186508
+  watchers: 186510
   owner_login: n8n-io
   owner_avatar: https://avatars.githubusercontent.com/u/45487711?v=4
   owner_url: https://github.com/n8n-io
@@ -264,7 +264,7 @@
   archived: false
   disabled: false
   created_at: '2019-06-22T09:24:21Z'
-  updated_at: '2026-05-03T06:58:46Z'
+  updated_at: '2026-05-03T07:17:10Z'
   size: 487899
   visibility: public
   has_issues: true
@@ -275,13 +275,13 @@
 - id: 41881900
   name: microsoft/vscode
   url: https://github.com/microsoft/vscode
-  stars: 184496
+  stars: 184497
   pushed_at: '2026-05-03T06:58:49Z'
   description: Visual Studio Code
   language: TypeScript
-  forks: 39648
+  forks: 39649
   open_issues: 16989
-  watchers: 184496
+  watchers: 184497
   owner_login: microsoft
   owner_avatar: https://avatars.githubusercontent.com/u/6154722?v=4
   owner_url: https://github.com/microsoft
@@ -297,8 +297,8 @@
   archived: false
   disabled: false
   created_at: '2015-09-03T20:23:38Z'
-  updated_at: '2026-05-03T06:34:28Z'
-  size: 1244365
+  updated_at: '2026-05-03T07:05:59Z'
+  size: 1244380
   visibility: public
   has_issues: true
   has_projects: true
@@ -337,7 +337,7 @@
   archived: false
   disabled: false
   created_at: '2023-03-16T09:21:07Z'
-  updated_at: '2026-05-03T06:36:15Z'
+  updated_at: '2026-05-03T07:19:42Z'
   size: 556630
   visibility: public
   has_issues: true
@@ -353,7 +353,7 @@
   description: Flutter makes it easy and fast to build beautiful apps for mobile and
     beyond
   language: Dart
-  forks: 30311
+  forks: 30309
   open_issues: 12567
   watchers: 176150
   owner_login: flutter
@@ -432,15 +432,15 @@
 - id: 1136590548
   name: affaan-m/everything-claude-code
   url: https://github.com/affaan-m/everything-claude-code
-  stars: 172239
+  stars: 172255
   pushed_at: '2026-05-03T04:53:48Z'
   description: The agent harness performance optimization system. Skills, instincts,
     memory, security, and research-first development for Claude Code, Codex, Opencode,
     Cursor and beyond.
   language: JavaScript
-  forks: 26695
+  forks: 26699
   open_issues: 156
-  watchers: 172239
+  watchers: 172255
   owner_login: affaan-m
   owner_avatar: https://avatars.githubusercontent.com/u/124439313?v=4
   owner_url: https://github.com/affaan-m
@@ -459,7 +459,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-18T00:51:51Z'
-  updated_at: '2026-05-03T06:59:25Z'
+  updated_at: '2026-05-03T07:20:20Z'
   size: 31473
   visibility: public
   has_issues: true
@@ -470,13 +470,13 @@
 - id: 21540759
   name: avelino/awesome-go
   url: https://github.com/avelino/awesome-go
-  stars: 171668
+  stars: 171670
   pushed_at: '2026-05-01T09:50:19Z'
   description: A curated list of awesome Go frameworks, libraries and software
   language: Go
   forks: 13183
   open_issues: 183
-  watchers: 171668
+  watchers: 171670
   owner_login: avelino
   owner_avatar: https://avatars.githubusercontent.com/u/31996?v=4
   owner_url: https://github.com/avelino
@@ -493,7 +493,7 @@
   archived: false
   disabled: false
   created_at: '2014-07-06T13:42:15Z'
-  updated_at: '2026-05-03T06:28:33Z'
+  updated_at: '2026-05-03T07:19:18Z'
   size: 11156
   visibility: public
   has_issues: true
@@ -504,14 +504,14 @@
 - id: 658928958
   name: ollama/ollama
   url: https://github.com/ollama/ollama
-  stars: 170588
+  stars: 170592
   pushed_at: '2026-05-03T03:46:36Z'
   description: Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss,
     Qwen, Gemma and other models.
   language: Go
   forks: 15947
   open_issues: 3148
-  watchers: 170588
+  watchers: 170592
   owner_login: ollama
   owner_avatar: https://avatars.githubusercontent.com/u/151674099?v=4
   owner_url: https://github.com/ollama
@@ -537,7 +537,7 @@
   archived: false
   disabled: false
   created_at: '2023-06-26T19:39:32Z'
-  updated_at: '2026-05-03T06:56:23Z'
+  updated_at: '2026-05-03T07:28:16Z'
   size: 81759
   visibility: public
   has_issues: true
@@ -548,15 +548,15 @@
 - id: 574523116
   name: f/prompts.chat
   url: https://github.com/f/prompts.chat
-  stars: 161412
+  stars: 161415
   pushed_at: '2026-05-03T04:22:48Z'
   description: f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts
     from the community. Free and open source — self-host for your organization with
     complete privacy.
   language: HTML
-  forks: 21063
+  forks: 21065
   open_issues: 44
-  watchers: 161412
+  watchers: 161415
   owner_login: f
   owner_avatar: https://avatars.githubusercontent.com/u/196477?v=4
   owner_url: https://github.com/f
@@ -585,7 +585,7 @@
   archived: false
   disabled: false
   created_at: '2022-12-05T13:54:13Z'
-  updated_at: '2026-05-03T06:56:37Z'
+  updated_at: '2026-05-03T07:30:55Z'
   size: 332814
   visibility: public
   has_issues: true
@@ -603,7 +603,7 @@
     inference and training. '
   language: Python
   forks: 33094
-  open_issues: 2344
+  open_issues: 2345
   watchers: 160193
   owner_login: huggingface
   owner_avatar: https://avatars.githubusercontent.com/u/25720743?v=4
@@ -645,14 +645,14 @@
 - id: 599320067
   name: langflow-ai/langflow
   url: https://github.com/langflow-ai/langflow
-  stars: 147641
+  stars: 147643
   pushed_at: '2026-05-03T01:49:31Z'
   description: Langflow is a powerful tool for building and deploying AI-powered agents
     and workflows.
   language: Python
   forks: 8899
   open_issues: 948
-  watchers: 147641
+  watchers: 147643
   owner_login: langflow-ai
   owner_avatar: https://avatars.githubusercontent.com/u/85702467?v=4
   owner_url: https://github.com/langflow-ai
@@ -669,7 +669,7 @@
   archived: false
   disabled: false
   created_at: '2023-02-08T22:28:03Z'
-  updated_at: '2026-05-03T06:05:36Z'
+  updated_at: '2026-05-03T07:29:11Z'
   size: 1253946
   visibility: public
   has_issues: true
@@ -680,13 +680,13 @@
 - id: 626805178
   name: langgenius/dify
   url: https://github.com/langgenius/dify
-  stars: 139915
+  stars: 139919
   pushed_at: '2026-05-02T17:58:20Z'
   description: Production-ready platform for agentic workflow development.
   language: TypeScript
-  forks: 21948
+  forks: 21949
   open_issues: 798
-  watchers: 139915
+  watchers: 139919
   owner_login: langgenius
   owner_avatar: https://avatars.githubusercontent.com/u/127165244?v=4
   owner_url: https://github.com/langgenius
@@ -717,7 +717,7 @@
   archived: false
   disabled: false
   created_at: '2023-04-12T07:40:24Z'
-  updated_at: '2026-05-03T06:55:46Z'
+  updated_at: '2026-05-03T07:29:17Z'
   size: 357589
   visibility: public
   has_issues: true
@@ -728,13 +728,13 @@
 - id: 70107786
   name: vercel/next.js
   url: https://github.com/vercel/next.js
-  stars: 139258
+  stars: 139259
   pushed_at: '2026-05-02T23:31:23Z'
   description: The React Framework
   language: JavaScript
   forks: 30995
   open_issues: 3859
-  watchers: 139258
+  watchers: 139259
   owner_login: vercel
   owner_avatar: https://avatars.githubusercontent.com/u/14985020?v=4
   owner_url: https://github.com/vercel
@@ -759,7 +759,7 @@
   archived: false
   disabled: false
   created_at: '2016-10-05T23:32:51Z'
-  updated_at: '2026-05-03T06:24:17Z'
+  updated_at: '2026-05-03T07:24:13Z'
   size: 2554026
   visibility: public
   has_issues: true
@@ -806,7 +806,7 @@
   archived: false
   disabled: false
   created_at: '2022-10-17T02:58:36Z'
-  updated_at: '2026-05-03T06:52:21Z'
+  updated_at: '2026-05-03T07:10:39Z'
   size: 549149
   visibility: public
   has_issues: true
@@ -817,13 +817,13 @@
 - id: 23096959
   name: golang/go
   url: https://github.com/golang/go
-  stars: 133714
+  stars: 133716
   pushed_at: '2026-05-03T03:33:45Z'
   description: The Go programming language
   language: Go
   forks: 19024
   open_issues: 10073
-  watchers: 133714
+  watchers: 133716
   owner_login: golang
   owner_avatar: https://avatars.githubusercontent.com/u/4314092?v=4
   owner_url: https://github.com/golang
@@ -838,7 +838,7 @@
   archived: false
   disabled: false
   created_at: '2014-08-19T04:33:40Z'
-  updated_at: '2026-05-03T06:44:54Z'
+  updated_at: '2026-05-03T07:28:22Z'
   size: 434530
   visibility: public
   has_issues: true
@@ -849,13 +849,13 @@
 - id: 1024554267
   name: NousResearch/hermes-agent
   url: https://github.com/NousResearch/hermes-agent
-  stars: 130129
-  pushed_at: '2026-05-02T10:38:03Z'
+  stars: 130152
+  pushed_at: '2026-05-03T07:32:56Z'
   description: The agent that grows with you
   language: Python
-  forks: 19677
-  open_issues: 7966
-  watchers: 130129
+  forks: 19683
+  open_issues: 7971
+  watchers: 130152
   owner_login: NousResearch
   owner_avatar: https://avatars.githubusercontent.com/u/134168893?v=4
   owner_url: https://github.com/NousResearch
@@ -882,7 +882,7 @@
   archived: false
   disabled: false
   created_at: '2025-07-22T22:22:28Z'
-  updated_at: '2026-05-03T07:01:45Z'
+  updated_at: '2026-05-03T07:32:24Z'
   size: 172977
   visibility: public
   has_issues: true
@@ -929,13 +929,13 @@
 - id: 20580498
   name: kubernetes/kubernetes
   url: https://github.com/kubernetes/kubernetes
-  stars: 122032
+  stars: 122033
   pushed_at: '2026-05-02T23:51:23Z'
   description: Production-Grade Container Scheduling and Management
   language: Go
   forks: 43012
   open_issues: 2705
-  watchers: 122032
+  watchers: 122033
   owner_login: kubernetes
   owner_avatar: https://avatars.githubusercontent.com/u/13629408?v=4
   owner_url: https://github.com/kubernetes
@@ -950,7 +950,7 @@
   archived: false
   disabled: false
   created_at: '2014-06-06T22:56:04Z'
-  updated_at: '2026-05-03T06:07:38Z'
+  updated_at: '2026-05-03T07:24:26Z'
   size: 1466854
   visibility: public
   has_issues: true
@@ -992,14 +992,14 @@
 - id: 9384267
   name: electron/electron
   url: https://github.com/electron/electron
-  stars: 121112
+  stars: 121113
   pushed_at: '2026-05-02T22:23:15Z'
   description: ':electron: Build cross-platform desktop apps with JavaScript, HTML,
     and CSS'
   language: C++
   forks: 17162
   open_issues: 864
-  watchers: 121112
+  watchers: 121113
   owner_login: electron
   owner_avatar: https://avatars.githubusercontent.com/u/13409222?v=4
   owner_url: https://github.com/electron
@@ -1019,7 +1019,7 @@
   archived: false
   disabled: false
   created_at: '2013-04-12T01:47:36Z'
-  updated_at: '2026-05-03T04:43:31Z'
+  updated_at: '2026-05-03T07:23:31Z'
   size: 200206
   visibility: public
   has_issues: true
@@ -1034,7 +1034,7 @@
   pushed_at: '2026-05-03T03:04:40Z'
   description: Node.js JavaScript runtime ✨🐢🚀✨
   language: JavaScript
-  forks: 35531
+  forks: 35532
   open_issues: 2664
   watchers: 117017
   owner_login: nodejs
@@ -1067,13 +1067,13 @@
 - id: 787076358
   name: firecrawl/firecrawl
   url: https://github.com/firecrawl/firecrawl
-  stars: 114375
+  stars: 114381
   pushed_at: '2026-05-03T06:58:55Z'
   description: 🔥 The API to search, scrape, and interact with the web for AI
   language: TypeScript
   forks: 7231
   open_issues: 304
-  watchers: 114375
+  watchers: 114381
   owner_login: firecrawl
   owner_avatar: https://avatars.githubusercontent.com/u/135057108?v=4
   owner_url: https://github.com/firecrawl
@@ -1103,7 +1103,7 @@
   archived: false
   disabled: false
   created_at: '2024-04-15T21:02:29Z'
-  updated_at: '2026-05-03T06:53:26Z'
+  updated_at: '2026-05-03T07:26:21Z'
   size: 87570
   visibility: public
   has_issues: true
@@ -1114,14 +1114,14 @@
 - id: 299354207
   name: rustdesk/rustdesk
   url: https://github.com/rustdesk/rustdesk
-  stars: 113375
+  stars: 113378
   pushed_at: '2026-05-03T03:37:12Z'
   description: An open-source remote desktop application designed for self-hosting,
     as an alternative to TeamViewer.
   language: Rust
   forks: 17015
   open_issues: 121
-  watchers: 113375
+  watchers: 113378
   owner_login: rustdesk
   owner_avatar: https://avatars.githubusercontent.com/u/71636191?v=4
   owner_url: https://github.com/rustdesk
@@ -1151,7 +1151,7 @@
   archived: false
   disabled: false
   created_at: '2020-09-28T15:36:08Z'
-  updated_at: '2026-05-03T06:49:57Z'
+  updated_at: '2026-05-03T07:25:01Z'
   size: 71338
   visibility: public
   has_issues: true
@@ -1162,13 +1162,13 @@
 - id: 724712
   name: rust-lang/rust
   url: https://github.com/rust-lang/rust
-  stars: 112490
+  stars: 112492
   pushed_at: '2026-05-03T06:40:28Z'
   description: Empowering everyone to build reliable and efficient software.
   language: Rust
-  forks: 14903
-  open_issues: 12313
-  watchers: 112490
+  forks: 14904
+  open_issues: 12314
+  watchers: 112492
   owner_login: rust-lang
   owner_avatar: https://avatars.githubusercontent.com/u/5430905?v=4
   owner_url: https://github.com/rust-lang
@@ -1182,7 +1182,7 @@
   archived: false
   disabled: false
   created_at: '2010-06-16T20:39:03Z'
-  updated_at: '2026-05-03T06:39:56Z'
+  updated_at: '2026-05-03T07:29:24Z'
   size: 891721
   visibility: public
   has_issues: true
@@ -1233,14 +1233,14 @@
 - id: 589831718
   name: Comfy-Org/ComfyUI
   url: https://github.com/Comfy-Org/ComfyUI
-  stars: 111115
+  stars: 111119
   pushed_at: '2026-05-03T06:53:13Z'
   description: The most powerful and modular diffusion model GUI, api and backend
     with a graph/nodes interface.
   language: Python
-  forks: 12967
-  open_issues: 4017
-  watchers: 111115
+  forks: 12968
+  open_issues: 4016
+  watchers: 111119
   owner_login: Comfy-Org
   owner_avatar: https://avatars.githubusercontent.com/u/166579949?v=4
   owner_url: https://github.com/Comfy-Org
@@ -1257,7 +1257,7 @@
   archived: false
   disabled: false
   created_at: '2023-01-17T03:15:56Z'
-  updated_at: '2026-05-03T06:57:15Z'
+  updated_at: '2026-05-03T07:25:34Z'
   size: 87744
   visibility: public
   has_issues: true
@@ -1272,7 +1272,7 @@
   pushed_at: '2026-05-02T16:27:31Z'
   description: Promise based HTTP client for the browser and node.js
   language: JavaScript
-  forks: 11661
+  forks: 11662
   open_issues: 165
   watchers: 109040
   owner_login: axios
@@ -1301,13 +1301,13 @@
 - id: 793375104
   name: Shubhamsaboo/awesome-llm-apps
   url: https://github.com/Shubhamsaboo/awesome-llm-apps
-  stars: 108474
-  pushed_at: '2026-05-03T06:48:11Z'
+  stars: 108479
+  pushed_at: '2026-05-03T07:06:26Z'
   description: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
   language: Python
-  forks: 16004
+  forks: 16005
   open_issues: 2
-  watchers: 108474
+  watchers: 108479
   owner_login: Shubhamsaboo
   owner_avatar: https://avatars.githubusercontent.com/u/31396011?v=4
   owner_url: https://github.com/Shubhamsaboo
@@ -1322,7 +1322,7 @@
   archived: false
   disabled: false
   created_at: '2024-04-29T05:30:25Z'
-  updated_at: '2026-05-03T06:58:33Z'
+  updated_at: '2026-05-03T07:28:14Z'
   size: 204211
   visibility: public
   has_issues: true
@@ -1338,7 +1338,7 @@
   description: A modern runtime for JavaScript and TypeScript.
   language: Rust
   forks: 6040
-  open_issues: 2287
+  open_issues: 2288
   watchers: 106603
   owner_login: denoland
   owner_avatar: https://avatars.githubusercontent.com/u/42048915?v=4
@@ -1365,14 +1365,14 @@
 - id: 196701619
   name: tauri-apps/tauri
   url: https://github.com/tauri-apps/tauri
-  stars: 106140
+  stars: 106141
   pushed_at: '2026-05-02T08:21:12Z'
   description: Build smaller, faster, and more secure desktop and mobile applications
     with a web frontend.
   language: Rust
-  forks: 3566
-  open_issues: 1404
-  watchers: 106140
+  forks: 3565
+  open_issues: 1405
+  watchers: 106141
   owner_login: tauri-apps
   owner_avatar: https://avatars.githubusercontent.com/u/54536011?v=4
   owner_url: https://github.com/tauri-apps
@@ -1390,7 +1390,7 @@
   archived: false
   disabled: false
   created_at: '2019-07-13T09:09:37Z'
-  updated_at: '2026-05-03T06:54:01Z'
+  updated_at: '2026-05-03T07:26:20Z'
   size: 103684
   visibility: public
   has_issues: true
@@ -1408,7 +1408,7 @@
     use.
   language: Swift
   forks: 7691
-  open_issues: 268
+  open_issues: 269
   watchers: 103220
   owner_login: jaywcjlove
   owner_avatar: https://avatars.githubusercontent.com/u/1680273?v=4
@@ -1450,14 +1450,14 @@
 - id: 968197216
   name: google-gemini/gemini-cli
   url: https://github.com/google-gemini/gemini-cli
-  stars: 102996
+  stars: 102998
   pushed_at: '2026-05-02T02:10:41Z'
   description: An open-source AI agent that brings the power of Gemini directly into
     your terminal.
   language: TypeScript
   forks: 13469
   open_issues: 2722
-  watchers: 102996
+  watchers: 102998
   owner_login: google-gemini
   owner_avatar: https://avatars.githubusercontent.com/u/161781182?v=4
   owner_url: https://github.com/google-gemini
@@ -1475,7 +1475,7 @@
   archived: false
   disabled: false
   created_at: '2025-04-17T17:04:31Z'
-  updated_at: '2026-05-03T06:47:08Z'
+  updated_at: '2026-05-03T07:22:05Z'
   size: 93478
   visibility: public
   has_issues: true
@@ -1486,14 +1486,14 @@
 - id: 214587193
   name: supabase/supabase
   url: https://github.com/supabase/supabase
-  stars: 101775
+  stars: 101777
   pushed_at: '2026-05-03T00:50:25Z'
   description: The Postgres development platform. Supabase gives you a dedicated Postgres
     database to build your web, mobile, and AI applications.
   language: TypeScript
-  forks: 12261
+  forks: 12262
   open_issues: 983
-  watchers: 101775
+  watchers: 101777
   owner_login: supabase
   owner_avatar: https://avatars.githubusercontent.com/u/54469796?v=4
   owner_url: https://github.com/supabase
@@ -1523,7 +1523,7 @@
   archived: false
   disabled: false
   created_at: '2019-10-12T05:56:49Z'
-  updated_at: '2026-05-03T06:41:37Z'
+  updated_at: '2026-05-03T07:26:46Z'
   size: 2351261
   visibility: public
   has_issues: true
@@ -1570,7 +1570,7 @@
   name: pytorch/pytorch
   url: https://github.com/pytorch/pytorch
   stars: 99593
-  pushed_at: '2026-05-03T06:51:32Z'
+  pushed_at: '2026-05-03T07:20:23Z'
   description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
   language: Python
   forks: 27643
@@ -1594,7 +1594,7 @@
   archived: false
   disabled: false
   created_at: '2016-08-13T05:26:41Z'
-  updated_at: '2026-05-03T06:51:44Z'
+  updated_at: '2026-05-03T07:18:54Z'
   size: 1314761
   visibility: public
   has_issues: true
@@ -1605,13 +1605,13 @@
 - id: 455229168
   name: immich-app/immich
   url: https://github.com/immich-app/immich
-  stars: 99554
+  stars: 99558
   pushed_at: '2026-05-03T06:09:58Z'
   description: High performance self-hosted photo and video management solution.
   language: TypeScript
   forks: 5529
   open_issues: 691
-  watchers: 99554
+  watchers: 99558
   owner_login: immich-app
   owner_avatar: https://avatars.githubusercontent.com/u/109746326?v=4
   owner_url: https://github.com/immich-app
@@ -1638,8 +1638,8 @@
   archived: false
   disabled: false
   created_at: '2022-02-03T15:56:27Z'
-  updated_at: '2026-05-03T06:47:52Z'
-  size: 285345
+  updated_at: '2026-05-03T07:28:36Z'
+  size: 285337
   visibility: public
   has_issues: true
   has_projects: true
@@ -1654,7 +1654,7 @@
   description: Vim-fork focused on extensibility and usability
   language: Vim Script
   forks: 6863
-  open_issues: 1936
+  open_issues: 1937
   watchers: 99288
   owner_login: neovim
   owner_avatar: https://avatars.githubusercontent.com/u/6471485?v=4
@@ -1673,8 +1673,8 @@
   archived: false
   disabled: false
   created_at: '2014-01-31T13:39:22Z'
-  updated_at: '2026-05-03T06:49:13Z'
-  size: 380423
+  updated_at: '2026-05-03T07:30:03Z'
+  size: 380399
   visibility: public
   has_issues: true
   has_projects: true
@@ -1684,14 +1684,14 @@
 - id: 23083156
   name: mui/material-ui
   url: https://github.com/mui/material-ui
-  stars: 98264
+  stars: 98265
   pushed_at: '2026-05-03T01:31:24Z'
   description: 'Material UI: Comprehensive React component library that implements
     Google''s Material Design. Free forever.'
   language: JavaScript
-  forks: 32654
+  forks: 32655
   open_issues: 1553
-  watchers: 98264
+  watchers: 98265
   owner_login: mui
   owner_avatar: https://avatars.githubusercontent.com/u/33663932?v=4
   owner_url: https://github.com/mui
@@ -1707,7 +1707,7 @@
   archived: false
   disabled: false
   created_at: '2014-08-18T19:11:54Z'
-  updated_at: '2026-05-03T06:50:20Z'
+  updated_at: '2026-05-03T07:28:35Z'
   size: 736463
   visibility: public
   has_issues: true
@@ -1718,13 +1718,13 @@
 - id: 34526884
   name: ant-design/ant-design
   url: https://github.com/ant-design/ant-design
-  stars: 97916
-  pushed_at: '2026-05-03T03:20:13Z'
+  stars: 97917
+  pushed_at: '2026-05-03T07:18:15Z'
   description: An enterprise-class UI design language and React UI library
   language: TypeScript
   forks: 54590
-  open_issues: 1363
-  watchers: 97916
+  open_issues: 1364
+  watchers: 97917
   owner_login: ant-design
   owner_avatar: https://avatars.githubusercontent.com/u/12101536?v=4
   owner_url: https://github.com/ant-design
@@ -1742,7 +1742,7 @@
   archived: false
   disabled: false
   created_at: '2015-04-24T15:37:24Z'
-  updated_at: '2026-05-03T06:49:27Z'
+  updated_at: '2026-05-03T07:05:27Z'
   size: 259106
   visibility: public
   has_issues: true
@@ -1874,13 +1874,13 @@
 - id: 1042367133
   name: github/spec-kit
   url: https://github.com/github/spec-kit
-  stars: 92221
+  stars: 92222
   pushed_at: '2026-05-01T21:18:19Z'
   description: 💫 Toolkit to help you get started with Spec-Driven Development
   language: Python
   forks: 7988
   open_issues: 650
-  watchers: 92221
+  watchers: 92222
   owner_login: github
   owner_avatar: https://avatars.githubusercontent.com/u/9919?v=4
   owner_url: https://github.com/github
@@ -1898,7 +1898,7 @@
   archived: false
   disabled: false
   created_at: '2025-08-21T22:54:31Z'
-  updated_at: '2026-05-03T06:56:50Z'
+  updated_at: '2026-05-03T07:03:37Z'
   size: 7660
   visibility: public
   has_issues: true
@@ -1909,14 +1909,14 @@
 - id: 881458615
   name: browser-use/browser-use
   url: https://github.com/browser-use/browser-use
-  stars: 91762
+  stars: 91763
   pushed_at: '2026-05-03T02:02:20Z'
   description: 🌐 Make websites accessible for AI agents. Automate tasks online with
     ease.
   language: Python
   forks: 10437
   open_issues: 236
-  watchers: 91762
+  watchers: 91763
   owner_login: browser-use
   owner_avatar: https://avatars.githubusercontent.com/u/192012301?v=4
   owner_url: https://github.com/browser-use
@@ -1934,7 +1934,7 @@
   archived: false
   disabled: false
   created_at: '2024-10-31T16:00:56Z'
-  updated_at: '2026-05-03T06:30:49Z'
+  updated_at: '2026-05-03T07:17:07Z'
   size: 31091
   visibility: public
   has_issues: true
@@ -1995,12 +1995,12 @@
   name: oven-sh/bun
   url: https://github.com/oven-sh/bun
   stars: 89519
-  pushed_at: '2026-05-03T06:55:28Z'
+  pushed_at: '2026-05-03T07:23:08Z'
   description: Incredibly fast JavaScript runtime, bundler, test runner, and package
     manager – all in one
   language: Zig
   forks: 4383
-  open_issues: 6710
+  open_issues: 6711
   watchers: 89519
   owner_login: oven-sh
   owner_avatar: https://avatars.githubusercontent.com/u/108928776?v=4
@@ -2070,14 +2070,14 @@
 - id: 221981891
   name: microsoft/playwright
   url: https://github.com/microsoft/playwright
-  stars: 87846
+  stars: 87847
   pushed_at: '2026-05-01T23:08:43Z'
   description: 'Playwright is a framework for Web Testing and Automation. It allows
     testing Chromium, Firefox and WebKit with a single API. '
   language: TypeScript
   forks: 5612
   open_issues: 527
-  watchers: 87846
+  watchers: 87847
   owner_login: microsoft
   owner_avatar: https://avatars.githubusercontent.com/u/6154722?v=4
   owner_url: https://github.com/microsoft
@@ -2103,7 +2103,7 @@
   archived: false
   disabled: false
   created_at: '2019-11-15T18:32:42Z'
-  updated_at: '2026-05-03T06:32:02Z'
+  updated_at: '2026-05-03T07:16:22Z'
   size: 234665
   visibility: public
   has_issues: true
@@ -2225,13 +2225,13 @@
 - id: 74293321
   name: sveltejs/svelte
   url: https://github.com/sveltejs/svelte
-  stars: 86459
+  stars: 86460
   pushed_at: '2026-05-01T21:58:47Z'
   description: web development for the rest of us
   language: JavaScript
-  forks: 4899
+  forks: 4900
   open_issues: 997
-  watchers: 86459
+  watchers: 86460
   owner_login: sveltejs
   owner_avatar: https://avatars.githubusercontent.com/u/23617963?v=4
   owner_url: https://github.com/sveltejs
@@ -2245,7 +2245,7 @@
   archived: false
   disabled: false
   created_at: '2016-11-20T18:13:05Z'
-  updated_at: '2026-05-03T04:45:16Z'
+  updated_at: '2026-05-03T07:06:10Z'
   size: 120449
   visibility: public
   has_issues: true
@@ -2296,13 +2296,13 @@
 - id: 896335270
   name: punkpeye/awesome-mcp-servers
   url: https://github.com/punkpeye/awesome-mcp-servers
-  stars: 86134
+  stars: 86136
   pushed_at: '2026-05-02T16:08:17Z'
   description: A collection of MCP servers.
   language: null
   forks: 9739
   open_issues: 855
-  watchers: 86134
+  watchers: 86136
   owner_login: punkpeye
   owner_avatar: https://avatars.githubusercontent.com/u/108313943?v=4
   owner_url: https://github.com/punkpeye
@@ -2315,7 +2315,7 @@
   archived: false
   disabled: false
   created_at: '2024-11-30T04:49:10Z'
-  updated_at: '2026-05-03T06:55:25Z'
+  updated_at: '2026-05-03T07:31:37Z'
   size: 23987
   visibility: public
   has_issues: true
@@ -2358,13 +2358,13 @@
 - id: 14712850
   name: syncthing/syncthing
   url: https://github.com/syncthing/syncthing
-  stars: 83432
+  stars: 83433
   pushed_at: '2026-05-02T15:26:55Z'
   description: Open Source Continuous File Synchronization
   language: Go
   forks: 5142
-  open_issues: 385
-  watchers: 83432
+  open_issues: 384
+  watchers: 83433
   owner_login: syncthing
   owner_avatar: https://avatars.githubusercontent.com/u/7628018?v=4
   owner_url: https://github.com/syncthing
@@ -2379,7 +2379,7 @@
   archived: false
   disabled: false
   created_at: '2013-11-26T09:48:21Z'
-  updated_at: '2026-05-03T06:58:02Z'
+  updated_at: '2026-05-03T07:15:57Z'
   size: 124961
   visibility: public
   has_issues: true
@@ -2390,13 +2390,13 @@
 - id: 162998479
   name: sherlock-project/sherlock
   url: https://github.com/sherlock-project/sherlock
-  stars: 82827
+  stars: 82828
   pushed_at: '2026-05-03T06:05:52Z'
   description: Hunt down social media accounts by username across social networks
   language: Python
   forks: 9661
   open_issues: 278
-  watchers: 82827
+  watchers: 82828
   owner_login: sherlock-project
   owner_avatar: https://avatars.githubusercontent.com/u/48293496?v=4
   owner_url: https://github.com/sherlock-project
@@ -2423,7 +2423,7 @@
   archived: false
   disabled: false
   created_at: '2018-12-24T14:30:48Z'
-  updated_at: '2026-05-03T06:46:10Z'
+  updated_at: '2026-05-03T07:23:51Z'
   size: 18429
   visibility: public
   has_issues: true
@@ -2434,13 +2434,13 @@
 - id: 71583602
   name: Developer-Y/cs-video-courses
   url: https://github.com/Developer-Y/cs-video-courses
-  stars: 80808
+  stars: 80810
   pushed_at: '2026-05-01T17:46:23Z'
   description: List of Computer Science courses with video lectures.
   language: null
-  forks: 11177
+  forks: 11178
   open_issues: 3
-  watchers: 80808
+  watchers: 80810
   owner_login: Developer-Y
   owner_avatar: https://avatars.githubusercontent.com/u/22699926?v=4
   owner_url: https://github.com/Developer-Y
@@ -2469,7 +2469,7 @@
   archived: false
   disabled: false
   created_at: '2016-10-21T17:02:11Z'
-  updated_at: '2026-05-03T07:01:45Z'
+  updated_at: '2026-05-03T07:29:27Z'
   size: 1246
   visibility: public
   has_issues: false
@@ -2513,13 +2513,13 @@
 - id: 13807606
   name: junegunn/fzf
   url: https://github.com/junegunn/fzf
-  stars: 79969
+  stars: 79970
   pushed_at: '2026-05-02T06:42:03Z'
   description: ':cherry_blossom: A command-line fuzzy finder'
   language: Go
   forks: 2797
   open_issues: 315
-  watchers: 79969
+  watchers: 79970
   owner_login: junegunn
   owner_avatar: https://avatars.githubusercontent.com/u/700826?v=4
   owner_url: https://github.com/junegunn
@@ -2540,7 +2540,7 @@
   archived: false
   disabled: false
   created_at: '2013-10-23T16:04:23Z'
-  updated_at: '2026-05-03T05:49:34Z'
+  updated_at: '2026-05-03T07:15:41Z'
   size: 8041
   visibility: public
   has_issues: true
@@ -2647,14 +2647,14 @@
 - id: 599547518
   name: vllm-project/vllm
   url: https://github.com/vllm-project/vllm
-  stars: 78896
+  stars: 78898
   pushed_at: '2026-05-03T04:06:32Z'
   description: A high-throughput and memory-efficient inference and serving engine
     for LLMs
   language: Python
-  forks: 16361
-  open_issues: 4722
-  watchers: 78896
+  forks: 16362
+  open_issues: 4723
+  watchers: 78898
   owner_login: vllm-project
   owner_avatar: https://avatars.githubusercontent.com/u/136984999?v=4
   owner_url: https://github.com/vllm-project
@@ -2685,7 +2685,7 @@
   archived: false
   disabled: false
   created_at: '2023-02-09T11:23:20Z'
-  updated_at: '2026-05-03T06:32:28Z'
+  updated_at: '2026-05-03T07:16:57Z'
   size: 198855
   visibility: public
   has_issues: true
@@ -2745,14 +2745,14 @@
 - id: 594155488
   name: Stirling-Tools/Stirling-PDF
   url: https://github.com/Stirling-Tools/Stirling-PDF
-  stars: 78120
+  stars: 78122
   pushed_at: '2026-05-02T22:27:30Z'
   description: '#1 PDF Application on GitHub that lets you edit PDFs on any device
     anywhere'
   language: TypeScript
   forks: 6832
   open_issues: 425
-  watchers: 78120
+  watchers: 78122
   owner_login: Stirling-Tools
   owner_avatar: https://avatars.githubusercontent.com/u/139791695?v=4
   owner_url: https://github.com/Stirling-Tools
@@ -2776,7 +2776,7 @@
   archived: false
   disabled: false
   created_at: '2023-01-27T18:22:42Z'
-  updated_at: '2026-05-03T06:23:06Z'
+  updated_at: '2026-05-03T07:14:32Z'
   size: 275531
   visibility: public
   has_issues: true
@@ -2808,7 +2808,7 @@
   disabled: false
   created_at: '2010-02-08T13:20:56Z'
   updated_at: '2026-05-03T06:23:30Z'
-  size: 1627396
+  size: 1627398
   visibility: public
   has_issues: true
   has_projects: true
@@ -2826,7 +2826,7 @@
     introducing agents as the unit of work interaction.
   language: TypeScript
   forks: 15060
-  open_issues: 763
+  open_issues: 764
   watchers: 75969
   owner_login: lobehub
   owner_avatar: https://avatars.githubusercontent.com/u/131470832?v=4
@@ -2851,7 +2851,7 @@
   disabled: false
   created_at: '2023-05-21T07:19:12Z'
   updated_at: '2026-05-03T06:46:04Z'
-  size: 729025
+  size: 728980
   visibility: public
   has_issues: true
   has_projects: true
@@ -2957,7 +2957,7 @@
     Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki,
     Elasticsearch, InfluxDB, Postgres and many more. '
   language: TypeScript
-  forks: 13828
+  forks: 13829
   open_issues: 3782
   watchers: 73562
   owner_login: grafana
@@ -3032,7 +3032,7 @@
   pushed_at: '2026-05-03T00:14:56Z'
   description: Apache Superset is a Data Visualization and Data Exploration Platform
   language: TypeScript
-  forks: 17181
+  forks: 17182
   open_issues: 1233
   watchers: 72674
   owner_login: apache
@@ -3148,14 +3148,14 @@
 - id: 43441403
   name: strapi/strapi
   url: https://github.com/strapi/strapi
-  stars: 72056
+  stars: 72055
   pushed_at: '2026-05-01T12:07:11Z'
   description: 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript,
     fully customizable, and developer-first.
   language: TypeScript
   forks: 9688
   open_issues: 767
-  watchers: 72056
+  watchers: 72055
   owner_login: strapi
   owner_avatar: https://avatars.githubusercontent.com/u/19872173?v=4
   owner_url: https://github.com/strapi
@@ -3185,7 +3185,7 @@
   archived: false
   disabled: false
   created_at: '2015-09-30T15:34:48Z'
-  updated_at: '2026-05-03T06:01:19Z'
+  updated_at: '2026-05-03T07:18:42Z'
   size: 632547
   visibility: public
   has_issues: true
@@ -3196,14 +3196,14 @@
 - id: 29207621
   name: caddyserver/caddy
   url: https://github.com/caddyserver/caddy
-  stars: 72034
+  stars: 72035
   pushed_at: '2026-05-03T06:49:56Z'
   description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic
     HTTPS
   language: Go
   forks: 4711
   open_issues: 242
-  watchers: 72034
+  watchers: 72035
   owner_login: caddyserver
   owner_avatar: https://avatars.githubusercontent.com/u/12955528?v=4
   owner_url: https://github.com/caddyserver
@@ -3229,7 +3229,7 @@
   archived: false
   disabled: false
   created_at: '2015-01-13T19:45:03Z'
-  updated_at: '2026-05-03T06:52:50Z'
+  updated_at: '2026-05-03T07:09:46Z'
   size: 21112
   visibility: public
   has_issues: true
@@ -3308,15 +3308,15 @@
 - id: 1048065319
   name: thedotmack/claude-mem
   url: https://github.com/thedotmack/claude-mem
-  stars: 71185
+  stars: 71195
   pushed_at: '2026-05-02T23:09:33Z'
   description: A Claude Code plugin that automatically captures everything Claude
     does during your coding sessions, compresses it with AI (using Claude's agent-sdk),
     and injects relevant context back into future sessions.
   language: TypeScript
-  forks: 6109
+  forks: 6110
   open_issues: 77
-  watchers: 71185
+  watchers: 71195
   owner_login: thedotmack
   owner_avatar: https://avatars.githubusercontent.com/u/683968?v=4
   owner_url: https://github.com/thedotmack
@@ -3347,7 +3347,7 @@
   archived: false
   disabled: false
   created_at: '2025-08-31T20:50:03Z'
-  updated_at: '2026-05-03T07:01:45Z'
+  updated_at: '2026-05-03T07:32:58Z'
   size: 166644
   visibility: public
   has_issues: true
@@ -3399,14 +3399,14 @@
 - id: 1197515131
   name: VoltAgent/awesome-design-md
   url: https://github.com/VoltAgent/awesome-design-md
-  stars: 69893
+  stars: 69900
   pushed_at: '2026-05-02T18:51:25Z'
   description: A collection of DESIGN.md files inspired by popular brand design systems.
     Drop one into your project and let coding agents generate a matching UI.
   language: null
-  forks: 8594
+  forks: 8597
   open_issues: 278
-  watchers: 69893
+  watchers: 69900
   owner_login: VoltAgent
   owner_avatar: https://avatars.githubusercontent.com/u/201282378?v=4
   owner_url: https://github.com/VoltAgent
@@ -3426,7 +3426,7 @@
   archived: false
   disabled: false
   created_at: '2026-03-31T16:37:01Z'
-  updated_at: '2026-05-03T07:03:30Z'
+  updated_at: '2026-05-03T07:33:15Z'
   size: 1530
   visibility: public
   has_issues: true
@@ -3437,13 +3437,13 @@
 - id: 237159
   name: expressjs/express
   url: https://github.com/expressjs/express
-  stars: 68982
+  stars: 68983
   pushed_at: '2026-05-01T11:24:13Z'
   description: Fast, unopinionated, minimalist web framework for node.
   language: JavaScript
-  forks: 23223
+  forks: 23222
   open_issues: 210
-  watchers: 68982
+  watchers: 68983
   owner_login: expressjs
   owner_avatar: https://avatars.githubusercontent.com/u/5658226?v=4
   owner_url: https://github.com/expressjs
@@ -3458,7 +3458,7 @@
   archived: false
   disabled: false
   created_at: '2009-06-26T18:56:01Z'
-  updated_at: '2026-05-03T06:39:24Z'
+  updated_at: '2026-05-03T07:30:21Z'
   size: 9768
   visibility: public
   has_issues: true
@@ -3517,13 +3517,13 @@
 - id: 323048702
   name: OpenBB-finance/OpenBB
   url: https://github.com/OpenBB-finance/OpenBB
-  stars: 66897
+  stars: 66898
   pushed_at: '2026-05-03T05:30:47Z'
   description: Financial data platform for analysts, quants and AI agents.
   language: Python
   forks: 6691
   open_issues: 78
-  watchers: 66897
+  watchers: 66898
   owner_login: OpenBB-finance
   owner_avatar: https://avatars.githubusercontent.com/u/80064875?v=4
   owner_url: https://github.com/OpenBB-finance
@@ -3547,7 +3547,7 @@
   archived: false
   disabled: false
   created_at: '2020-12-20T10:46:38Z'
-  updated_at: '2026-05-03T06:52:06Z'
+  updated_at: '2026-05-03T07:29:15Z'
   size: 2418108
   visibility: public
   has_issues: true
@@ -3558,14 +3558,14 @@
 - id: 620936652
   name: xtekky/gpt4free
   url: https://github.com/xtekky/gpt4free
-  stars: 66158
+  stars: 66157
   pushed_at: '2026-05-03T03:35:43Z'
   description: The official gpt4free repository | various collection of powerful language
     models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
   language: Python
   forks: 13592
   open_issues: 2
-  watchers: 66158
+  watchers: 66157
   owner_login: xtekky
   owner_avatar: https://avatars.githubusercontent.com/u/98614666?v=4
   owner_url: https://github.com/xtekky
@@ -3596,7 +3596,7 @@
   archived: false
   disabled: false
   created_at: '2023-03-29T17:00:43Z'
-  updated_at: '2026-05-03T05:43:04Z'
+  updated_at: '2026-05-03T07:08:29Z'
   size: 171406
   visibility: public
   has_issues: true
@@ -3687,13 +3687,13 @@
 - id: 94911145
   name: facebook/docusaurus
   url: https://github.com/facebook/docusaurus
-  stars: 64801
+  stars: 64799
   pushed_at: '2026-05-02T00:17:36Z'
   description: Easy to maintain open source documentation websites.
   language: TypeScript
   forks: 9866
   open_issues: 385
-  watchers: 64801
+  watchers: 64799
   owner_login: facebook
   owner_avatar: https://avatars.githubusercontent.com/u/69631?v=4
   owner_url: https://github.com/facebook
@@ -3710,7 +3710,7 @@
   archived: false
   disabled: false
   created_at: '2017-06-20T16:13:53Z'
-  updated_at: '2026-05-03T06:34:03Z'
+  updated_at: '2026-05-03T07:11:45Z'
   size: 1137590
   visibility: public
   has_issues: true
@@ -3721,16 +3721,16 @@
 - id: 979115477
   name: bytedance/deer-flow
   url: https://github.com/bytedance/deer-flow
-  stars: 64543
+  stars: 64545
   pushed_at: '2026-05-02T14:08:11Z'
   description: An open-source long-horizon SuperAgent harness that researches, codes,
     and creates. With the help of sandboxes, memories, tools, skill, subagents and
     message gateway, it handles different levels of tasks that could take minutes
     to hours.
   language: Python
-  forks: 8492
+  forks: 8493
   open_issues: 710
-  watchers: 64543
+  watchers: 64545
   owner_login: bytedance
   owner_avatar: https://avatars.githubusercontent.com/u/4158466?v=4
   owner_url: https://github.com/bytedance
@@ -3759,7 +3759,7 @@
   archived: false
   disabled: false
   created_at: '2025-05-07T02:50:19Z'
-  updated_at: '2026-05-03T06:52:31Z'
+  updated_at: '2026-05-03T07:15:58Z'
   size: 34589
   visibility: public
   has_issues: true
@@ -3880,13 +3880,13 @@
 - id: 909213664
   name: TauricResearch/TradingAgents
   url: https://github.com/TauricResearch/TradingAgents
-  stars: 63482
+  stars: 63551
   pushed_at: '2026-05-01T19:23:24Z'
   description: 'TradingAgents: Multi-Agents LLM Financial Trading Framework'
   language: Python
-  forks: 12296
-  open_issues: 317
-  watchers: 63482
+  forks: 12313
+  open_issues: 319
+  watchers: 63551
   owner_login: TauricResearch
   owner_avatar: https://avatars.githubusercontent.com/u/192884433?v=4
   owner_url: https://github.com/TauricResearch
@@ -3902,7 +3902,7 @@
   archived: false
   disabled: false
   created_at: '2024-12-28T03:31:08Z'
-  updated_at: '2026-05-03T07:02:09Z'
+  updated_at: '2026-05-03T07:32:45Z'
   size: 4582
   visibility: public
   has_issues: true
@@ -4042,14 +4042,14 @@
 - id: 649170660
   name: Mintplex-Labs/anything-llm
   url: https://github.com/Mintplex-Labs/anything-llm
-  stars: 59432
+  stars: 59433
   pushed_at: '2026-05-02T06:05:14Z'
   description: The all-in-one AI productivity accelerator. On device and privacy first
     with no annoying setup or configuration.
   language: JavaScript
   forks: 6418
   open_issues: 339
-  watchers: 59432
+  watchers: 59433
   owner_login: Mintplex-Labs
   owner_avatar: https://avatars.githubusercontent.com/u/134426827?v=4
   owner_url: https://github.com/Mintplex-Labs
@@ -4079,7 +4079,7 @@
   archived: false
   disabled: false
   created_at: '2023-06-04T02:29:14Z'
-  updated_at: '2026-05-03T06:53:00Z'
+  updated_at: '2026-05-03T07:21:52Z'
   size: 58240
   visibility: public
   has_issues: true
@@ -4172,13 +4172,13 @@
 - id: 130464961
   name: sharkdp/bat
   url: https://github.com/sharkdp/bat
-  stars: 58676
+  stars: 58677
   pushed_at: '2026-05-02T11:04:55Z'
   description: A cat(1) clone with wings.
   language: Rust
   forks: 1543
   open_issues: 352
-  watchers: 58676
+  watchers: 58677
   owner_login: sharkdp
   owner_avatar: https://avatars.githubusercontent.com/u/4209276?v=4
   owner_url: https://github.com/sharkdp
@@ -4197,7 +4197,7 @@
   archived: false
   disabled: false
   created_at: '2018-04-21T10:52:23Z'
-  updated_at: '2026-05-03T06:47:07Z'
+  updated_at: '2026-05-03T07:23:15Z'
   size: 34991
   visibility: public
   has_issues: true
@@ -4243,13 +4243,13 @@
 - id: 20619036
   name: pi-hole/pi-hole
   url: https://github.com/pi-hole/pi-hole
-  stars: 58378
+  stars: 58380
   pushed_at: '2026-05-02T10:13:00Z'
   description: A black hole for Internet advertisements
   language: Shell
   forks: 3140
   open_issues: 48
-  watchers: 58378
+  watchers: 58380
   owner_login: pi-hole
   owner_avatar: https://avatars.githubusercontent.com/u/16827203?v=4
   owner_url: https://github.com/pi-hole
@@ -4271,7 +4271,7 @@
   archived: false
   disabled: false
   created_at: '2014-06-08T15:02:55Z'
-  updated_at: '2026-05-03T07:00:47Z'
+  updated_at: '2026-05-03T07:30:13Z'
   size: 9062
   visibility: public
   has_issues: true
@@ -4282,13 +4282,13 @@
 - id: 510607652
   name: pocketbase/pocketbase
   url: https://github.com/pocketbase/pocketbase
-  stars: 58094
+  stars: 58095
   pushed_at: '2026-05-02T07:05:54Z'
   description: Open Source realtime backend in 1 file
   language: Go
   forks: 3339
   open_issues: 18
-  watchers: 58094
+  watchers: 58095
   owner_login: pocketbase
   owner_avatar: https://avatars.githubusercontent.com/u/101000011?v=4
   owner_url: https://github.com/pocketbase
@@ -4303,7 +4303,7 @@
   archived: false
   disabled: false
   created_at: '2022-07-05T06:06:21Z'
-  updated_at: '2026-05-03T06:43:21Z'
+  updated_at: '2026-05-03T07:26:47Z'
   size: 135671
   visibility: public
   has_issues: true
@@ -4314,14 +4314,14 @@
 - id: 1031912724
   name: farion1231/cc-switch
   url: https://github.com/farion1231/cc-switch
-  stars: 58033
+  stars: 58042
   pushed_at: '2026-05-02T13:36:08Z'
   description: A cross-platform desktop All-in-One assistant tool for Claude Code,
     Codex, OpenCode, openclaw & Gemini CLI.
   language: Rust
-  forks: 3768
-  open_issues: 709
-  watchers: 58033
+  forks: 3769
+  open_issues: 710
+  watchers: 58042
   owner_login: farion1231
   owner_avatar: https://avatars.githubusercontent.com/u/44939412?v=4
   owner_url: https://github.com/farion1231
@@ -4350,7 +4350,7 @@
   archived: false
   disabled: false
   created_at: '2025-08-04T14:16:16Z'
-  updated_at: '2026-05-03T06:59:53Z'
+  updated_at: '2026-05-03T07:26:25Z'
   size: 41331
   visibility: public
   has_issues: true
@@ -4410,13 +4410,13 @@
 - id: 264818686
   name: ultralytics/yolov5
   url: https://github.com/ultralytics/yolov5
-  stars: 57330
+  stars: 57329
   pushed_at: '2026-05-02T13:36:23Z'
   description: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
   language: Python
   forks: 17485
   open_issues: 38
-  watchers: 57330
+  watchers: 57329
   owner_login: ultralytics
   owner_avatar: https://avatars.githubusercontent.com/u/26833451?v=4
   owner_url: https://github.com/ultralytics
@@ -4440,7 +4440,7 @@
   archived: false
   disabled: false
   created_at: '2020-05-18T03:45:11Z'
-  updated_at: '2026-05-03T06:53:25Z'
+  updated_at: '2026-05-03T07:04:35Z'
   size: 17401
   visibility: public
   has_issues: true
@@ -4451,13 +4451,13 @@
 - id: 21938243
   name: rust-unofficial/awesome-rust
   url: https://github.com/rust-unofficial/awesome-rust
-  stars: 57072
+  stars: 57074
   pushed_at: '2026-05-02T19:15:23Z'
   description: A curated list of Rust code and resources.
   language: Rust
   forks: 3326
   open_issues: 8
-  watchers: 57072
+  watchers: 57074
   owner_login: rust-unofficial
   owner_avatar: https://avatars.githubusercontent.com/u/20820960?v=4
   owner_url: https://github.com/rust-unofficial
@@ -4470,7 +4470,7 @@
   archived: false
   disabled: false
   created_at: '2014-07-17T10:45:10Z'
-  updated_at: '2026-05-03T06:59:53Z'
+  updated_at: '2026-05-03T07:29:15Z'
   size: 8462
   visibility: public
   has_issues: true
@@ -4536,7 +4536,7 @@
   description: Ultralytics YOLO 🚀
   language: Python
   forks: 10900
-  open_issues: 327
+  open_issues: 328
   watchers: 56691
   owner_login: ultralytics
   owner_avatar: https://avatars.githubusercontent.com/u/26833451?v=4
@@ -4665,13 +4665,13 @@
 - id: 1108837393
   name: code-yeongyu/oh-my-openagent
   url: https://github.com/code-yeongyu/oh-my-openagent
-  stars: 55522
+  stars: 55523
   pushed_at: '2026-05-02T23:44:40Z'
   description: omo; the best agent harness - previously oh-my-opencode
   language: TypeScript
   forks: 4501
   open_issues: 675
-  watchers: 55522
+  watchers: 55523
   owner_login: code-yeongyu
   owner_avatar: https://avatars.githubusercontent.com/u/11153873?v=4
   owner_url: https://github.com/code-yeongyu
@@ -4698,7 +4698,7 @@
   archived: false
   disabled: false
   created_at: '2025-12-03T01:40:05Z'
-  updated_at: '2026-05-03T06:50:19Z'
+  updated_at: '2026-05-03T07:20:26Z'
   size: 59223
   visibility: public
   has_issues: true
@@ -4710,7 +4710,7 @@
   name: go-gitea/gitea
   url: https://github.com/go-gitea/gitea
   stars: 55309
-  pushed_at: '2026-05-02T19:10:50Z'
+  pushed_at: '2026-05-03T07:19:22Z'
   description: Git with a cup of tea! Painless self-hosted all-in-one software development
     service, including Git hosting, code review, team collaboration, package registry
     and CI/CD
@@ -4748,7 +4748,7 @@
   archived: false
   disabled: false
   created_at: '2016-11-01T02:13:26Z'
-  updated_at: '2026-05-03T06:35:40Z'
+  updated_at: '2026-05-03T07:19:26Z'
   size: 332063
   visibility: public
   has_issues: true
@@ -4801,14 +4801,14 @@
 - id: 79162682
   name: laurent22/joplin
   url: https://github.com/laurent22/joplin
-  stars: 54584
+  stars: 54585
   pushed_at: '2026-05-02T22:16:38Z'
   description: Joplin - the privacy-focused note taking app with sync capabilities
     for Windows, macOS, Linux, Android and iOS.
   language: TypeScript
   forks: 6077
   open_issues: 552
-  watchers: 54584
+  watchers: 54585
   owner_login: laurent22
   owner_avatar: https://avatars.githubusercontent.com/u/1285584?v=4
   owner_url: https://github.com/laurent22
@@ -4837,7 +4837,7 @@
   archived: false
   disabled: false
   created_at: '2017-01-16T21:49:41Z'
-  updated_at: '2026-05-03T06:35:09Z'
+  updated_at: '2026-05-03T07:09:45Z'
   size: 628409
   visibility: public
   has_issues: true
@@ -4848,14 +4848,14 @@
 - id: 955620917
   name: upstash/context7
   url: https://github.com/upstash/context7
-  stars: 54323
+  stars: 54325
   pushed_at: '2026-05-03T01:34:06Z'
   description: Context7 Platform -- Up-to-date code documentation for LLMs and AI
     code editors
   language: TypeScript
   forks: 2583
-  open_issues: 154
-  watchers: 54323
+  open_issues: 155
+  watchers: 54325
   owner_login: upstash
   owner_avatar: https://avatars.githubusercontent.com/u/74989412?v=4
   owner_url: https://github.com/upstash
@@ -4870,7 +4870,7 @@
   archived: false
   disabled: false
   created_at: '2025-03-26T23:40:39Z'
-  updated_at: '2026-05-03T06:58:45Z'
+  updated_at: '2026-05-03T07:18:53Z'
   size: 27754
   visibility: public
   has_issues: true
@@ -4882,10 +4882,10 @@
   name: firstcontributions/first-contributions
   url: https://github.com/firstcontributions/first-contributions
   stars: 53787
-  pushed_at: '2026-05-03T06:29:23Z'
+  pushed_at: '2026-05-03T07:22:41Z'
   description: 🚀✨ Help beginners to contribute to open source projects
   language: null
-  forks: 102014
+  forks: 102015
   open_issues: 406
   watchers: 53787
   owner_login: firstcontributions
@@ -4908,7 +4908,7 @@
   archived: false
   disabled: false
   created_at: '2016-09-20T14:35:09Z'
-  updated_at: '2026-05-03T06:34:15Z'
+  updated_at: '2026-05-03T07:22:54Z'
   size: 36038
   visibility: public
   has_issues: true
@@ -4919,15 +4919,15 @@
 - id: 1130564872
   name: koala73/worldmonitor
   url: https://github.com/koala73/worldmonitor
-  stars: 53274
-  pushed_at: '2026-05-03T05:53:34Z'
+  stars: 53278
+  pushed_at: '2026-05-03T07:14:11Z'
   description: Real-time global intelligence dashboard. AI-powered news aggregation,
     geopolitical monitoring, and infrastructure tracking in a unified situational
     awareness interface
   language: TypeScript
   forks: 8555
-  open_issues: 161
-  watchers: 53274
+  open_issues: 162
+  watchers: 53278
   owner_login: koala73
   owner_avatar: https://avatars.githubusercontent.com/u/996596?v=4
   owner_url: https://github.com/koala73
@@ -4947,7 +4947,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-08T17:26:06Z'
-  updated_at: '2026-05-03T06:56:41Z'
+  updated_at: '2026-05-03T07:21:39Z'
   size: 89315
   visibility: public
   has_issues: true
@@ -4958,13 +4958,13 @@
 - id: 384219990
   name: warpdotdev/warp
   url: https://github.com/warpdotdev/warp
-  stars: 52983
+  stars: 53001
   pushed_at: '2026-05-03T02:27:50Z'
   description: Warp is an agentic development environment, born out of the terminal.
   language: Rust
-  forks: 3684
-  open_issues: 3447
-  watchers: 52983
+  forks: 3686
+  open_issues: 3448
+  watchers: 53001
   owner_login: warpdotdev
   owner_avatar: https://avatars.githubusercontent.com/u/71840468?v=4
   owner_url: https://github.com/warpdotdev
@@ -4983,7 +4983,7 @@
   archived: false
   disabled: false
   created_at: '2021-07-08T18:48:08Z'
-  updated_at: '2026-05-03T06:59:44Z'
+  updated_at: '2026-05-03T07:30:30Z'
   size: 154091
   visibility: public
   has_issues: true
@@ -5031,13 +5031,13 @@
 - id: 621803253
   name: FlowiseAI/Flowise
   url: https://github.com/FlowiseAI/Flowise
-  stars: 52499
+  stars: 52501
   pushed_at: '2026-05-02T23:03:37Z'
   description: Build AI Agents, Visually
   language: TypeScript
   forks: 24251
   open_issues: 827
-  watchers: 52499
+  watchers: 52501
   owner_login: FlowiseAI
   owner_avatar: https://avatars.githubusercontent.com/u/128289781?v=4
   owner_url: https://github.com/FlowiseAI
@@ -5065,7 +5065,7 @@
   archived: false
   disabled: false
   created_at: '2023-03-31T12:23:09Z'
-  updated_at: '2026-05-03T06:46:03Z'
+  updated_at: '2026-05-03T07:24:53Z'
   size: 80960
   visibility: public
   has_issues: true
@@ -5123,14 +5123,14 @@
 - id: 11225014
   name: etcd-io/etcd
   url: https://github.com/etcd-io/etcd
-  stars: 51675
+  stars: 51676
   pushed_at: '2026-05-02T11:25:32Z'
   description: Distributed reliable key-value store for the most critical data of
     a distributed system
   language: Go
   forks: 10328
   open_issues: 239
-  watchers: 51675
+  watchers: 51676
   owner_login: etcd-io
   owner_avatar: https://avatars.githubusercontent.com/u/41972792?v=4
   owner_url: https://github.com/etcd-io
@@ -5151,7 +5151,7 @@
   archived: false
   disabled: false
   created_at: '2013-07-06T21:57:21Z'
-  updated_at: '2026-05-03T04:28:54Z'
+  updated_at: '2026-05-03T07:17:07Z'
   size: 96305
   visibility: public
   has_issues: true
@@ -5230,13 +5230,13 @@
 - id: 1201656210
   name: MemPalace/mempalace
   url: https://github.com/MemPalace/mempalace
-  stars: 50801
+  stars: 50802
   pushed_at: '2026-05-03T06:54:10Z'
   description: The best-benchmarked open-source AI memory system. And it's free.
   language: Python
   forks: 6668
   open_issues: 504
-  watchers: 50801
+  watchers: 50802
   owner_login: MemPalace
   owner_avatar: https://avatars.githubusercontent.com/u/275135684?v=4
   owner_url: https://github.com/MemPalace
@@ -5253,8 +5253,8 @@
   archived: false
   disabled: false
   created_at: '2026-04-05T01:12:07Z'
-  updated_at: '2026-05-03T06:54:11Z'
-  size: 16648
+  updated_at: '2026-05-03T07:23:14Z'
+  size: 16709
   visibility: public
   has_issues: true
   has_projects: true
@@ -5264,13 +5264,13 @@
 - id: 1087192965
   name: shanraisshan/claude-code-best-practice
   url: https://github.com/shanraisshan/claude-code-best-practice
-  stars: 50592
+  stars: 50599
   pushed_at: '2026-05-02T11:56:42Z'
   description: from vibe coding to agentic engineering - practice makes claude perfect
   language: HTML
   forks: 5027
   open_issues: 12
-  watchers: 50592
+  watchers: 50599
   owner_login: shanraisshan
   owner_avatar: https://avatars.githubusercontent.com/u/11731897?v=4
   owner_url: https://github.com/shanraisshan
@@ -5301,7 +5301,7 @@
   archived: false
   disabled: false
   created_at: '2025-10-31T14:15:28Z'
-  updated_at: '2026-05-03T06:59:49Z'
+  updated_at: '2026-05-03T07:32:18Z'
   size: 68556
   visibility: public
   has_issues: true
@@ -5312,7 +5312,7 @@
 - id: 710601088
   name: crewAIInc/crewAI
   url: https://github.com/crewAIInc/crewAI
-  stars: 50503
+  stars: 50507
   pushed_at: '2026-05-03T06:50:46Z'
   description: Framework for orchestrating role-playing, autonomous AI agents. By
     fostering collaborative intelligence, CrewAI empowers agents to work together
@@ -5320,7 +5320,7 @@
   language: Python
   forks: 6965
   open_issues: 374
-  watchers: 50503
+  watchers: 50507
   owner_login: crewAIInc
   owner_avatar: https://avatars.githubusercontent.com/u/170677839?v=4
   owner_url: https://github.com/crewAIInc
@@ -5336,8 +5336,8 @@
   archived: false
   disabled: false
   created_at: '2023-10-27T03:26:59Z'
-  updated_at: '2026-05-03T06:56:14Z'
-  size: 229549
+  updated_at: '2026-05-03T07:29:24Z'
+  size: 230151
   visibility: public
   has_issues: true
   has_projects: true
@@ -5347,13 +5347,13 @@
 - id: 29887499
   name: dkhamsing/open-source-ios-apps
   url: https://github.com/dkhamsing/open-source-ios-apps
-  stars: 50078
+  stars: 50079
   pushed_at: '2026-05-02T15:10:08Z'
   description: ':iphone: Collaborative List of Open-Source iOS Apps'
   language: null
   forks: 5762
   open_issues: 1
-  watchers: 50078
+  watchers: 50079
   owner_login: dkhamsing
   owner_avatar: https://avatars.githubusercontent.com/u/4723115?v=4
   owner_url: https://github.com/dkhamsing
@@ -5384,7 +5384,7 @@
   archived: false
   disabled: false
   created_at: '2015-01-26T23:32:34Z'
-  updated_at: '2026-05-03T06:07:05Z'
+  updated_at: '2026-05-03T07:15:48Z'
   size: 30159
   visibility: public
   has_issues: true
@@ -5400,7 +5400,7 @@
   description: Your self-hosted, globally interconnected microblogging community
   language: Ruby
   forks: 7438
-  open_issues: 4449
+  open_issues: 4450
   watchers: 49905
   owner_login: mastodon
   owner_avatar: https://avatars.githubusercontent.com/u/24979032?v=4
@@ -5524,13 +5524,13 @@
 - id: 541269386
   name: ggml-org/whisper.cpp
   url: https://github.com/ggml-org/whisper.cpp
-  stars: 49299
+  stars: 49300
   pushed_at: '2026-05-02T12:02:47Z'
   description: Port of OpenAI's Whisper model in C/C++
   language: C++
   forks: 5481
   open_issues: 1191
-  watchers: 49299
+  watchers: 49300
   owner_login: ggml-org
   owner_avatar: https://avatars.githubusercontent.com/u/134263123?v=4
   owner_url: https://github.com/ggml-org
@@ -5547,7 +5547,7 @@
   archived: false
   disabled: false
   created_at: '2022-09-25T18:26:37Z'
-  updated_at: '2026-05-03T05:47:37Z'
+  updated_at: '2026-05-03T07:03:44Z'
   size: 36081
   visibility: public
   has_issues: true
@@ -5603,13 +5603,13 @@
 - id: 560704231
   name: run-llama/llama_index
   url: https://github.com/run-llama/llama_index
-  stars: 49102
+  stars: 49104
   pushed_at: '2026-05-01T14:56:08Z'
   description: LlamaIndex is the leading document agent and OCR platform
   language: Python
   forks: 7346
   open_issues: 315
-  watchers: 49102
+  watchers: 49104
   owner_login: run-llama
   owner_avatar: https://avatars.githubusercontent.com/u/130722866?v=4
   owner_url: https://github.com/run-llama
@@ -5630,7 +5630,7 @@
   archived: false
   disabled: false
   created_at: '2022-11-02T04:24:54Z'
-  updated_at: '2026-05-03T05:41:20Z'
+  updated_at: '2026-05-03T07:18:09Z'
   size: 444434
   visibility: public
   has_issues: true
@@ -5641,14 +5641,14 @@
 - id: 568098118
   name: makeplane/plane
   url: https://github.com/makeplane/plane
-  stars: 48665
+  stars: 48667
   pushed_at: '2026-05-02T18:31:32Z'
   description: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane
     is a modern project management platform to manage tasks, sprints, docs, and triage.
   language: TypeScript
-  forks: 4148
+  forks: 4147
   open_issues: 758
-  watchers: 48665
+  watchers: 48667
   owner_login: makeplane
   owner_avatar: https://avatars.githubusercontent.com/u/115727700?v=4
   owner_url: https://github.com/makeplane
@@ -5679,7 +5679,7 @@
   archived: false
   disabled: false
   created_at: '2022-11-19T12:55:01Z'
-  updated_at: '2026-05-03T06:30:23Z'
+  updated_at: '2026-05-03T07:22:36Z'
   size: 293203
   visibility: public
   has_issues: true
@@ -5803,13 +5803,13 @@
 - id: 523043277
   name: astral-sh/ruff
   url: https://github.com/astral-sh/ruff
-  stars: 47342
+  stars: 47343
   pushed_at: '2026-05-03T06:33:13Z'
   description: An extremely fast Python linter and code formatter, written in Rust.
   language: Rust
   forks: 2036
   open_issues: 1958
-  watchers: 47342
+  watchers: 47343
   owner_login: astral-sh
   owner_avatar: https://avatars.githubusercontent.com/u/115962839?v=4
   owner_url: https://github.com/astral-sh
@@ -5831,7 +5831,7 @@
   archived: false
   disabled: false
   created_at: '2022-08-09T17:17:44Z'
-  updated_at: '2026-05-03T04:13:17Z'
+  updated_at: '2026-05-03T07:13:32Z'
   size: 136664
   visibility: public
   has_issues: true
@@ -5847,7 +5847,7 @@
   description: 'The easy-to-use open source Business Intelligence and Embedded Analytics
     tool that lets everyone work with data :bar_chart:'
   language: Clojure
-  forks: 6426
+  forks: 6428
   open_issues: 4106
   watchers: 47178
   owner_login: metabase
@@ -5879,7 +5879,7 @@
   disabled: false
   created_at: '2015-02-02T19:25:47Z'
   updated_at: '2026-05-03T03:37:35Z'
-  size: 1827983
+  size: 1827988
   visibility: public
   has_issues: true
   has_projects: true
@@ -5890,11 +5890,11 @@
   name: ClickHouse/ClickHouse
   url: https://github.com/ClickHouse/ClickHouse
   stars: 47174
-  pushed_at: '2026-05-03T06:51:26Z'
+  pushed_at: '2026-05-03T07:25:17Z'
   description: ClickHouse® is a real-time analytics database management system
   language: C++
   forks: 8365
-  open_issues: 5983
+  open_issues: 5985
   watchers: 47174
   owner_login: ClickHouse
   owner_avatar: https://avatars.githubusercontent.com/u/54801242?v=4
@@ -5923,7 +5923,7 @@
   archived: false
   disabled: false
   created_at: '2016-06-02T08:28:18Z'
-  updated_at: '2026-05-03T06:47:16Z'
+  updated_at: '2026-05-03T07:04:45Z'
   size: 6014489
   visibility: public
   has_issues: true
@@ -6009,12 +6009,12 @@
   name: mudler/LocalAI
   url: https://github.com/mudler/LocalAI
   stars: 46016
-  pushed_at: '2026-05-02T23:37:08Z'
+  pushed_at: '2026-05-03T07:06:31Z'
   description: LocalAI is the open-source AI engine. Run any model - LLMs, vision,
     voice, image, video - on any hardware. No GPU required.
   language: Go
   forks: 4048
-  open_issues: 156
+  open_issues: 153
   watchers: 46016
   owner_login: mudler
   owner_avatar: https://avatars.githubusercontent.com/u/2420543?v=4
@@ -6044,7 +6044,7 @@
   archived: false
   disabled: false
   created_at: '2023-03-18T22:58:02Z'
-  updated_at: '2026-05-03T06:23:12Z'
+  updated_at: '2026-05-03T07:06:44Z'
   size: 57750
   visibility: public
   has_issues: true
@@ -6055,13 +6055,13 @@
 - id: 234798675
   name: bevyengine/bevy
   url: https://github.com/bevyengine/bevy
-  stars: 45861
+  stars: 45862
   pushed_at: '2026-05-02T18:06:56Z'
   description: A refreshingly simple data-driven game engine built in Rust
   language: Rust
   forks: 4539
-  open_issues: 3359
-  watchers: 45861
+  open_issues: 3360
+  watchers: 45862
   owner_login: bevyengine
   owner_avatar: https://avatars.githubusercontent.com/u/60047606?v=4
   owner_url: https://github.com/bevyengine
@@ -6078,7 +6078,7 @@
   archived: false
   disabled: false
   created_at: '2020-01-18T21:13:55Z'
-  updated_at: '2026-05-03T06:05:12Z'
+  updated_at: '2026-05-03T07:16:47Z'
   size: 171174
   visibility: public
   has_issues: true
@@ -6089,13 +6089,13 @@
 - id: 274495425
   name: remotion-dev/remotion
   url: https://github.com/remotion-dev/remotion
-  stars: 45532
+  stars: 45533
   pushed_at: '2026-05-02T19:37:00Z'
   description: 🎥      Make videos programmatically with React
   language: TypeScript
   forks: 3102
-  open_issues: 96
-  watchers: 45532
+  open_issues: 97
+  watchers: 45533
   owner_login: remotion-dev
   owner_avatar: https://avatars.githubusercontent.com/u/85344006?v=4
   owner_url: https://github.com/remotion-dev
@@ -6109,7 +6109,7 @@
   archived: false
   disabled: false
   created_at: '2020-06-23T19:49:10Z'
-  updated_at: '2026-05-03T06:58:22Z'
+  updated_at: '2026-05-03T07:18:05Z'
   size: 3842791
   visibility: public
   has_issues: true
@@ -6120,7 +6120,7 @@
 - id: 671269505
   name: BerriAI/litellm
   url: https://github.com/BerriAI/litellm
-  stars: 45517
+  stars: 45518
   pushed_at: '2026-05-03T04:02:30Z'
   description: Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI
     (or native) format, with cost tracking, guardrails, loadbalancing and logging.
@@ -6129,7 +6129,7 @@
   language: Python
   forks: 7734
   open_issues: 2792
-  watchers: 45517
+  watchers: 45518
   owner_login: BerriAI
   owner_avatar: https://avatars.githubusercontent.com/u/121462774?v=4
   owner_url: https://github.com/BerriAI
@@ -6154,7 +6154,7 @@
   archived: false
   disabled: false
   created_at: '2023-07-27T00:09:52Z'
-  updated_at: '2026-05-03T06:08:24Z'
+  updated_at: '2026-05-03T07:03:47Z'
   size: 1056311
   visibility: public
   has_issues: true
@@ -6165,13 +6165,13 @@
 - id: 572984571
   name: twentyhq/twenty
   url: https://github.com/twentyhq/twenty
-  stars: 45416
-  pushed_at: '2026-05-03T06:18:24Z'
+  stars: 45417
+  pushed_at: '2026-05-03T07:25:20Z'
   description: The open alternative to Salesforce, designed for AI.
   language: TypeScript
   forks: 6297
-  open_issues: 120
-  watchers: 45416
+  open_issues: 121
+  watchers: 45417
   owner_login: twentyhq
   owner_avatar: https://avatars.githubusercontent.com/u/119600397?v=4
   owner_url: https://github.com/twentyhq
@@ -6199,7 +6199,7 @@
   archived: false
   disabled: false
   created_at: '2022-12-01T13:04:40Z'
-  updated_at: '2026-05-03T07:01:16Z'
+  updated_at: '2026-05-03T07:07:11Z'
   size: 1154603
   visibility: public
   has_issues: true
@@ -6215,7 +6215,7 @@
   description: Delightful JavaScript Testing.
   language: TypeScript
   forks: 6645
-  open_issues: 227
+  open_issues: 228
   watchers: 45337
   owner_login: jestjs
   owner_avatar: https://avatars.githubusercontent.com/u/103283236?v=4
@@ -6248,12 +6248,12 @@
   name: apache/airflow
   url: https://github.com/apache/airflow
   stars: 45264
-  pushed_at: '2026-05-03T04:52:25Z'
+  pushed_at: '2026-05-03T07:09:26Z'
   description: Apache Airflow - A platform to programmatically author, schedule, and
     monitor workflows
   language: Python
   forks: 16983
-  open_issues: 1725
+  open_issues: 1724
   watchers: 45264
   owner_login: apache
   owner_avatar: https://avatars.githubusercontent.com/u/47359?v=4
@@ -6285,7 +6285,7 @@
   archived: false
   disabled: false
   created_at: '2015-04-13T18:04:58Z'
-  updated_at: '2026-05-03T06:11:33Z'
+  updated_at: '2026-05-03T07:09:32Z'
   size: 586023
   visibility: public
   has_issues: true
@@ -6296,13 +6296,13 @@
 - id: 1032459340
   name: Fission-AI/OpenSpec
   url: https://github.com/Fission-AI/OpenSpec
-  stars: 44857
+  stars: 44859
   pushed_at: '2026-05-02T00:01:21Z'
   description: Spec-driven development (SDD) for AI coding assistants.
   language: TypeScript
   forks: 3124
   open_issues: 302
-  watchers: 44857
+  watchers: 44859
   owner_login: Fission-AI
   owner_avatar: https://avatars.githubusercontent.com/u/203414896?v=4
   owner_url: https://github.com/Fission-AI
@@ -6323,7 +6323,7 @@
   archived: false
   disabled: false
   created_at: '2025-08-05T10:37:45Z'
-  updated_at: '2026-05-03T07:00:09Z'
+  updated_at: '2026-05-03T07:24:57Z'
   size: 3881
   visibility: public
   has_issues: true
@@ -6334,13 +6334,13 @@
 - id: 3214406
   name: meteor/meteor
   url: https://github.com/meteor/meteor
-  stars: 44769
+  stars: 44770
   pushed_at: '2026-05-03T00:05:48Z'
   description: Meteor, the JavaScript App Platform
   language: JavaScript
   forks: 5256
   open_issues: 359
-  watchers: 44769
+  watchers: 44770
   owner_login: meteor
   owner_avatar: https://avatars.githubusercontent.com/u/789528?v=4
   owner_url: https://github.com/meteor
@@ -6364,7 +6364,7 @@
   archived: false
   disabled: false
   created_at: '2012-01-19T01:58:17Z'
-  updated_at: '2026-05-02T18:59:18Z'
+  updated_at: '2026-05-03T07:20:39Z'
   size: 146451
   visibility: public
   has_issues: true
@@ -6453,7 +6453,7 @@
   pushed_at: '2026-05-03T02:55:15Z'
   description: A post-modern modal text editor.
   language: Rust
-  forks: 3444
+  forks: 3443
   open_issues: 1523
   watchers: 44218
   owner_login: helix-editor
@@ -6528,13 +6528,13 @@
 - id: 873328
   name: getsentry/sentry
   url: https://github.com/getsentry/sentry
-  stars: 43754
+  stars: 43755
   pushed_at: '2026-05-03T02:40:46Z'
   description: Developer-first error tracking and performance monitoring
   language: Python
   forks: 4681
-  open_issues: 2122
-  watchers: 43754
+  open_issues: 2121
+  watchers: 43755
   owner_login: getsentry
   owner_avatar: https://avatars.githubusercontent.com/u/1396951?v=4
   owner_url: https://github.com/getsentry
@@ -6560,7 +6560,7 @@
   archived: false
   disabled: false
   created_at: '2010-08-30T22:06:41Z'
-  updated_at: '2026-05-02T17:54:06Z'
+  updated_at: '2026-05-03T07:06:33Z'
   size: 860211
   visibility: public
   has_issues: true
@@ -6572,7 +6572,7 @@
   name: aaif-goose/goose
   url: https://github.com/aaif-goose/goose
   stars: 43692
-  pushed_at: '2026-05-03T05:29:14Z'
+  pushed_at: '2026-05-03T07:10:46Z'
   description: an open source, extensible AI agent that goes beyond code suggestions
     - install, execute, edit, and test with any LLM
   language: Rust
@@ -6593,7 +6593,7 @@
   archived: false
   disabled: false
   created_at: '2024-08-23T19:03:36Z'
-  updated_at: '2026-05-03T06:41:34Z'
+  updated_at: '2026-05-03T07:02:23Z'
   size: 1157654
   visibility: public
   has_issues: true
@@ -6718,13 +6718,13 @@
 - id: 90793418
   name: sharkdp/fd
   url: https://github.com/sharkdp/fd
-  stars: 42809
+  stars: 42811
   pushed_at: '2026-05-02T06:49:23Z'
   description: A simple, fast and user-friendly alternative to 'find'
   language: Rust
   forks: 1055
   open_issues: 178
-  watchers: 42809
+  watchers: 42811
   owner_login: sharkdp
   owner_avatar: https://avatars.githubusercontent.com/u/4209276?v=4
   owner_url: https://github.com/sharkdp
@@ -6744,7 +6744,7 @@
   archived: false
   disabled: false
   created_at: '2017-05-09T21:27:10Z'
-  updated_at: '2026-05-03T06:29:47Z'
+  updated_at: '2026-05-03T07:23:11Z'
   size: 2452
   visibility: public
   has_issues: true
@@ -6756,7 +6756,7 @@
   name: juspay/hyperswitch
   url: https://github.com/juspay/hyperswitch
   stars: 42580
-  pushed_at: '2026-05-03T06:59:10Z'
+  pushed_at: '2026-05-03T07:27:38Z'
   description: An open source payments switch written in Rust to make payments fast,
     reliable and affordable
   language: Rust
@@ -6836,7 +6836,7 @@
   description: Build and share delightful machine learning apps, all in Python. 🌟
     Star to support our work!
   language: Python
-  forks: 3428
+  forks: 3429
   open_issues: 463
   watchers: 42485
   owner_login: gradio-app
@@ -6879,7 +6879,7 @@
   description: Ray is an AI compute engine. Ray consists of a core distributed runtime
     and a set of AI Libraries for accelerating ML workloads.
   language: Python
-  forks: 7523
+  forks: 7524
   open_issues: 3554
   watchers: 42407
   owner_login: ray-project
@@ -6923,13 +6923,13 @@
 - id: 1052050442
   name: datawhalechina/hello-agents
   url: https://github.com/datawhalechina/hello-agents
-  stars: 42260
+  stars: 42264
   pushed_at: '2026-05-02T12:11:22Z'
   description: 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
   language: Python
-  forks: 5109
+  forks: 5110
   open_issues: 98
-  watchers: 42260
+  watchers: 42264
   owner_login: datawhalechina
   owner_avatar: https://avatars.githubusercontent.com/u/46047812?v=4
   owner_url: https://github.com/datawhalechina
@@ -6944,7 +6944,7 @@
   archived: false
   disabled: false
   created_at: '2025-09-07T09:50:24Z'
-  updated_at: '2026-05-03T07:02:41Z'
+  updated_at: '2026-05-03T07:29:22Z'
   size: 186211
   visibility: public
   has_issues: true
@@ -6955,14 +6955,14 @@
 - id: 235860204
   name: deepspeedai/DeepSpeed
   url: https://github.com/deepspeedai/DeepSpeed
-  stars: 42239
+  stars: 42238
   pushed_at: '2026-05-02T06:44:28Z'
   description: DeepSpeed is a deep learning optimization library that makes distributed
     training and inference easy, efficient, and effective.
   language: Python
   forks: 4811
   open_issues: 1291
-  watchers: 42239
+  watchers: 42238
   owner_login: deepspeedai
   owner_avatar: https://avatars.githubusercontent.com/u/74068820?v=4
   owner_url: https://github.com/deepspeedai
@@ -6986,7 +6986,7 @@
   archived: false
   disabled: false
   created_at: '2020-01-23T18:35:18Z'
-  updated_at: '2026-05-03T04:52:24Z'
+  updated_at: '2026-05-03T07:20:05Z'
   size: 246812
   visibility: public
   has_issues: true
@@ -6997,14 +6997,14 @@
 - id: 91253698
   name: ccxt/ccxt
   url: https://github.com/ccxt/ccxt
-  stars: 42175
+  stars: 42176
   pushed_at: '2026-05-01T07:54:48Z'
   description: 'A cryptocurrency trading API with more than 100 exchanges in JavaScript
     / TypeScript / Python / C# / PHP / Go '
   language: Python
   forks: 8635
   open_issues: 1335
-  watchers: 42175
+  watchers: 42176
   owner_login: ccxt
   owner_avatar: https://avatars.githubusercontent.com/u/31901609?v=4
   owner_url: https://github.com/ccxt
@@ -7035,7 +7035,7 @@
   archived: false
   disabled: false
   created_at: '2017-05-14T15:41:56Z'
-  updated_at: '2026-05-03T04:52:29Z'
+  updated_at: '2026-05-03T07:28:43Z'
   size: 6628510
   visibility: public
   has_issues: true
@@ -7046,15 +7046,15 @@
 - id: 327089870
   name: payloadcms/payload
   url: https://github.com/payloadcms/payload
-  stars: 42163
+  stars: 42164
   pushed_at: '2026-05-02T13:44:41Z'
   description: Payload is the open-source, fullstack Next.js framework, giving you
     instant backend superpowers. Get a full TypeScript backend and admin panel instantly.
     Use Payload as a headless CMS or for building powerful applications.
   language: TypeScript
   forks: 3660
-  open_issues: 670
-  watchers: 42163
+  open_issues: 671
+  watchers: 42164
   owner_login: payloadcms
   owner_avatar: https://avatars.githubusercontent.com/u/62968818?v=4
   owner_url: https://github.com/payloadcms
@@ -7084,7 +7084,7 @@
   archived: false
   disabled: false
   created_at: '2021-01-05T18:49:45Z'
-  updated_at: '2026-05-03T05:03:42Z'
+  updated_at: '2026-05-03T07:13:47Z'
   size: 181813
   visibility: public
   has_issues: true
@@ -7095,13 +7095,13 @@
 - id: 1147094660
   name: HKUDS/nanobot
   url: https://github.com/HKUDS/nanobot
-  stars: 41539
+  stars: 41541
   pushed_at: '2026-05-02T17:03:22Z'
   description: '"🐈 nanobot: The Ultra-Lightweight Personal AI Agent"'
   language: Python
-  forks: 7296
+  forks: 7297
   open_issues: 891
-  watchers: 41539
+  watchers: 41541
   owner_login: HKUDS
   owner_avatar: https://avatars.githubusercontent.com/u/118165258?v=4
   owner_url: https://github.com/HKUDS
@@ -7124,7 +7124,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-01T07:16:15Z'
-  updated_at: '2026-05-03T06:39:01Z'
+  updated_at: '2026-05-03T07:30:53Z'
   size: 40646
   visibility: public
   has_issues: true
@@ -7209,7 +7209,7 @@
 - id: 1200597263
   name: safishamsi/graphify
   url: https://github.com/safishamsi/graphify
-  stars: 40994
+  stars: 41013
   pushed_at: '2026-05-02T17:09:40Z'
   description: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini
     CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts,
@@ -7218,7 +7218,7 @@
   language: Python
   forks: 4506
   open_issues: 205
-  watchers: 40994
+  watchers: 41013
   owner_login: safishamsi
   owner_avatar: https://avatars.githubusercontent.com/u/216348667?v=4
   owner_url: https://github.com/safishamsi
@@ -7240,7 +7240,7 @@
   archived: false
   disabled: false
   created_at: '2026-04-03T15:49:07Z'
-  updated_at: '2026-05-03T07:01:29Z'
+  updated_at: '2026-05-03T07:31:50Z'
   size: 1450
   visibility: public
   has_issues: true
@@ -7299,14 +7299,14 @@
 - id: 202890778
   name: chakra-ui/chakra-ui
   url: https://github.com/chakra-ui/chakra-ui
-  stars: 40396
+  stars: 40397
   pushed_at: '2026-05-02T05:41:27Z'
   description: Chakra UI is a component system for building SaaS products with speed
     ⚡️
   language: TypeScript
-  forks: 3599
+  forks: 3600
   open_issues: 15
-  watchers: 40396
+  watchers: 40397
   owner_login: chakra-ui
   owner_avatar: https://avatars.githubusercontent.com/u/54212428?v=4
   owner_url: https://github.com/chakra-ui
@@ -7333,7 +7333,7 @@
   archived: false
   disabled: false
   created_at: '2019-08-17T14:27:54Z'
-  updated_at: '2026-05-03T04:45:31Z'
+  updated_at: '2026-05-03T07:21:04Z'
   size: 283249
   visibility: public
   has_issues: true
@@ -7344,14 +7344,14 @@
 - id: 1139971460
   name: rtk-ai/rtk
   url: https://github.com/rtk-ai/rtk
-  stars: 40197
+  stars: 40208
   pushed_at: '2026-05-02T16:44:06Z'
   description: CLI proxy that reduces LLM token consumption by 60-90% on common dev
     commands. Single Rust binary, zero dependencies
   language: Rust
-  forks: 2455
+  forks: 2458
   open_issues: 794
-  watchers: 40197
+  watchers: 40208
   owner_login: rtk-ai
   owner_avatar: https://avatars.githubusercontent.com/u/258253854?v=4
   owner_url: https://github.com/rtk-ai
@@ -7375,7 +7375,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-22T16:54:16Z'
-  updated_at: '2026-05-03T06:58:42Z'
+  updated_at: '2026-05-03T07:32:21Z'
   size: 3842
   visibility: public
   has_issues: true
@@ -7386,14 +7386,14 @@
 - id: 458648791
   name: paperless-ngx/paperless-ngx
   url: https://github.com/paperless-ngx/paperless-ngx
-  stars: 40184
+  stars: 40185
   pushed_at: '2026-05-03T03:00:21Z'
   description: 'A community-supported supercharged document management system: scan,
     index and archive all your documents'
   language: Python
   forks: 2630
   open_issues: 12
-  watchers: 40184
+  watchers: 40185
   owner_login: paperless-ngx
   owner_avatar: https://avatars.githubusercontent.com/u/99562962?v=4
   owner_url: https://github.com/paperless-ngx
@@ -7415,7 +7415,7 @@
   archived: false
   disabled: false
   created_at: '2022-02-12T21:56:52Z'
-  updated_at: '2026-05-03T06:21:07Z'
+  updated_at: '2026-05-03T07:15:31Z'
   size: 186907
   visibility: public
   has_issues: true
@@ -7508,13 +7508,13 @@
 - id: 234231371
   name: gofiber/fiber
   url: https://github.com/gofiber/fiber
-  stars: 39679
+  stars: 39678
   pushed_at: '2026-05-02T15:20:44Z'
   description: ⚡️ Express inspired web framework written in Go
   language: Go
   forks: 1976
   open_issues: 46
-  watchers: 39679
+  watchers: 39678
   owner_login: gofiber
   owner_avatar: https://avatars.githubusercontent.com/u/59947262?v=4
   owner_url: https://github.com/gofiber
@@ -7540,7 +7540,7 @@
   archived: false
   disabled: false
   created_at: '2020-01-16T03:59:20Z'
-  updated_at: '2026-05-03T02:35:05Z'
+  updated_at: '2026-05-03T07:11:46Z'
   size: 46514
   visibility: public
   has_issues: true
@@ -7551,15 +7551,15 @@
 - id: 976921297
   name: asgeirtj/system_prompts_leaks
   url: https://github.com/asgeirtj/system_prompts_leaks
-  stars: 39396
+  stars: 39398
   pushed_at: '2026-05-01T17:46:38Z'
   description: Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus
     4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI),
     Grok (4.3 beta), Perplexity, and more. Updated regularly.
   language: null
-  forks: 6498
+  forks: 6499
   open_issues: 20
-  watchers: 39396
+  watchers: 39398
   owner_login: asgeirtj
   owner_avatar: https://avatars.githubusercontent.com/u/27446620?v=4
   owner_url: https://github.com/asgeirtj
@@ -7588,7 +7588,7 @@
   archived: false
   disabled: false
   created_at: '2025-05-03T02:43:56Z'
-  updated_at: '2026-05-03T05:25:08Z'
+  updated_at: '2026-05-03T07:31:47Z'
   size: 2457
   visibility: public
   has_issues: true
@@ -7599,14 +7599,14 @@
 - id: 858262444
   name: PatrickJS/awesome-cursorrules
   url: https://github.com/PatrickJS/awesome-cursorrules
-  stars: 39355
+  stars: 39356
   pushed_at: '2026-05-02T06:06:04Z'
   description: 📄  Configuration files that enhance Cursor AI editor experience with
     custom rules and behaviors
   language: MDX
-  forks: 3352
+  forks: 3353
   open_issues: 131
-  watchers: 39355
+  watchers: 39356
   owner_login: PatrickJS
   owner_avatar: https://avatars.githubusercontent.com/u/1016365?v=4
   owner_url: https://github.com/PatrickJS
@@ -7622,7 +7622,7 @@
   archived: false
   disabled: false
   created_at: '2024-09-16T15:38:38Z'
-  updated_at: '2026-05-03T03:41:56Z'
+  updated_at: '2026-05-03T07:04:24Z'
   size: 2085
   visibility: public
   has_issues: true
@@ -7633,13 +7633,13 @@
 - id: 186024298
   name: nushell/nushell
   url: https://github.com/nushell/nushell
-  stars: 39313
+  stars: 39315
   pushed_at: '2026-05-02T23:30:41Z'
   description: A new type of shell
   language: Rust
   forks: 2117
   open_issues: 1494
-  watchers: 39313
+  watchers: 39315
   owner_login: nushell
   owner_avatar: https://avatars.githubusercontent.com/u/50749515?v=4
   owner_url: https://github.com/nushell
@@ -7653,7 +7653,7 @@
   archived: false
   disabled: false
   created_at: '2019-05-10T16:59:42Z'
-  updated_at: '2026-05-03T05:29:12Z'
+  updated_at: '2026-05-03T07:24:51Z'
   size: 63890
   visibility: public
   has_issues: true
@@ -7709,14 +7709,14 @@
 - id: 838695230
   name: DavidHDev/react-bits
   url: https://github.com/DavidHDev/react-bits
-  stars: 38797
+  stars: 38798
   pushed_at: '2026-05-02T20:19:12Z'
   description: An open source collection of animated, interactive & fully customizable
     React components for building memorable websites.
   language: JavaScript
   forks: 1739
   open_issues: 3
-  watchers: 38797
+  watchers: 38798
   owner_login: DavidHDev
   owner_avatar: https://avatars.githubusercontent.com/u/48634587?v=4
   owner_url: https://github.com/DavidHDev
@@ -7743,7 +7743,7 @@
   archived: false
   disabled: false
   created_at: '2024-08-06T06:54:54Z'
-  updated_at: '2026-05-03T06:54:00Z'
+  updated_at: '2026-05-03T07:27:08Z'
   size: 63830
   visibility: public
   has_issues: true
@@ -7829,14 +7829,14 @@
 - id: 59435364
   name: outline/outline
   url: https://github.com/outline/outline
-  stars: 38365
+  stars: 38366
   pushed_at: '2026-05-02T22:54:40Z'
   description: The fastest knowledge base for growing teams. Beautiful, realtime collaborative,
     feature packed, and markdown compatible.
   language: TypeScript
   forks: 3258
   open_issues: 71
-  watchers: 38365
+  watchers: 38366
   owner_login: outline
   owner_avatar: https://avatars.githubusercontent.com/u/1765001?v=4
   owner_url: https://github.com/outline
@@ -7854,7 +7854,7 @@
   archived: false
   disabled: false
   created_at: '2016-05-22T21:31:47Z'
-  updated_at: '2026-05-03T06:59:54Z'
+  updated_at: '2026-05-03T07:30:30Z'
   size: 315522
   visibility: public
   has_issues: true
@@ -7865,13 +7865,13 @@
 - id: 263727855
   name: pola-rs/polars
   url: https://github.com/pola-rs/polars
-  stars: 38363
+  stars: 38364
   pushed_at: '2026-05-02T11:23:56Z'
   description: Extremely fast Query Engine for DataFrames, written in Rust
   language: Rust
   forks: 2794
   open_issues: 2740
-  watchers: 38363
+  watchers: 38364
   owner_login: pola-rs
   owner_avatar: https://avatars.githubusercontent.com/u/83768144?v=4
   owner_url: https://github.com/pola-rs
@@ -7890,7 +7890,7 @@
   archived: false
   disabled: false
   created_at: '2020-05-13T19:45:33Z'
-  updated_at: '2026-05-03T05:33:50Z'
+  updated_at: '2026-05-03T07:16:06Z'
   size: 204789
   visibility: public
   has_issues: true
@@ -8211,14 +8211,14 @@
 - id: 663900193
   name: sxyazi/yazi
   url: https://github.com/sxyazi/yazi
-  stars: 37360
+  stars: 37361
   pushed_at: '2026-05-02T14:30:44Z'
   description: 💥 Blazing fast terminal file manager written in Rust, based on async
     I/O.
   language: Rust
   forks: 835
   open_issues: 66
-  watchers: 37360
+  watchers: 37361
   owner_login: sxyazi
   owner_avatar: https://avatars.githubusercontent.com/u/17523360?v=4
   owner_url: https://github.com/sxyazi
@@ -8248,7 +8248,7 @@
   archived: false
   disabled: false
   created_at: '2023-07-08T11:45:55Z'
-  updated_at: '2026-05-03T06:40:40Z'
+  updated_at: '2026-05-03T07:04:38Z'
   size: 7995
   visibility: public
   has_issues: true
@@ -8370,16 +8370,16 @@
 - id: 995029641
   name: ruvnet/ruflo
   url: https://github.com/ruvnet/ruflo
-  stars: 37146
+  stars: 37182
   pushed_at: '2026-05-03T02:29:31Z'
   description: 🌊 The leading agent orchestration platform for Claude. Deploy intelligent
     multi-agent swarms, coordinate autonomous workflows, and build conversational
     AI systems. Features    enterprise-grade architecture, distributed swarm intelligence,
     RAG integration, and native Claude Code / Codex Integration
   language: TypeScript
-  forks: 4252
+  forks: 4254
   open_issues: 489
-  watchers: 37146
+  watchers: 37182
   owner_login: ruvnet
   owner_avatar: https://avatars.githubusercontent.com/u/2934394?v=4
   owner_url: https://github.com/ruvnet
@@ -8410,7 +8410,7 @@
   archived: false
   disabled: false
   created_at: '2025-06-02T21:24:20Z'
-  updated_at: '2026-05-03T07:01:26Z'
+  updated_at: '2026-05-03T07:32:54Z'
   size: 517595
   visibility: public
   has_issues: true
@@ -8467,13 +8467,13 @@
 - id: 519895363
   name: GyulyVGC/sniffnet
   url: https://github.com/GyulyVGC/sniffnet
-  stars: 37121
+  stars: 37123
   pushed_at: '2026-05-02T20:27:20Z'
   description: Comfortably monitor your Internet traffic 🕵️‍♂️
   language: Rust
   forks: 1484
   open_issues: 57
-  watchers: 37121
+  watchers: 37123
   owner_login: GyulyVGC
   owner_avatar: https://avatars.githubusercontent.com/u/100347457?v=4
   owner_url: https://github.com/GyulyVGC
@@ -8503,7 +8503,7 @@
   archived: false
   disabled: false
   created_at: '2022-07-31T21:55:56Z'
-  updated_at: '2026-05-03T06:19:24Z'
+  updated_at: '2026-05-03T07:29:29Z'
   size: 342206
   visibility: public
   has_issues: true
@@ -8588,13 +8588,13 @@
 - id: 438803890
   name: LizardByte/Sunshine
   url: https://github.com/LizardByte/Sunshine
-  stars: 36613
+  stars: 36615
   pushed_at: '2026-05-02T06:33:39Z'
   description: Self-hosted game stream host for Moonlight.
   language: C++
   forks: 1894
   open_issues: 123
-  watchers: 36613
+  watchers: 36615
   owner_login: LizardByte
   owner_avatar: https://avatars.githubusercontent.com/u/84790584?v=4
   owner_url: https://github.com/LizardByte
@@ -8622,7 +8622,7 @@
   archived: false
   disabled: false
   created_at: '2021-12-15T23:38:57Z'
-  updated_at: '2026-05-03T04:22:27Z'
+  updated_at: '2026-05-03T07:27:08Z'
   size: 62441
   visibility: public
   has_issues: true
@@ -8633,13 +8633,13 @@
 - id: 145464445
   name: ueberdosis/tiptap
   url: https://github.com/ueberdosis/tiptap
-  stars: 36563
+  stars: 36564
   pushed_at: '2026-05-01T18:22:25Z'
   description: The headless rich text editor framework for web artisans.
   language: TypeScript
   forks: 2972
   open_issues: 910
-  watchers: 36563
+  watchers: 36564
   owner_login: ueberdosis
   owner_avatar: https://avatars.githubusercontent.com/u/16939337?v=4
   owner_url: https://github.com/ueberdosis
@@ -8661,7 +8661,7 @@
   archived: false
   disabled: false
   created_at: '2018-08-20T19:58:58Z'
-  updated_at: '2026-05-03T05:56:27Z'
+  updated_at: '2026-05-03T07:23:28Z'
   size: 78836
   visibility: public
   has_issues: true
@@ -8708,7 +8708,7 @@
 - id: 600596928
   name: danny-avila/LibreChat
   url: https://github.com/danny-avila/LibreChat
-  stars: 36475
+  stars: 36477
   pushed_at: '2026-05-02T17:59:44Z'
   description: 'Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic,
     AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex
@@ -8717,8 +8717,8 @@
     for self-hosting. Active.'
   language: TypeScript
   forks: 7473
-  open_issues: 422
-  watchers: 36475
+  open_issues: 423
+  watchers: 36477
   owner_login: danny-avila
   owner_avatar: https://avatars.githubusercontent.com/u/110412045?v=4
   owner_url: https://github.com/danny-avila
@@ -8749,7 +8749,7 @@
   archived: false
   disabled: false
   created_at: '2023-02-12T01:06:52Z'
-  updated_at: '2026-05-03T07:02:02Z'
+  updated_at: '2026-05-03T07:13:33Z'
   size: 169707
   visibility: public
   has_issues: true
@@ -9038,7 +9038,7 @@
     CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
   language: TypeScript
   forks: 4732
-  open_issues: 395
+  open_issues: 396
   watchers: 34974
   owner_login: directus
   owner_avatar: https://avatars.githubusercontent.com/u/15967950?v=4
@@ -9161,13 +9161,13 @@
 - id: 60243197
   name: nextcloud/server
   url: https://github.com/nextcloud/server
-  stars: 34799
+  stars: 34800
   pushed_at: '2026-05-03T04:13:50Z'
   description: ☁️ Nextcloud server, a safe home for all your data
   language: PHP
   forks: 4839
   open_issues: 3334
-  watchers: 34799
+  watchers: 34800
   owner_login: nextcloud
   owner_avatar: https://avatars.githubusercontent.com/u/19211038?v=4
   owner_url: https://github.com/nextcloud
@@ -9198,7 +9198,7 @@
   archived: false
   disabled: false
   created_at: '2016-06-02T07:44:14Z'
-  updated_at: '2026-05-03T06:28:38Z'
+  updated_at: '2026-05-03T07:25:18Z'
   size: 6405798
   visibility: public
   has_issues: true
@@ -9209,13 +9209,13 @@
 - id: 1025856648
   name: wshobson/agents
   url: https://github.com/wshobson/agents
-  stars: 34664
+  stars: 34665
   pushed_at: '2026-05-02T21:35:13Z'
   description: Intelligent automation and multi-agent orchestration for Claude Code
   language: Python
   forks: 3768
   open_issues: 5
-  watchers: 34664
+  watchers: 34665
   owner_login: wshobson
   owner_avatar: https://avatars.githubusercontent.com/u/553618?v=4
   owner_url: https://github.com/wshobson
@@ -9246,7 +9246,7 @@
   archived: false
   disabled: false
   created_at: '2025-07-24T23:28:14Z'
-  updated_at: '2026-05-03T06:50:21Z'
+  updated_at: '2026-05-03T07:27:21Z'
   size: 4194
   visibility: public
   has_issues: true
@@ -9330,13 +9330,13 @@
 - id: 107505869
   name: firecracker-microvm/firecracker
   url: https://github.com/firecracker-microvm/firecracker
-  stars: 34099
+  stars: 34100
   pushed_at: '2026-05-01T15:30:25Z'
   description: Secure and fast microVMs for serverless computing.
   language: Rust
   forks: 2370
   open_issues: 78
-  watchers: 34099
+  watchers: 34100
   owner_login: firecracker-microvm
   owner_avatar: https://avatars.githubusercontent.com/u/44477506?v=4
   owner_url: https://github.com/firecracker-microvm
@@ -9356,7 +9356,7 @@
   archived: false
   disabled: false
   created_at: '2017-10-19T06:18:47Z'
-  updated_at: '2026-05-03T06:43:10Z'
+  updated_at: '2026-05-03T07:08:53Z'
   size: 39656
   visibility: public
   has_issues: true
@@ -9404,11 +9404,11 @@
   name: wailsapp/wails
   url: https://github.com/wailsapp/wails
   stars: 33933
-  pushed_at: '2026-05-03T03:59:51Z'
+  pushed_at: '2026-05-03T07:30:19Z'
   description: Create beautiful applications using Go
   language: Go
   forks: 1673
-  open_issues: 402
+  open_issues: 403
   watchers: 33933
   owner_login: wailsapp
   owner_avatar: https://avatars.githubusercontent.com/u/39746503?v=4
@@ -9442,13 +9442,13 @@
 - id: 28387406
   name: awesome-foss/awesome-sysadmin
   url: https://github.com/awesome-foss/awesome-sysadmin
-  stars: 33784
+  stars: 33785
   pushed_at: '2026-05-01T12:06:58Z'
   description: A curated list of amazingly awesome open-source sysadmin resources.
   language: null
   forks: 2007
   open_issues: 62
-  watchers: 33784
+  watchers: 33785
   owner_login: awesome-foss
   owner_avatar: https://avatars.githubusercontent.com/u/20512645?v=4
   owner_url: https://github.com/awesome-foss
@@ -9468,7 +9468,7 @@
   archived: false
   disabled: false
   created_at: '2014-12-23T08:41:22Z'
-  updated_at: '2026-05-03T02:15:15Z'
+  updated_at: '2026-05-03T07:14:24Z'
   size: 1373
   visibility: public
   has_issues: true
@@ -9479,14 +9479,14 @@
 - id: 1131513930
   name: ZhuLinsen/daily_stock_analysis
   url: https://github.com/ZhuLinsen/daily_stock_analysis
-  stars: 33741
+  stars: 33745
   pushed_at: '2026-05-02T15:39:41Z'
   description: LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered
     stock analysis system for A/H/US markets.
   language: Python
-  forks: 33492
+  forks: 33497
   open_issues: 55
-  watchers: 33741
+  watchers: 33745
   owner_login: ZhuLinsen
   owner_avatar: https://avatars.githubusercontent.com/u/42829555?v=4
   owner_url: https://github.com/ZhuLinsen
@@ -9506,7 +9506,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-10T06:43:20Z'
-  updated_at: '2026-05-03T06:38:04Z'
+  updated_at: '2026-05-03T07:20:26Z'
   size: 60476
   visibility: public
   has_issues: true
@@ -9521,7 +9521,7 @@
   pushed_at: '2026-05-01T19:15:49Z'
   description: Open Source Alternative to Vercel, Netlify and Heroku.
   language: TypeScript
-  forks: 2424
+  forks: 2425
   open_issues: 513
   watchers: 33678
   owner_login: Dokploy
@@ -9642,13 +9642,13 @@
 - id: 4279682
   name: fish-shell/fish-shell
   url: https://github.com/fish-shell/fish-shell
-  stars: 33341
+  stars: 33342
   pushed_at: '2026-05-02T07:14:40Z'
   description: The user-friendly command line shell.
   language: Rust
   forks: 2286
   open_issues: 546
-  watchers: 33341
+  watchers: 33342
   owner_login: fish-shell
   owner_avatar: https://avatars.githubusercontent.com/u/1828073?v=4
   owner_url: https://github.com/fish-shell
@@ -9663,7 +9663,7 @@
   archived: false
   disabled: false
   created_at: '2012-05-10T03:00:55Z'
-  updated_at: '2026-05-03T06:49:41Z'
+  updated_at: '2026-05-03T07:06:10Z'
   size: 172714
   visibility: public
   has_issues: true
@@ -9792,14 +9792,14 @@
 - id: 71056775
   name: kovidgoyal/kitty
   url: https://github.com/kovidgoyal/kitty
-  stars: 32719
+  stars: 32720
   pushed_at: '2026-05-03T06:39:51Z'
   description: If you live in the terminal, kitty is made for you! Cross-platform,
     fast, feature-rich, GPU based.
   language: Python
   forks: 1355
   open_issues: 8
-  watchers: 32719
+  watchers: 32720
   owner_login: kovidgoyal
   owner_avatar: https://avatars.githubusercontent.com/u/1308621?v=4
   owner_url: https://github.com/kovidgoyal
@@ -9822,8 +9822,8 @@
   archived: false
   disabled: false
   created_at: '2016-10-16T14:48:28Z'
-  updated_at: '2026-05-03T06:39:55Z'
-  size: 72563
+  updated_at: '2026-05-03T07:19:57Z'
+  size: 72567
   visibility: public
   has_issues: true
   has_projects: true
@@ -9834,12 +9834,12 @@
   name: nicolargo/glances
   url: https://github.com/nicolargo/glances
   stars: 32445
-  pushed_at: '2026-05-02T06:59:48Z'
+  pushed_at: '2026-05-03T07:15:42Z'
   description: Glances an Eye on your system. A top/htop alternative for GNU/Linux,
     BSD, Mac OS and Windows operating systems.
   language: Python
   forks: 1731
-  open_issues: 101
+  open_issues: 99
   watchers: 32445
   owner_login: nicolargo
   owner_avatar: https://avatars.githubusercontent.com/u/776747?v=4
@@ -9859,7 +9859,7 @@
   archived: false
   disabled: false
   created_at: '2011-12-04T08:49:15Z'
-  updated_at: '2026-05-03T06:31:08Z'
+  updated_at: '2026-05-03T07:15:46Z'
   size: 54917
   visibility: public
   has_issues: true
@@ -9985,14 +9985,14 @@
 - id: 16563587
   name: cockroachdb/cockroach
   url: https://github.com/cockroachdb/cockroach
-  stars: 32117
-  pushed_at: '2026-05-03T07:01:13Z'
+  stars: 32118
+  pushed_at: '2026-05-03T07:31:48Z'
   description: CockroachDB — the cloud native, distributed SQL database designed for
     high availability, effortless scale, and control over data placement.
   language: Go
   forks: 4119
   open_issues: 8242
-  watchers: 32117
+  watchers: 32118
   owner_login: cockroachdb
   owner_avatar: https://avatars.githubusercontent.com/u/6748139?v=4
   owner_url: https://github.com/cockroachdb
@@ -10009,7 +10009,7 @@
   archived: false
   disabled: false
   created_at: '2014-02-06T00:18:47Z'
-  updated_at: '2026-05-03T06:17:06Z'
+  updated_at: '2026-05-03T07:16:30Z'
   size: 3574631
   visibility: public
   has_issues: true
@@ -10020,15 +10020,15 @@
 - id: 21827146
   name: seaweedfs/seaweedfs
   url: https://github.com/seaweedfs/seaweedfs
-  stars: 32034
-  pushed_at: '2026-05-03T06:28:23Z'
+  stars: 32035
+  pushed_at: '2026-05-03T07:17:17Z'
   description: SeaweedFS is a distributed storage system for object storage (S3),
     file systems, and Iceberg tables, designed to handle billions of files with O(1)
     disk access and effortless horizontal scaling.
   language: Go
   forks: 2807
-  open_issues: 725
-  watchers: 32034
+  open_issues: 724
+  watchers: 32035
   owner_login: seaweedfs
   owner_avatar: https://avatars.githubusercontent.com/u/11985425?v=4
   owner_url: https://github.com/seaweedfs
@@ -10056,7 +10056,7 @@
   archived: false
   disabled: false
   created_at: '2014-07-14T16:41:37Z'
-  updated_at: '2026-05-03T05:10:58Z'
+  updated_at: '2026-05-03T07:29:17Z'
   size: 183886
   visibility: public
   has_issues: true
@@ -10114,14 +10114,14 @@
 - id: 1000362065
   name: github/awesome-copilot
   url: https://github.com/github/awesome-copilot
-  stars: 31981
+  stars: 31983
   pushed_at: '2026-05-02T19:44:45Z'
   description: Community-contributed instructions, agents, skills, and configurations
     to help you make the most of GitHub Copilot.
   language: Python
   forks: 3871
   open_issues: 51
-  watchers: 31981
+  watchers: 31983
   owner_login: github
   owner_avatar: https://avatars.githubusercontent.com/u/9919?v=4
   owner_url: https://github.com/github
@@ -10140,7 +10140,7 @@
   archived: false
   disabled: false
   created_at: '2025-06-11T16:57:39Z'
-  updated_at: '2026-05-03T06:26:46Z'
+  updated_at: '2026-05-03T07:22:03Z'
   size: 62612
   visibility: public
   has_issues: true
@@ -10195,14 +10195,14 @@
 - id: 10567197
   name: dokku/dokku
   url: https://github.com/dokku/dokku
-  stars: 31871
+  stars: 31872
   pushed_at: '2026-05-03T06:52:52Z'
   description: A docker-powered PaaS that helps you build and manage the lifecycle
     of applications
   language: Shell
   forks: 2029
   open_issues: 20
-  watchers: 31871
+  watchers: 31872
   owner_login: dokku
   owner_avatar: https://avatars.githubusercontent.com/u/13455795?v=4
   owner_url: https://github.com/dokku
@@ -10224,7 +10224,7 @@
   archived: false
   disabled: false
   created_at: '2013-06-08T10:26:57Z'
-  updated_at: '2026-05-02T21:56:40Z'
+  updated_at: '2026-05-03T07:14:24Z'
   size: 23531
   visibility: public
   has_issues: true
@@ -10241,7 +10241,7 @@
     Provides I/O, networking, scheduling, timers, ...
   language: Rust
   forks: 3027
-  open_issues: 417
+  open_issues: 418
   watchers: 31866
   owner_login: tokio-rs
   owner_avatar: https://avatars.githubusercontent.com/u/20248544?v=4
@@ -10441,14 +10441,14 @@
 - id: 575865240
   name: AstrBotDevs/AstrBot
   url: https://github.com/AstrBotDevs/AstrBot
-  stars: 31207
-  pushed_at: '2026-05-03T07:01:45Z'
+  stars: 31210
+  pushed_at: '2026-05-03T07:09:49Z'
   description: AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins
     and AI feature, and can be your openclaw alternative. ✨
   language: Python
-  forks: 2148
-  open_issues: 1026
-  watchers: 31207
+  forks: 2150
+  open_issues: 1014
+  watchers: 31210
   owner_login: AstrBotDevs
   owner_avatar: https://avatars.githubusercontent.com/u/197911947?v=4
   owner_url: https://github.com/AstrBotDevs
@@ -10475,8 +10475,8 @@
   archived: false
   disabled: false
   created_at: '2022-12-08T13:27:46Z'
-  updated_at: '2026-05-03T06:57:10Z'
-  size: 63840
+  updated_at: '2026-05-03T07:24:57Z'
+  size: 63526
   visibility: public
   has_issues: true
   has_projects: true
@@ -10558,13 +10558,13 @@
 - id: 676672661
   name: langchain-ai/langgraph
   url: https://github.com/langchain-ai/langgraph
-  stars: 31073
+  stars: 31074
   pushed_at: '2026-05-03T01:05:11Z'
   description: Build resilient language agents as graphs.
   language: Python
   forks: 5298
   open_issues: 515
-  watchers: 31073
+  watchers: 31074
   owner_login: langchain-ai
   owner_avatar: https://avatars.githubusercontent.com/u/126733545?v=4
   owner_url: https://github.com/langchain-ai
@@ -10593,7 +10593,7 @@
   archived: false
   disabled: false
   created_at: '2023-08-09T18:33:12Z'
-  updated_at: '2026-05-03T06:57:50Z'
+  updated_at: '2026-05-03T07:32:53Z'
   size: 518649
   visibility: public
   has_issues: true
@@ -10653,14 +10653,14 @@
 - id: 1156956890
   name: zeroclaw-labs/zeroclaw
   url: https://github.com/zeroclaw-labs/zeroclaw
-  stars: 30936
-  pushed_at: '2026-05-03T05:32:48Z'
+  stars: 30937
+  pushed_at: '2026-05-03T07:03:43Z'
   description: Fast, small, and fully autonomous AI personal assistant infrastructure,
     ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
   language: Rust
   forks: 4541
   open_issues: 381
-  watchers: 30936
+  watchers: 30937
   owner_login: zeroclaw-labs
   owner_avatar: https://avatars.githubusercontent.com/u/261820148?v=4
   owner_url: https://github.com/zeroclaw-labs
@@ -10679,7 +10679,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-13T08:56:04Z'
-  updated_at: '2026-05-03T06:30:15Z'
+  updated_at: '2026-05-03T07:26:21Z'
   size: 79041
   visibility: public
   has_issues: true
@@ -10728,14 +10728,14 @@
 - id: 1092047360
   name: luongnv89/claude-howto
   url: https://github.com/luongnv89/claude-howto
-  stars: 30841
+  stars: 30844
   pushed_at: '2026-05-02T22:18:18Z'
   description: A visual, example-driven guide to Claude Code — from basic concepts
     to advanced agents, with copy-paste templates that bring immediate value.
   language: Python
   forks: 3774
   open_issues: 26
-  watchers: 30841
+  watchers: 30844
   owner_login: luongnv89
   owner_avatar: https://avatars.githubusercontent.com/u/3288457?v=4
   owner_url: https://github.com/luongnv89
@@ -10749,7 +10749,7 @@
   archived: false
   disabled: false
   created_at: '2025-11-07T22:59:34Z'
-  updated_at: '2026-05-03T06:54:19Z'
+  updated_at: '2026-05-03T07:32:09Z'
   size: 12636
   visibility: public
   has_issues: true
@@ -11039,14 +11039,14 @@
 - id: 4008931
   name: StevenBlack/hosts
   url: https://github.com/StevenBlack/hosts
-  stars: 30296
+  stars: 30297
   pushed_at: '2026-05-02T15:35:03Z'
   description: 🔒 Consolidating and extending hosts files from several well-curated
     sources. Optionally pick extensions for porn, social media, and other categories.
   language: Python
   forks: 2408
   open_issues: 145
-  watchers: 30296
+  watchers: 30297
   owner_login: StevenBlack
   owner_avatar: https://avatars.githubusercontent.com/u/80144?v=4
   owner_url: https://github.com/StevenBlack
@@ -11073,7 +11073,7 @@
   archived: false
   disabled: false
   created_at: '2012-04-12T20:22:50Z'
-  updated_at: '2026-05-03T05:32:01Z'
+  updated_at: '2026-05-03T07:16:06Z'
   size: 1780585
   visibility: public
   has_issues: true
@@ -11166,14 +11166,14 @@
 - id: 53370988
   name: GoogleChrome/lighthouse
   url: https://github.com/GoogleChrome/lighthouse
-  stars: 30126
+  stars: 30127
   pushed_at: '2026-05-01T18:33:40Z'
   description: Automated auditing, performance metrics, and best practices for the
     web.
   language: JavaScript
-  forks: 9712
+  forks: 9713
   open_issues: 521
-  watchers: 30126
+  watchers: 30127
   owner_login: GoogleChrome
   owner_avatar: https://avatars.githubusercontent.com/u/1778935?v=4
   owner_url: https://github.com/GoogleChrome
@@ -11192,7 +11192,7 @@
   archived: false
   disabled: false
   created_at: '2016-03-08T01:03:11Z'
-  updated_at: '2026-05-03T06:04:55Z'
+  updated_at: '2026-05-03T07:07:43Z'
   size: 363918
   visibility: public
   has_issues: true
@@ -11203,13 +11203,13 @@
 - id: 664013991
   name: gitroomhq/postiz-app
   url: https://github.com/gitroomhq/postiz-app
-  stars: 29899
+  stars: 29900
   pushed_at: '2026-05-02T07:00:41Z'
   description: 📨 The ultimate agentic social media scheduling tool 🤖
   language: TypeScript
   forks: 5433
   open_issues: 223
-  watchers: 29899
+  watchers: 29900
   owner_login: gitroomhq
   owner_avatar: https://avatars.githubusercontent.com/u/128401275?v=4
   owner_url: https://github.com/gitroomhq
@@ -11228,7 +11228,7 @@
   archived: false
   disabled: false
   created_at: '2023-07-08T17:24:22Z'
-  updated_at: '2026-05-03T06:45:26Z'
+  updated_at: '2026-05-03T07:23:10Z'
   size: 46000
   visibility: public
   has_issues: true
@@ -11412,11 +11412,11 @@
   name: chatwoot/chatwoot
   url: https://github.com/chatwoot/chatwoot
   stars: 28978
-  pushed_at: '2026-05-03T06:49:39Z'
+  pushed_at: '2026-05-03T07:12:30Z'
   description: Open-source live-chat, email support, omni-channel desk. An alternative
     to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
   language: Ruby
-  forks: 7134
+  forks: 7136
   open_issues: 1198
   watchers: 28978
   owner_login: chatwoot
@@ -11509,7 +11509,7 @@
     Ship in half the time.
   language: TypeScript
   forks: 2710
-  open_issues: 484
+  open_issues: 485
   watchers: 28632
   owner_login: nrwl
   owner_avatar: https://avatars.githubusercontent.com/u/23692104?v=4
@@ -11627,14 +11627,14 @@
 - id: 50613991
   name: goharbor/harbor
   url: https://github.com/goharbor/harbor
-  stars: 28410
+  stars: 28411
   pushed_at: '2026-05-02T09:27:09Z'
   description: An open source trusted cloud native registry project that stores, signs,
     and scans content.
   language: Go
   forks: 5212
   open_issues: 839
-  watchers: 28410
+  watchers: 28411
   owner_login: goharbor
   owner_avatar: https://avatars.githubusercontent.com/u/40275816?v=4
   owner_url: https://github.com/goharbor
@@ -11657,7 +11657,7 @@
   archived: false
   disabled: false
   created_at: '2016-01-28T21:10:28Z'
-  updated_at: '2026-05-03T06:46:18Z'
+  updated_at: '2026-05-03T07:06:21Z'
   size: 262543
   visibility: public
   has_issues: true
@@ -11707,14 +11707,14 @@
 - id: 912559512
   name: simstudioai/sim
   url: https://github.com/simstudioai/sim
-  stars: 28312
+  stars: 28314
   pushed_at: '2026-05-03T05:05:22Z'
   description: Build, deploy, and orchestrate AI agents. Sim is the central intelligence
     layer for your AI workforce.
   language: TypeScript
   forks: 3573
   open_issues: 200
-  watchers: 28312
+  watchers: 28314
   owner_login: simstudioai
   owner_avatar: https://avatars.githubusercontent.com/u/199344406?v=4
   owner_url: https://github.com/simstudioai
@@ -11743,7 +11743,7 @@
   archived: false
   disabled: false
   created_at: '2025-01-05T22:47:49Z'
-  updated_at: '2026-05-03T07:02:14Z'
+  updated_at: '2026-05-03T07:20:48Z'
   size: 438139
   visibility: public
   has_issues: true
@@ -11889,7 +11889,7 @@
   description: 'Proxmox VE Helper-Scripts (Community Edition) '
   language: Shell
   forks: 2656
-  open_issues: 17
+  open_issues: 16
   watchers: 27876
   owner_login: community-scripts
   owner_avatar: https://avatars.githubusercontent.com/u/187033296?v=4
@@ -11932,13 +11932,13 @@
 - id: 546206616
   name: chroma-core/chroma
   url: https://github.com/chroma-core/chroma
-  stars: 27769
+  stars: 27770
   pushed_at: '2026-05-02T23:48:40Z'
   description: Search infrastructure for AI
   language: Rust
   forks: 2230
   open_issues: 597
-  watchers: 27769
+  watchers: 27770
   owner_login: chroma-core
   owner_avatar: https://avatars.githubusercontent.com/u/105881770?v=4
   owner_url: https://github.com/chroma-core
@@ -11955,7 +11955,7 @@
   archived: false
   disabled: false
   created_at: '2022-10-05T17:58:44Z'
-  updated_at: '2026-05-03T06:54:01Z'
+  updated_at: '2026-05-03T07:07:59Z'
   size: 870059
   visibility: public
   has_issues: true
@@ -12017,11 +12017,11 @@
   name: authelia/authelia
   url: https://github.com/authelia/authelia
   stars: 27676
-  pushed_at: '2026-05-03T06:52:27Z'
+  pushed_at: '2026-05-03T07:24:12Z'
   description: The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
   language: Go
-  forks: 1396
-  open_issues: 115
+  forks: 1395
+  open_issues: 114
   watchers: 27676
   owner_login: authelia
   owner_avatar: https://avatars.githubusercontent.com/u/59122411?v=4
@@ -12053,7 +12053,7 @@
   archived: false
   disabled: false
   created_at: '2016-12-07T00:56:57Z'
-  updated_at: '2026-05-03T04:15:51Z'
+  updated_at: '2026-05-03T07:22:39Z'
   size: 76269
   visibility: public
   has_issues: true
@@ -12065,7 +12065,7 @@
   name: Automattic/mongoose
   url: https://github.com/Automattic/mongoose
   stars: 27476
-  pushed_at: '2026-05-02T22:03:11Z'
+  pushed_at: '2026-05-03T07:16:55Z'
   description: MongoDB object modeling designed to work in an asynchronous environment.
   language: JavaScript
   forks: 3980
@@ -12249,14 +12249,14 @@
 - id: 740303686
   name: sgl-project/sglang
   url: https://github.com/sgl-project/sglang
-  stars: 26982
-  pushed_at: '2026-05-03T06:59:51Z'
+  stars: 26984
+  pushed_at: '2026-05-03T07:30:38Z'
   description: SGLang is a high-performance serving framework for large language models
     and multimodal models.
   language: Python
   forks: 5668
-  open_issues: 3170
-  watchers: 26982
+  open_issues: 3172
+  watchers: 26984
   owner_login: sgl-project
   owner_avatar: https://avatars.githubusercontent.com/u/147780389?v=4
   owner_url: https://github.com/sgl-project
@@ -12285,8 +12285,8 @@
   archived: false
   disabled: false
   created_at: '2024-01-08T04:15:52Z'
-  updated_at: '2026-05-03T06:59:51Z'
-  size: 131138
+  updated_at: '2026-05-03T07:20:35Z'
+  size: 131014
   visibility: public
   has_issues: true
   has_projects: false
@@ -12296,14 +12296,14 @@
 - id: 253975496
   name: srbhr/Resume-Matcher
   url: https://github.com/srbhr/Resume-Matcher
-  stars: 26888
+  stars: 26889
   pushed_at: '2026-05-02T15:56:41Z'
   description: 'Improve your resumes with Resume Matcher. Get insights, keyword suggestions
     and tune your resumes to job descriptions. '
   language: TypeScript
-  forks: 4819
+  forks: 4820
   open_issues: 45
-  watchers: 26888
+  watchers: 26889
   owner_login: srbhr
   owner_avatar: https://avatars.githubusercontent.com/u/54472864?v=4
   owner_url: https://github.com/srbhr
@@ -12328,7 +12328,7 @@
   archived: false
   disabled: false
   created_at: '2020-04-08T03:26:49Z'
-  updated_at: '2026-05-03T03:53:32Z'
+  updated_at: '2026-05-03T07:23:51Z'
   size: 161472
   visibility: public
   has_issues: true
@@ -12339,14 +12339,14 @@
 - id: 204164353
   name: kestra-io/kestra
   url: https://github.com/kestra-io/kestra
-  stars: 26774
+  stars: 26775
   pushed_at: '2026-05-01T20:29:39Z'
   description: Event Driven Orchestration & Scheduling Platform for Mission Critical
     Applications
   language: Java
   forks: 2563
   open_issues: 502
-  watchers: 26774
+  watchers: 26775
   owner_login: kestra-io
   owner_avatar: https://avatars.githubusercontent.com/u/59033362?v=4
   owner_url: https://github.com/kestra-io
@@ -12370,7 +12370,7 @@
   archived: false
   disabled: false
   created_at: '2019-08-24T13:56:15Z'
-  updated_at: '2026-05-03T06:10:27Z'
+  updated_at: '2026-05-03T07:23:35Z'
   size: 110797
   visibility: public
   has_issues: true
@@ -12428,16 +12428,16 @@
 - id: 326404870
   name: SigNoz/signoz
   url: https://github.com/SigNoz/signoz
-  stars: 26754
+  stars: 26756
   pushed_at: '2026-05-02T22:33:51Z'
   description: SigNoz is an open-source observability platform native to OpenTelemetry
     with logs, traces and metrics in a single application. An open-source alternative
     to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring
     (APM) & Observability tool
   language: TypeScript
-  forks: 2139
+  forks: 2140
   open_issues: 1528
-  watchers: 26754
+  watchers: 26756
   owner_login: SigNoz
   owner_avatar: https://avatars.githubusercontent.com/u/76905799?v=4
   owner_url: https://github.com/SigNoz
@@ -12468,7 +12468,7 @@
   archived: false
   disabled: false
   created_at: '2021-01-03T12:44:36Z'
-  updated_at: '2026-05-03T06:59:30Z'
+  updated_at: '2026-05-03T07:16:53Z'
   size: 125446
   visibility: public
   has_issues: true
@@ -12476,17 +12476,66 @@
   has_wiki: true
   has_pages: true
   has_downloads: true
+- id: 642497346
+  name: langfuse/langfuse
+  url: https://github.com/langfuse/langfuse
+  stars: 26487
+  pushed_at: '2026-05-02T02:27:56Z'
+  description: '🪢 Open source LLM engineering platform: LLM Observability, metrics,
+    evals, prompt management, playground, datasets. Integrates with OpenTelemetry,
+    Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 '
+  language: TypeScript
+  forks: 2684
+  open_issues: 586
+  watchers: 26487
+  owner_login: langfuse
+  owner_avatar: https://avatars.githubusercontent.com/u/134601687?v=4
+  owner_url: https://github.com/langfuse
+  topics:
+  - analytics
+  - autogen
+  - evaluation
+  - langchain
+  - large-language-models
+  - llama-index
+  - llm
+  - llm-evaluation
+  - llm-observability
+  - llmops
+  - monitoring
+  - observability
+  - open-source
+  - openai
+  - playground
+  - prompt-engineering
+  - prompt-management
+  - self-hosted
+  - ycombinator
+  license: NOASSERTION
+  homepage: https://langfuse.com/docs
+  default_branch: main
+  archived: false
+  disabled: false
+  created_at: '2023-05-18T17:47:09Z'
+  updated_at: '2026-05-03T07:32:27Z'
+  size: 80286
+  visibility: public
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_pages: false
+  has_downloads: true
 - id: 521655652
   name: Infisical/infisical
   url: https://github.com/Infisical/infisical
-  stars: 26484
+  stars: 26485
   pushed_at: '2026-05-03T00:10:22Z'
   description: Infisical is the open-source platform for secrets, certificates, and
     privileged access management.
   language: TypeScript
-  forks: 1855
+  forks: 1854
   open_issues: 539
-  watchers: 26484
+  watchers: 26485
   owner_login: Infisical
   owner_avatar: https://avatars.githubusercontent.com/u/107880645?v=4
   owner_url: https://github.com/Infisical
@@ -12517,61 +12566,12 @@
   archived: false
   disabled: false
   created_at: '2022-08-05T13:50:00Z'
-  updated_at: '2026-05-03T06:41:19Z'
+  updated_at: '2026-05-03T07:19:14Z'
   size: 1423766
   visibility: public
   has_issues: true
   has_projects: true
   has_wiki: true
-  has_pages: false
-  has_downloads: true
-- id: 642497346
-  name: langfuse/langfuse
-  url: https://github.com/langfuse/langfuse
-  stars: 26484
-  pushed_at: '2026-05-02T02:27:56Z'
-  description: '🪢 Open source LLM engineering platform: LLM Observability, metrics,
-    evals, prompt management, playground, datasets. Integrates with OpenTelemetry,
-    Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 '
-  language: TypeScript
-  forks: 2684
-  open_issues: 586
-  watchers: 26484
-  owner_login: langfuse
-  owner_avatar: https://avatars.githubusercontent.com/u/134601687?v=4
-  owner_url: https://github.com/langfuse
-  topics:
-  - analytics
-  - autogen
-  - evaluation
-  - langchain
-  - large-language-models
-  - llama-index
-  - llm
-  - llm-evaluation
-  - llm-observability
-  - llmops
-  - monitoring
-  - observability
-  - open-source
-  - openai
-  - playground
-  - prompt-engineering
-  - prompt-management
-  - self-hosted
-  - ycombinator
-  license: NOASSERTION
-  homepage: https://langfuse.com/docs
-  default_branch: main
-  archived: false
-  disabled: false
-  created_at: '2023-05-18T17:47:09Z'
-  updated_at: '2026-05-03T06:19:07Z'
-  size: 80286
-  visibility: public
-  has_issues: true
-  has_projects: false
-  has_wiki: false
   has_pages: false
   has_downloads: true
 - id: 133134007
@@ -12734,13 +12734,13 @@
 - id: 946380199
   name: openai/openai-agents-python
   url: https://github.com/openai/openai-agents-python
-  stars: 25792
+  stars: 25797
   pushed_at: '2026-05-02T06:40:56Z'
   description: A lightweight, powerful framework for multi-agent workflows
   language: Python
   forks: 3935
   open_issues: 74
-  watchers: 25792
+  watchers: 25797
   owner_login: openai
   owner_avatar: https://avatars.githubusercontent.com/u/14957082?v=4
   owner_url: https://github.com/openai
@@ -12757,7 +12757,7 @@
   archived: false
   disabled: false
   created_at: '2025-03-11T03:42:36Z'
-  updated_at: '2026-05-03T07:01:41Z'
+  updated_at: '2026-05-03T07:30:45Z'
   size: 28420
   visibility: public
   has_issues: true
@@ -12813,7 +12813,7 @@
     AI applications while controlling costs and managing access to models and data.
   language: Python
   forks: 5675
-  open_issues: 2052
+  open_issues: 2054
   watchers: 25691
   owner_login: mlflow
   owner_avatar: https://avatars.githubusercontent.com/u/39938107?v=4
@@ -12854,14 +12854,14 @@
 - id: 775743011
   name: valkey-io/valkey
   url: https://github.com/valkey-io/valkey
-  stars: 25646
+  stars: 25647
   pushed_at: '2026-05-03T03:17:03Z'
   description: A flexible distributed key-value database that is optimized for caching
     and other realtime workloads.
   language: C
   forks: 1118
   open_issues: 648
-  watchers: 25646
+  watchers: 25647
   owner_login: valkey-io
   owner_avatar: https://avatars.githubusercontent.com/u/164458127?v=4
   owner_url: https://github.com/valkey-io
@@ -12880,7 +12880,7 @@
   archived: false
   disabled: false
   created_at: '2024-03-22T00:42:17Z'
-  updated_at: '2026-05-03T04:33:45Z'
+  updated_at: '2026-05-03T07:27:35Z'
   size: 161296
   visibility: public
   has_issues: true
@@ -13065,7 +13065,7 @@
   description: Zulip server and web application. Open-source team chat that helps
     teams stay productive and focused.
   language: Python
-  forks: 9808
+  forks: 9809
   open_issues: 2038
   watchers: 25132
   owner_login: zulip
@@ -13138,7 +13138,7 @@
   description: 🚀 A self-hostable personal dashboard built for you. Includes status-checking,
     widgets, themes, icon packs, a UI editor and tons more!
   language: Vue
-  forks: 1825
+  forks: 1826
   open_issues: 89
   watchers: 24941
   owner_login: Lissy93
@@ -13257,14 +13257,14 @@
 - id: 671654508
   name: biomejs/biome
   url: https://github.com/biomejs/biome
-  stars: 24520
+  stars: 24521
   pushed_at: '2026-05-03T03:34:08Z'
   description: A toolchain for web projects, aimed to provide functionalities to maintain
     them. Biome offers formatter and linter, usable via CLI and LSP.
   language: Rust
   forks: 983
   open_issues: 445
-  watchers: 24520
+  watchers: 24521
   owner_login: biomejs
   owner_avatar: https://avatars.githubusercontent.com/u/140182603?v=4
   owner_url: https://github.com/biomejs
@@ -13284,7 +13284,7 @@
   archived: false
   disabled: false
   created_at: '2023-07-27T20:30:22Z'
-  updated_at: '2026-05-03T05:35:43Z'
+  updated_at: '2026-05-03T07:29:37Z'
   size: 256924
   visibility: public
   has_issues: true
@@ -13387,7 +13387,7 @@
   disabled: false
   created_at: '2024-07-13T07:11:32Z'
   updated_at: '2026-05-03T06:43:11Z'
-  size: 22225
+  size: 22275
   visibility: public
   has_issues: true
   has_projects: false
@@ -13441,14 +13441,14 @@
 - id: 644461337
   name: vercel/ai
   url: https://github.com/vercel/ai
-  stars: 23972
+  stars: 23973
   pushed_at: '2026-05-02T18:40:35Z'
   description: 'The AI Toolkit for TypeScript. From the creators of Next.js, the AI
     SDK is a free open-source library for building AI-powered applications and agents '
   language: TypeScript
   forks: 4312
   open_issues: 1577
-  watchers: 23972
+  watchers: 23973
   owner_login: vercel
   owner_avatar: https://avatars.githubusercontent.com/u/14985020?v=4
   owner_url: https://github.com/vercel
@@ -13474,7 +13474,7 @@
   archived: false
   disabled: false
   created_at: '2023-05-23T15:04:08Z'
-  updated_at: '2026-05-03T06:47:44Z'
+  updated_at: '2026-05-03T07:24:37Z'
   size: 202399
   visibility: public
   has_issues: true
@@ -13517,7 +13517,7 @@
   disabled: false
   created_at: '2013-02-26T03:14:47Z'
   updated_at: '2026-05-02T11:04:00Z'
-  size: 146598
+  size: 146631
   visibility: public
   has_issues: true
   has_projects: true
@@ -13566,7 +13566,7 @@
   name: mastra-ai/mastra
   url: https://github.com/mastra-ai/mastra
   stars: 23495
-  pushed_at: '2026-05-03T01:08:20Z'
+  pushed_at: '2026-05-03T07:03:55Z'
   description: From the team behind Gatsby, Mastra is a framework for building AI-powered
     applications and agents with a modern TypeScript stack.
   language: TypeScript
@@ -13596,7 +13596,7 @@
   archived: false
   disabled: false
   created_at: '2024-08-06T20:44:31Z'
-  updated_at: '2026-05-03T06:40:49Z'
+  updated_at: '2026-05-03T07:03:59Z'
   size: 1217414
   visibility: public
   has_issues: true
@@ -13687,7 +13687,7 @@
 - id: 1128123594
   name: volcengine/OpenViking
   url: https://github.com/volcengine/OpenViking
-  stars: 23375
+  stars: 23376
   pushed_at: '2026-05-03T01:46:38Z'
   description: OpenViking is an open-source context database designed specifically
     for AI Agents(such as openclaw). OpenViking unifies the management of context
@@ -13696,7 +13696,7 @@
   language: Python
   forks: 1724
   open_issues: 247
-  watchers: 23375
+  watchers: 23376
   owner_login: volcengine
   owner_avatar: https://avatars.githubusercontent.com/u/67365215?v=4
   owner_url: https://github.com/volcengine
@@ -13720,7 +13720,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-05T07:11:17Z'
-  updated_at: '2026-05-03T06:52:56Z'
+  updated_at: '2026-05-03T07:08:22Z'
   size: 73041
   visibility: public
   has_issues: true
@@ -13855,13 +13855,13 @@
 - id: 1074561042
   name: gastownhall/beads
   url: https://github.com/gastownhall/beads
-  stars: 23022
+  stars: 23023
   pushed_at: '2026-05-03T02:31:15Z'
   description: Beads - A memory upgrade for your coding agent
   language: Go
   forks: 1507
   open_issues: 184
-  watchers: 23022
+  watchers: 23023
   owner_login: gastownhall
   owner_avatar: https://avatars.githubusercontent.com/u/255961667?v=4
   owner_url: https://github.com/gastownhall
@@ -13875,7 +13875,7 @@
   archived: false
   disabled: false
   created_at: '2025-10-12T03:09:46Z'
-  updated_at: '2026-05-03T06:29:21Z'
+  updated_at: '2026-05-03T07:03:27Z'
   size: 6882127
   visibility: public
   has_issues: true
@@ -13886,13 +13886,13 @@
 - id: 1124219907
   name: HKUDS/DeepTutor
   url: https://github.com/HKUDS/DeepTutor
-  stars: 22994
+  stars: 22999
   pushed_at: '2026-05-03T04:50:55Z'
   description: '"DeepTutor: Agent-Native Personalized Learning Assistant"'
   language: Python
-  forks: 3077
+  forks: 3078
   open_issues: 37
-  watchers: 22994
+  watchers: 22999
   owner_login: HKUDS
   owner_avatar: https://avatars.githubusercontent.com/u/118165258?v=4
   owner_url: https://github.com/HKUDS
@@ -13912,7 +13912,7 @@
   archived: false
   disabled: false
   created_at: '2025-12-28T15:35:54Z'
-  updated_at: '2026-05-03T06:46:32Z'
+  updated_at: '2026-05-03T07:19:23Z'
   size: 158073
   visibility: public
   has_issues: true
@@ -14188,13 +14188,13 @@
 - id: 776908852
   name: browserbase/stagehand
   url: https://github.com/browserbase/stagehand
-  stars: 22431
+  stars: 22432
   pushed_at: '2026-05-03T04:45:58Z'
   description: The SDK For Browser Agents
   language: TypeScript
   forks: 1496
   open_issues: 210
-  watchers: 22431
+  watchers: 22432
   owner_login: browserbase
   owner_avatar: https://avatars.githubusercontent.com/u/158221360?v=4
   owner_url: https://github.com/browserbase
@@ -14211,7 +14211,7 @@
   archived: false
   disabled: false
   created_at: '2024-03-24T19:19:44Z'
-  updated_at: '2026-05-03T05:16:45Z'
+  updated_at: '2026-05-03T07:06:39Z'
   size: 85483
   visibility: public
   has_issues: true
@@ -14343,14 +14343,14 @@
 - id: 374132359
   name: krayin/laravel-crm
   url: https://github.com/krayin/laravel-crm
-  stars: 22367
+  stars: 22369
   pushed_at: '2026-05-01T13:19:58Z'
   description: Free & Opensource Laravel CRM solution for SMEs and Enterprises for
     complete customer lifecycle management.
   language: Blade
   forks: 1446
-  open_issues: 152
-  watchers: 22367
+  open_issues: 153
+  watchers: 22369
   owner_login: krayin
   owner_avatar: https://avatars.githubusercontent.com/u/86250863?v=4
   owner_url: https://github.com/krayin
@@ -14378,7 +14378,7 @@
   archived: false
   disabled: false
   created_at: '2021-06-05T14:18:48Z'
-  updated_at: '2026-05-03T04:09:35Z'
+  updated_at: '2026-05-03T07:21:06Z'
   size: 51665
   visibility: public
   has_issues: true
@@ -14927,7 +14927,7 @@
   description: Parse Server for Node.js / Express
   language: JavaScript
   forks: 4817
-  open_issues: 472
+  open_issues: 473
   watchers: 21381
   owner_login: parse-community
   owner_avatar: https://avatars.githubusercontent.com/u/26932219?v=4
@@ -15211,7 +15211,7 @@
 - id: 633927609
   name: promptfoo/promptfoo
   url: https://github.com/promptfoo/promptfoo
-  stars: 20802
+  stars: 20803
   pushed_at: '2026-05-03T04:06:41Z'
   description: Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability
     scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more.
@@ -15220,7 +15220,7 @@
   language: TypeScript
   forks: 1803
   open_issues: 275
-  watchers: 20802
+  watchers: 20803
   owner_login: promptfoo
   owner_avatar: https://avatars.githubusercontent.com/u/137907881?v=4
   owner_url: https://github.com/promptfoo
@@ -15249,7 +15249,7 @@
   archived: false
   disabled: false
   created_at: '2023-04-28T15:48:49Z'
-  updated_at: '2026-05-03T07:02:10Z'
+  updated_at: '2026-05-03T07:12:10Z'
   size: 596219
   visibility: public
   has_issues: true
@@ -15265,7 +15265,7 @@
   description: Open standard for machine learning interoperability
   language: Python
   forks: 3925
-  open_issues: 312
+  open_issues: 304
   watchers: 20757
   owner_login: onnx
   owner_avatar: https://avatars.githubusercontent.com/u/31675368?v=4
@@ -15344,13 +15344,13 @@
 - id: 519882617
   name: leptos-rs/leptos
   url: https://github.com/leptos-rs/leptos
-  stars: 20679
+  stars: 20680
   pushed_at: '2026-05-01T16:41:24Z'
   description: Build fast web applications with Rust.
   language: Rust
   forks: 861
   open_issues: 130
-  watchers: 20679
+  watchers: 20680
   owner_login: leptos-rs
   owner_avatar: https://avatars.githubusercontent.com/u/118319153?v=4
   owner_url: https://github.com/leptos-rs
@@ -15369,7 +15369,7 @@
   archived: false
   disabled: false
   created_at: '2022-07-31T20:40:30Z'
-  updated_at: '2026-05-03T05:11:57Z'
+  updated_at: '2026-05-03T07:22:08Z'
   size: 17372
   visibility: public
   has_issues: true
@@ -15380,13 +15380,13 @@
 - id: 304344049
   name: sveltejs/kit
   url: https://github.com/sveltejs/kit
-  stars: 20476
+  stars: 20475
   pushed_at: '2026-05-02T20:33:26Z'
   description: web development, streamlined
   language: JavaScript
   forks: 2248
   open_issues: 1029
-  watchers: 20476
+  watchers: 20475
   owner_login: sveltejs
   owner_avatar: https://avatars.githubusercontent.com/u/23617963?v=4
   owner_url: https://github.com/sveltejs
@@ -15398,7 +15398,7 @@
   archived: false
   disabled: false
   created_at: '2020-10-15T14:00:23Z'
-  updated_at: '2026-05-03T00:33:44Z'
+  updated_at: '2026-05-03T07:11:46Z'
   size: 35476
   visibility: public
   has_issues: true
@@ -15409,14 +15409,14 @@
 - id: 336920522
   name: Atlas-OS/Atlas
   url: https://github.com/Atlas-OS/Atlas
-  stars: 20467
+  stars: 20468
   pushed_at: '2026-05-02T17:47:24Z'
   description: 🚀 An open and lightweight modification to Windows, designed to optimize
     performance, privacy and usability.
   language: Batchfile
   forks: 725
   open_issues: 14
-  watchers: 20467
+  watchers: 20468
   owner_login: Atlas-OS
   owner_avatar: https://avatars.githubusercontent.com/u/78708182?v=4
   owner_url: https://github.com/Atlas-OS
@@ -15441,7 +15441,7 @@
   archived: false
   disabled: false
   created_at: '2021-02-08T00:26:23Z'
-  updated_at: '2026-05-03T06:35:13Z'
+  updated_at: '2026-05-03T07:11:51Z'
   size: 403624
   visibility: public
   has_issues: true
@@ -15483,14 +15483,14 @@
 - id: 156939672
   name: microsoft/onnxruntime
   url: https://github.com/microsoft/onnxruntime
-  stars: 20404
+  stars: 20405
   pushed_at: '2026-05-03T06:54:06Z'
   description: 'ONNX Runtime: cross-platform, high performance ML inferencing and
     training accelerator'
   language: C++
   forks: 3879
   open_issues: 1393
-  watchers: 20404
+  watchers: 20405
   owner_login: microsoft
   owner_avatar: https://avatars.githubusercontent.com/u/6154722?v=4
   owner_url: https://github.com/microsoft
@@ -15510,7 +15510,7 @@
   archived: false
   disabled: false
   created_at: '2018-11-10T02:22:53Z'
-  updated_at: '2026-05-03T06:12:23Z'
+  updated_at: '2026-05-03T07:11:17Z'
   size: 1539308
   visibility: public
   has_issues: true
@@ -15665,14 +15665,14 @@
 - id: 31558937
   name: gravitational/teleport
   url: https://github.com/gravitational/teleport
-  stars: 20227
+  stars: 20228
   pushed_at: '2026-05-03T03:40:11Z'
   description: The easiest, and most secure way to access and protect all of your
     infrastructure.
   language: Go
   forks: 2054
   open_issues: 3330
-  watchers: 20227
+  watchers: 20228
   owner_login: gravitational
   owner_avatar: https://avatars.githubusercontent.com/u/10781132?v=4
   owner_url: https://github.com/gravitational
@@ -15703,7 +15703,7 @@
   archived: false
   disabled: false
   created_at: '2015-03-02T19:36:00Z'
-  updated_at: '2026-05-03T06:08:29Z'
+  updated_at: '2026-05-03T07:22:34Z'
   size: 1414328
   visibility: public
   has_issues: true
@@ -15714,7 +15714,7 @@
 - id: 871781831
   name: readest/readest
   url: https://github.com/readest/readest
-  stars: 20199
+  stars: 20200
   pushed_at: '2026-05-03T04:06:11Z'
   description: Readest is a modern, feature-rich ebook reader designed for avid readers
     offering seamless cross-platform access, powerful tools, and an intuitive interface
@@ -15722,7 +15722,7 @@
   language: TypeScript
   forks: 1147
   open_issues: 150
-  watchers: 20199
+  watchers: 20200
   owner_login: readest
   owner_avatar: https://avatars.githubusercontent.com/u/190965649?v=4
   owner_url: https://github.com/readest
@@ -15748,7 +15748,7 @@
   archived: false
   disabled: false
   created_at: '2024-10-12T23:16:55Z'
-  updated_at: '2026-05-03T05:08:09Z'
+  updated_at: '2026-05-03T07:05:15Z'
   size: 91015
   visibility: public
   has_issues: true
@@ -15796,13 +15796,13 @@
 - id: 149026292
   name: cube-js/cube
   url: https://github.com/cube-js/cube
-  stars: 19911
+  stars: 19912
   pushed_at: '2026-05-03T06:58:20Z'
   description: 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
   language: Rust
   forks: 2010
   open_issues: 962
-  watchers: 19911
+  watchers: 19912
   owner_login: cube-js
   owner_avatar: https://avatars.githubusercontent.com/u/52467369?v=4
   owner_url: https://github.com/cube-js
@@ -15832,7 +15832,7 @@
   archived: false
   disabled: false
   created_at: '2018-09-16T18:58:46Z'
-  updated_at: '2026-05-03T02:38:21Z'
+  updated_at: '2026-05-03T07:13:53Z'
   size: 449564
   visibility: public
   has_issues: true
@@ -15992,14 +15992,14 @@
 - id: 958830659
   name: google/adk-python
   url: https://github.com/google/adk-python
-  stars: 19403
+  stars: 19404
   pushed_at: '2026-05-01T23:49:55Z'
   description: An open-source, code-first Python toolkit for building, evaluating,
     and deploying sophisticated AI agents with flexibility and control.
   language: Python
   forks: 3329
   open_issues: 816
-  watchers: 19403
+  watchers: 19404
   owner_login: google
   owner_avatar: https://avatars.githubusercontent.com/u/1342004?v=4
   owner_url: https://github.com/google
@@ -16026,7 +16026,7 @@
   archived: false
   disabled: false
   created_at: '2025-04-01T20:44:40Z'
-  updated_at: '2026-05-03T04:56:41Z'
+  updated_at: '2026-05-03T07:23:51Z'
   size: 69161
   visibility: public
   has_issues: true
@@ -16037,7 +16037,7 @@
 - id: 638951438
   name: comet-ml/opik
   url: https://github.com/comet-ml/opik
-  stars: 19167
+  stars: 19168
   pushed_at: '2026-05-01T16:37:30Z'
   description: Debug, evaluate, and monitor your LLM applications, RAG systems, and
     agentic workflows with comprehensive tracing, automated evaluations, and production-ready
@@ -16045,7 +16045,7 @@
   language: Python
   forks: 1462
   open_issues: 143
-  watchers: 19167
+  watchers: 19168
   owner_login: comet-ml
   owner_avatar: https://avatars.githubusercontent.com/u/31487821?v=4
   owner_url: https://github.com/comet-ml
@@ -16069,7 +16069,7 @@
   archived: false
   disabled: false
   created_at: '2023-05-10T12:57:13Z'
-  updated_at: '2026-05-03T06:59:01Z'
+  updated_at: '2026-05-03T07:18:09Z'
   size: 626971
   visibility: public
   has_issues: true
@@ -16125,13 +16125,13 @@
 - id: 950140488
   name: TecharoHQ/anubis
   url: https://github.com/TecharoHQ/anubis
-  stars: 18962
+  stars: 18963
   pushed_at: '2026-05-02T15:53:00Z'
   description: Weighs the soul of incoming HTTP requests to stop AI crawlers
   language: Go
   forks: 588
   open_issues: 279
-  watchers: 18962
+  watchers: 18963
   owner_login: TecharoHQ
   owner_avatar: https://avatars.githubusercontent.com/u/195942235?v=4
   owner_url: https://github.com/TecharoHQ
@@ -16144,7 +16144,7 @@
   archived: false
   disabled: false
   created_at: '2025-03-17T17:35:28Z'
-  updated_at: '2026-05-03T06:27:01Z'
+  updated_at: '2026-05-03T07:22:08Z'
   size: 14702
   visibility: public
   has_issues: true
@@ -16313,7 +16313,7 @@
   disabled: false
   created_at: '2023-02-02T03:29:51Z'
   updated_at: '2026-05-03T03:47:34Z'
-  size: 139634
+  size: 139647
   visibility: public
   has_issues: true
   has_projects: true
@@ -16323,13 +16323,13 @@
 - id: 46755185
   name: bitwarden/server
   url: https://github.com/bitwarden/server
-  stars: 18529
+  stars: 18530
   pushed_at: '2026-05-02T11:09:27Z'
   description: Bitwarden infrastructure/backend (API, database, Docker, etc).
   language: C#
   forks: 1570
   open_issues: 194
-  watchers: 18529
+  watchers: 18530
   owner_login: bitwarden
   owner_avatar: https://avatars.githubusercontent.com/u/15990069?v=4
   owner_url: https://github.com/bitwarden
@@ -16351,7 +16351,7 @@
   archived: false
   disabled: false
   created_at: '2015-11-23T23:45:33Z'
-  updated_at: '2026-05-03T06:36:15Z'
+  updated_at: '2026-05-03T07:01:48Z'
   size: 49239
   visibility: public
   has_issues: true
@@ -16465,7 +16465,7 @@
   disabled: false
   created_at: '2023-08-26T09:21:36Z'
   updated_at: '2026-05-03T06:48:46Z'
-  size: 71327
+  size: 71612
   visibility: public
   has_issues: true
   has_projects: true
@@ -16475,13 +16475,13 @@
 - id: 720209383
   name: CapSoftware/Cap
   url: https://github.com/CapSoftware/Cap
-  stars: 18450
+  stars: 18451
   pushed_at: '2026-05-03T04:36:21Z'
   description: Open source Loom alternative. Beautiful, shareable screen recordings.
   language: TypeScript
   forks: 1452
   open_issues: 433
-  watchers: 18450
+  watchers: 18451
   owner_login: CapSoftware
   owner_avatar: https://avatars.githubusercontent.com/u/151241629?v=4
   owner_url: https://github.com/CapSoftware
@@ -16512,7 +16512,7 @@
   archived: false
   disabled: false
   created_at: '2023-11-17T20:31:46Z'
-  updated_at: '2026-05-03T06:57:10Z'
+  updated_at: '2026-05-03T07:18:10Z'
   size: 334757
   visibility: public
   has_issues: true
@@ -16559,11 +16559,11 @@
   name: elizaOS/eliza
   url: https://github.com/elizaOS/eliza
   stars: 18286
-  pushed_at: '2026-05-03T07:00:23Z'
+  pushed_at: '2026-05-03T07:03:42Z'
   description: Autonomous agents for everyone
   language: TypeScript
   forks: 5512
-  open_issues: 10
+  open_issues: 3
   watchers: 18286
   owner_login: elizaOS
   owner_avatar: https://avatars.githubusercontent.com/u/186240462?v=4
@@ -17065,7 +17065,7 @@
   name: kitao/pyxel
   url: https://github.com/kitao/pyxel
   stars: 17435
-  pushed_at: '2026-05-02T22:21:07Z'
+  pushed_at: '2026-05-03T07:18:39Z'
   description: A retro game engine for Python
   language: Rust
   forks: 925
@@ -17097,7 +17097,7 @@
   archived: false
   disabled: false
   created_at: '2018-06-10T04:58:54Z'
-  updated_at: '2026-05-02T20:37:39Z'
+  updated_at: '2026-05-03T07:18:35Z'
   size: 497382
   visibility: public
   has_issues: true
@@ -17141,14 +17141,14 @@
 - id: 449649393
   name: keploy/keploy
   url: https://github.com/keploy/keploy
-  stars: 17220
+  stars: 17221
   pushed_at: '2026-05-02T19:42:46Z'
   description: Open-source platform for creating safe, isolated production sandboxes
     for API, integration, and E2E testing.
   language: Go
   forks: 2223
   open_issues: 635
-  watchers: 17220
+  watchers: 17221
   owner_login: keploy
   owner_avatar: https://avatars.githubusercontent.com/u/92252339?v=4
   owner_url: https://github.com/keploy
@@ -17173,7 +17173,7 @@
   archived: false
   disabled: false
   created_at: '2022-01-19T10:40:31Z'
-  updated_at: '2026-05-03T05:31:59Z'
+  updated_at: '2026-05-03T07:09:49Z'
   size: 220369
   visibility: public
   has_issues: true
@@ -17257,13 +17257,13 @@
 - id: 679343504
   name: topoteretes/cognee
   url: https://github.com/topoteretes/cognee
-  stars: 16992
+  stars: 16993
   pushed_at: '2026-05-03T04:43:34Z'
   description: The memory for your AI Agents in 6 lines of code
   language: Python
   forks: 1768
   open_issues: 75
-  watchers: 16992
+  watchers: 16993
   owner_login: topoteretes
   owner_avatar: https://avatars.githubusercontent.com/u/125468716?v=4
   owner_url: https://github.com/topoteretes
@@ -17294,7 +17294,7 @@
   archived: false
   disabled: false
   created_at: '2023-08-16T16:16:33Z'
-  updated_at: '2026-05-03T06:55:05Z'
+  updated_at: '2026-05-03T07:29:10Z'
   size: 163261
   visibility: public
   has_issues: true
@@ -17337,6 +17337,58 @@
   created_at: '2014-02-17T21:48:14Z'
   updated_at: '2026-05-03T05:29:09Z'
   size: 11641
+  visibility: public
+  has_issues: true
+  has_projects: true
+  has_wiki: true
+  has_pages: false
+  has_downloads: true
+- id: 1223170290
+  name: nexu-io/open-design
+  url: https://github.com/nexu-io/open-design
+  stars: 16942
+  pushed_at: '2026-05-03T07:26:53Z'
+  description: 🎨 Local-first, open-source alternative to Anthropic's Claude Design.
+    ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile
+    prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4
+    export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot
+    / Hermes / Kimi CLI.
+  language: TypeScript
+  forks: 1913
+  open_issues: 99
+  watchers: 16942
+  owner_login: nexu-io
+  owner_avatar: https://avatars.githubusercontent.com/u/263625318?v=4
+  owner_url: https://github.com/nexu-io
+  topics:
+  - agent-skills
+  - ai-agents
+  - ai-design
+  - byok
+  - claude
+  - claude-code-for-design
+  - claude-design
+  - coding-agents
+  - design-systems
+  - design-tools
+  - desktop-app
+  - figma-alternative
+  - generative-ai
+  - hermes-agent
+  - local-first
+  - nextjs
+  - no-code
+  - prototyping
+  - ui-generator
+  - vibe-coding
+  license: Apache-2.0
+  homepage: https://github.com/nexu-io/open-design
+  default_branch: main
+  archived: false
+  disabled: false
+  created_at: '2026-04-28T04:25:20Z'
+  updated_at: '2026-05-03T07:32:35Z'
+  size: 75825
   visibility: public
   has_issues: true
   has_projects: true
@@ -17461,58 +17513,6 @@
   has_wiki: false
   has_pages: false
   has_downloads: true
-- id: 1223170290
-  name: nexu-io/open-design
-  url: https://github.com/nexu-io/open-design
-  stars: 16874
-  pushed_at: '2026-05-03T06:08:31Z'
-  description: 🎨 Local-first, open-source alternative to Anthropic's Claude Design.
-    ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile
-    prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4
-    export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot
-    / Hermes / Kimi CLI.
-  language: TypeScript
-  forks: 1904
-  open_issues: 96
-  watchers: 16874
-  owner_login: nexu-io
-  owner_avatar: https://avatars.githubusercontent.com/u/263625318?v=4
-  owner_url: https://github.com/nexu-io
-  topics:
-  - agent-skills
-  - ai-agents
-  - ai-design
-  - byok
-  - claude
-  - claude-code-for-design
-  - claude-design
-  - coding-agents
-  - design-systems
-  - design-tools
-  - desktop-app
-  - figma-alternative
-  - generative-ai
-  - hermes-agent
-  - local-first
-  - nextjs
-  - no-code
-  - prototyping
-  - ui-generator
-  - vibe-coding
-  license: Apache-2.0
-  homepage: https://github.com/nexu-io/open-design
-  default_branch: main
-  archived: false
-  disabled: false
-  created_at: '2026-04-28T04:25:20Z'
-  updated_at: '2026-05-03T07:02:06Z'
-  size: 75825
-  visibility: public
-  has_issues: true
-  has_projects: true
-  has_wiki: true
-  has_pages: false
-  has_downloads: true
 - id: 40518025
   name: graphql/graphiql
   url: https://github.com/graphql/graphiql
@@ -17634,13 +17634,13 @@
 - id: 758623687
   name: eythaann/Seelen-UI
   url: https://github.com/eythaann/Seelen-UI
-  stars: 16479
+  stars: 16480
   pushed_at: '2026-05-02T06:28:51Z'
   description: The Fully Customizable Desktop Environment for Windows 10/11.
   language: Rust
   forks: 512
   open_issues: 82
-  watchers: 16479
+  watchers: 16480
   owner_login: eythaann
   owner_avatar: https://avatars.githubusercontent.com/u/76607907?v=4
   owner_url: https://github.com/eythaann
@@ -17670,7 +17670,7 @@
   archived: false
   disabled: false
   created_at: '2024-02-16T18:03:35Z'
-  updated_at: '2026-05-03T04:47:33Z'
+  updated_at: '2026-05-03T07:27:53Z'
   size: 88980
   visibility: public
   has_issues: true
@@ -17712,14 +17712,14 @@
 - id: 913030762
   name: vxcontrol/pentagi
   url: https://github.com/vxcontrol/pentagi
-  stars: 16366
+  stars: 16367
   pushed_at: '2026-05-02T21:49:03Z'
   description: Fully autonomous AI Agents system capable of performing complex penetration
     testing tasks
   language: Go
   forks: 2226
   open_issues: 29
-  watchers: 16366
+  watchers: 16367
   owner_login: vxcontrol
   owner_avatar: https://avatars.githubusercontent.com/u/39194251?v=4
   owner_url: https://github.com/vxcontrol
@@ -17748,7 +17748,7 @@
   archived: false
   disabled: false
   created_at: '2025-01-06T22:22:48Z'
-  updated_at: '2026-05-03T06:55:54Z'
+  updated_at: '2026-05-03T07:12:38Z'
   size: 47827
   visibility: public
   has_issues: true
@@ -18043,13 +18043,13 @@
 - id: 18348651
   name: OpenRCT2/OpenRCT2
   url: https://github.com/OpenRCT2/OpenRCT2
-  stars: 15572
+  stars: 15573
   pushed_at: '2026-05-02T21:33:22Z'
   description: An open source re-implementation of RollerCoaster Tycoon 2 🎢
   language: C++
   forks: 1774
   open_issues: 1642
-  watchers: 15572
+  watchers: 15573
   owner_login: OpenRCT2
   owner_avatar: https://avatars.githubusercontent.com/u/8473908?v=4
   owner_url: https://github.com/OpenRCT2
@@ -18078,7 +18078,7 @@
   archived: false
   disabled: false
   created_at: '2014-04-01T23:32:25Z'
-  updated_at: '2026-05-03T06:51:43Z'
+  updated_at: '2026-05-03T07:29:06Z'
   size: 274070
   visibility: public
   has_issues: true
@@ -18314,13 +18314,13 @@
 - id: 67753070
   name: vercel/vercel
   url: https://github.com/vercel/vercel
-  stars: 15408
+  stars: 15409
   pushed_at: '2026-05-03T01:21:12Z'
   description: Develop. Preview. Ship.
   language: TypeScript
   forks: 3553
   open_issues: 648
-  watchers: 15408
+  watchers: 15409
   owner_login: vercel
   owner_avatar: https://avatars.githubusercontent.com/u/14985020?v=4
   owner_url: https://github.com/vercel
@@ -18338,7 +18338,7 @@
   archived: false
   disabled: false
   created_at: '2016-09-09T01:12:08Z'
-  updated_at: '2026-05-03T05:10:08Z'
+  updated_at: '2026-05-03T07:24:23Z'
   size: 231265
   visibility: public
   has_issues: true
@@ -18436,6 +18436,54 @@
   has_wiki: true
   has_pages: false
   has_downloads: true
+- id: 45195614
+  name: Jackett/Jackett
+  url: https://github.com/Jackett/Jackett
+  stars: 15281
+  pushed_at: '2026-05-03T05:55:37Z'
+  description: API Support for your favorite torrent trackers
+  language: C#
+  forks: 1497
+  open_issues: 211
+  watchers: 15281
+  owner_login: Jackett
+  owner_avatar: https://avatars.githubusercontent.com/u/15383019?v=4
+  owner_url: https://github.com/Jackett
+  topics:
+  - api
+  - couchpotato
+  - duckietv
+  - hacktoberfest
+  - indexer
+  - jackett
+  - lidarr
+  - medusa
+  - mylar3
+  - nefarious
+  - newznab
+  - proxy
+  - radarr
+  - rss
+  - rss-proxy
+  - sickrage
+  - sonarr
+  - torrent
+  - torznab
+  - trackers
+  license: GPL-2.0
+  homepage: ''
+  default_branch: master
+  archived: false
+  disabled: false
+  created_at: '2015-10-29T16:23:19Z'
+  updated_at: '2026-05-03T07:10:39Z'
+  size: 44228
+  visibility: public
+  has_issues: true
+  has_projects: true
+  has_wiki: true
+  has_pages: false
+  has_downloads: true
 - id: 99919302
   name: apache/doris
   url: https://github.com/apache/doris
@@ -18477,54 +18525,6 @@
   created_at: '2017-08-10T12:13:30Z'
   updated_at: '2026-05-02T16:09:51Z'
   size: 1310788
-  visibility: public
-  has_issues: true
-  has_projects: true
-  has_wiki: true
-  has_pages: false
-  has_downloads: true
-- id: 45195614
-  name: Jackett/Jackett
-  url: https://github.com/Jackett/Jackett
-  stars: 15280
-  pushed_at: '2026-05-03T05:55:37Z'
-  description: API Support for your favorite torrent trackers
-  language: C#
-  forks: 1498
-  open_issues: 211
-  watchers: 15280
-  owner_login: Jackett
-  owner_avatar: https://avatars.githubusercontent.com/u/15383019?v=4
-  owner_url: https://github.com/Jackett
-  topics:
-  - api
-  - couchpotato
-  - duckietv
-  - hacktoberfest
-  - indexer
-  - jackett
-  - lidarr
-  - medusa
-  - mylar3
-  - nefarious
-  - newznab
-  - proxy
-  - radarr
-  - rss
-  - rss-proxy
-  - sickrage
-  - sonarr
-  - torrent
-  - torznab
-  - trackers
-  license: GPL-2.0
-  homepage: ''
-  default_branch: master
-  archived: false
-  disabled: false
-  created_at: '2015-10-29T16:23:19Z'
-  updated_at: '2026-05-03T05:20:57Z'
-  size: 44228
   visibility: public
   has_issues: true
   has_projects: true
@@ -18870,13 +18870,13 @@
 - id: 572570113
   name: triggerdotdev/trigger.dev
   url: https://github.com/triggerdotdev/trigger.dev
-  stars: 14762
+  stars: 14763
   pushed_at: '2026-05-02T12:12:39Z'
   description: Trigger.dev – build and deploy fully‑managed AI agents and workflows
   language: TypeScript
   forks: 1195
   open_issues: 295
-  watchers: 14762
+  watchers: 14763
   owner_login: triggerdotdev
   owner_avatar: https://avatars.githubusercontent.com/u/95297378?v=4
   owner_url: https://github.com/triggerdotdev
@@ -18900,7 +18900,7 @@
   archived: false
   disabled: false
   created_at: '2022-11-30T14:59:07Z'
-  updated_at: '2026-05-03T02:06:00Z'
+  updated_at: '2026-05-03T07:13:58Z'
   size: 166018
   visibility: public
   has_issues: true
@@ -19029,14 +19029,14 @@
 - id: 1162099055
   name: Leonxlnx/taste-skill
   url: https://github.com/Leonxlnx/taste-skill
-  stars: 14651
+  stars: 14660
   pushed_at: '2026-05-02T22:16:38Z'
   description: 'Taste-Skill - gives your AI good taste. stops the AI from generating
     boring, generic slop '
   language: Shell
-  forks: 1271
+  forks: 1272
   open_issues: 11
-  watchers: 14651
+  watchers: 14660
   owner_login: Leonxlnx
   owner_avatar: https://avatars.githubusercontent.com/u/219127460?v=4
   owner_url: https://github.com/Leonxlnx
@@ -19060,7 +19060,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-19T21:44:05Z'
-  updated_at: '2026-05-03T06:58:40Z'
+  updated_at: '2026-05-03T07:28:21Z'
   size: 2677
   visibility: public
   has_issues: true
@@ -19161,7 +19161,7 @@
 - id: 50824485
   name: winsiderss/systeminformer
   url: https://github.com/winsiderss/systeminformer
-  stars: 14376
+  stars: 14377
   pushed_at: '2026-05-02T21:16:25Z'
   description: A free, powerful, multi-purpose tool that helps you monitor system
     resources, debug software and detect malware. Brought to you by Winsider Seminars
@@ -19169,7 +19169,7 @@
   language: C
   forks: 1664
   open_issues: 260
-  watchers: 14376
+  watchers: 14377
   owner_login: winsiderss
   owner_avatar: https://avatars.githubusercontent.com/u/105516054?v=4
   owner_url: https://github.com/winsiderss
@@ -19199,7 +19199,7 @@
   archived: false
   disabled: false
   created_at: '2016-02-01T08:10:21Z'
-  updated_at: '2026-05-03T06:46:47Z'
+  updated_at: '2026-05-03T07:17:52Z'
   size: 88907
   visibility: public
   has_issues: true
@@ -19329,7 +19329,7 @@
   archived: false
   disabled: false
   created_at: '2022-10-10T14:27:36Z'
-  updated_at: '2026-05-03T01:31:33Z'
+  updated_at: '2026-05-03T07:15:51Z'
   size: 24076
   visibility: public
   has_issues: true
@@ -19460,7 +19460,7 @@
   name: MODSetter/SurfSense
   url: https://github.com/MODSetter/SurfSense
   stars: 14056
-  pushed_at: '2026-05-03T06:57:18Z'
+  pushed_at: '2026-05-03T07:17:37Z'
   description: 'An open source, privacy focused alternative to NotebookLM for teams
     with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9'
   language: Python
@@ -19677,7 +19677,7 @@
 - id: 324829379
   name: organicmaps/organicmaps
   url: https://github.com/organicmaps/organicmaps
-  stars: 13866
+  stars: 13867
   pushed_at: '2026-05-02T23:16:44Z'
   description: 🍃 Organic Maps is a free Android & iOS offline maps app for more than
     6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap
@@ -19686,7 +19686,7 @@
   language: C++
   forks: 1386
   open_issues: 3248
-  watchers: 13866
+  watchers: 13867
   owner_login: organicmaps
   owner_avatar: https://avatars.githubusercontent.com/u/76659619?v=4
   owner_url: https://github.com/organicmaps
@@ -19717,7 +19717,7 @@
   archived: false
   disabled: false
   created_at: '2020-12-27T19:02:26Z'
-  updated_at: '2026-05-03T00:06:44Z'
+  updated_at: '2026-05-03T07:10:47Z'
   size: 9235149
   visibility: public
   has_issues: true
@@ -19752,7 +19752,7 @@
   disabled: false
   created_at: '2015-06-15T20:28:27Z'
   updated_at: '2026-05-03T06:07:51Z'
-  size: 39987
+  size: 39926
   visibility: public
   has_issues: true
   has_projects: true
@@ -19934,12 +19934,12 @@
   name: semaphoreui/semaphore
   url: https://github.com/semaphoreui/semaphore
   stars: 13555
-  pushed_at: '2026-05-03T06:32:50Z'
+  pushed_at: '2026-05-03T07:22:39Z'
   description: Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt,
     PowerShell and other DevOps tools.
   language: Go
   forks: 1247
-  open_issues: 947
+  open_issues: 946
   watchers: 13555
   owner_login: semaphoreui
   owner_avatar: https://avatars.githubusercontent.com/u/98574287?v=4
@@ -19967,7 +19967,7 @@
   disabled: false
   created_at: '2014-08-23T22:43:31Z'
   updated_at: '2026-05-03T06:29:08Z'
-  size: 69267
+  size: 68972
   visibility: public
   has_issues: true
   has_projects: false
@@ -20050,13 +20050,13 @@
 - id: 24594933
   name: Unleash/unleash
   url: https://github.com/Unleash/unleash
-  stars: 13438
+  stars: 13439
   pushed_at: '2026-05-02T15:31:31Z'
   description: Open-source feature management platform
   language: TypeScript
   forks: 847
   open_issues: 58
-  watchers: 13438
+  watchers: 13439
   owner_login: Unleash
   owner_avatar: https://avatars.githubusercontent.com/u/23053233?v=4
   owner_url: https://github.com/Unleash
@@ -20086,7 +20086,7 @@
   archived: false
   disabled: false
   created_at: '2014-09-29T12:50:46Z'
-  updated_at: '2026-05-02T23:50:34Z'
+  updated_at: '2026-05-03T07:30:43Z'
   size: 305611
   visibility: public
   has_issues: true
@@ -20097,13 +20097,13 @@
 - id: 70746484
   name: apache/tvm
   url: https://github.com/apache/tvm
-  stars: 13324
+  stars: 13325
   pushed_at: '2026-05-03T06:00:18Z'
   description: Open Machine Learning Compiler Framework
   language: Python
   forks: 3872
-  open_issues: 167
-  watchers: 13324
+  open_issues: 168
+  watchers: 13325
   owner_login: apache
   owner_avatar: https://avatars.githubusercontent.com/u/47359?v=4
   owner_url: https://github.com/apache
@@ -20127,7 +20127,7 @@
   archived: false
   disabled: false
   created_at: '2016-10-12T22:20:28Z'
-  updated_at: '2026-05-03T05:39:36Z'
+  updated_at: '2026-05-03T07:32:51Z'
   size: 131122
   visibility: public
   has_issues: true
@@ -20459,7 +20459,7 @@
   archived: false
   disabled: false
   created_at: '2023-03-12T16:28:56Z'
-  updated_at: '2026-05-03T06:04:49Z'
+  updated_at: '2026-05-03T07:21:32Z'
   size: 256404
   visibility: public
   has_issues: true
@@ -20753,7 +20753,7 @@
   name: BasedHardware/omi
   url: https://github.com/BasedHardware/omi
   stars: 12376
-  pushed_at: '2026-05-03T04:53:31Z'
+  pushed_at: '2026-05-03T07:04:29Z'
   description: AI that sees your screen, listens to your conversations and tells you
     what to do
   language: Dart
@@ -20927,14 +20927,14 @@
 - id: 1157171418
   name: jundot/omlx
   url: https://github.com/jundot/omlx
-  stars: 12151
+  stars: 12158
   pushed_at: '2026-05-01T15:02:51Z'
   description: LLM inference server with continuous batching & SSD caching for Apple
     Silicon — managed from the macOS menu bar
   language: Python
   forks: 1059
   open_issues: 269
-  watchers: 12151
+  watchers: 12158
   owner_login: jundot
   owner_avatar: https://avatars.githubusercontent.com/u/64250138?v=4
   owner_url: https://github.com/jundot
@@ -20951,7 +20951,7 @@
   archived: false
   disabled: false
   created_at: '2026-02-13T14:13:27Z'
-  updated_at: '2026-05-03T06:39:04Z'
+  updated_at: '2026-05-03T07:31:52Z'
   size: 45435
   visibility: public
   has_issues: true
@@ -21128,7 +21128,7 @@
 - id: 1139782619
   name: saturndec/waoowaoo
   url: https://github.com/saturndec/waoowaoo
-  stars: 11963
+  stars: 11964
   pushed_at: '2026-05-01T16:13:11Z'
   description: 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for
     controllable film & video production. From shorts to live-action with Hollywood-standard
@@ -21136,7 +21136,7 @@
   language: TypeScript
   forks: 2712
   open_issues: 124
-  watchers: 11963
+  watchers: 11964
   owner_login: saturndec
   owner_avatar: https://avatars.githubusercontent.com/u/153601736?v=4
   owner_url: https://github.com/saturndec
@@ -21155,7 +21155,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-22T12:09:36Z'
-  updated_at: '2026-05-03T05:58:07Z'
+  updated_at: '2026-05-03T07:04:25Z'
   size: 15600
   visibility: public
   has_issues: true
@@ -21507,13 +21507,13 @@
 - id: 811675345
   name: zoicware/RemoveWindowsAI
   url: https://github.com/zoicware/RemoveWindowsAI
-  stars: 11515
+  stars: 11514
   pushed_at: '2026-05-01T18:07:49Z'
   description: Force Remove Copilot, Recall and More in Windows 11
   language: PowerShell
   forks: 388
   open_issues: 7
-  watchers: 11515
+  watchers: 11514
   owner_login: zoicware
   owner_avatar: https://avatars.githubusercontent.com/u/118035521?v=4
   owner_url: https://github.com/zoicware
@@ -21538,7 +21538,7 @@
   archived: false
   disabled: false
   created_at: '2024-06-07T04:37:20Z'
-  updated_at: '2026-05-03T05:18:51Z'
+  updated_at: '2026-05-03T07:08:11Z'
   size: 4053
   visibility: public
   has_issues: true
@@ -21616,11 +21616,11 @@
   name: dotnet/BenchmarkDotNet
   url: https://github.com/dotnet/BenchmarkDotNet
   stars: 11410
-  pushed_at: '2026-05-03T06:30:50Z'
+  pushed_at: '2026-05-03T07:11:37Z'
   description: Powerful .NET library for benchmarking
   language: C#
   forks: 1050
-  open_issues: 186
+  open_issues: 185
   watchers: 11410
   owner_login: dotnet
   owner_avatar: https://avatars.githubusercontent.com/u/9141961?v=4
@@ -21639,8 +21639,8 @@
   archived: false
   disabled: false
   created_at: '2013-08-18T06:17:48Z'
-  updated_at: '2026-05-03T06:29:58Z'
-  size: 69152
+  updated_at: '2026-05-03T07:10:43Z'
+  size: 69159
   visibility: public
   has_issues: true
   has_projects: false
@@ -22039,7 +22039,7 @@
 - id: 638513786
   name: Anil-matcha/Open-Generative-AI
   url: https://github.com/Anil-matcha/Open-Generative-AI
-  stars: 10916
+  stars: 10919
   pushed_at: '2026-05-01T10:28:05Z'
   description: Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea
     AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+
@@ -22048,7 +22048,7 @@
   language: JavaScript
   forks: 1921
   open_issues: 9
-  watchers: 10916
+  watchers: 10919
   owner_login: Anil-matcha
   owner_avatar: https://avatars.githubusercontent.com/u/4326215?v=4
   owner_url: https://github.com/Anil-matcha
@@ -22079,7 +22079,7 @@
   archived: false
   disabled: false
   created_at: '2023-05-09T14:12:37Z'
-  updated_at: '2026-05-03T06:57:32Z'
+  updated_at: '2026-05-03T07:16:55Z'
   size: 44727
   visibility: public
   has_issues: true
@@ -22090,13 +22090,13 @@
 - id: 93444615
   name: hashicorp/terraform-provider-aws
   url: https://github.com/hashicorp/terraform-provider-aws
-  stars: 10859
+  stars: 10860
   pushed_at: '2026-05-01T23:42:05Z'
   description: The AWS Provider enables Terraform to manage AWS resources.
   language: Go
   forks: 10109
   open_issues: 3450
-  watchers: 10859
+  watchers: 10860
   owner_login: hashicorp
   owner_avatar: https://avatars.githubusercontent.com/u/761456?v=4
   owner_url: https://github.com/hashicorp
@@ -22110,62 +22110,13 @@
   archived: false
   disabled: false
   created_at: '2017-06-05T20:37:52Z'
-  updated_at: '2026-05-03T06:12:04Z'
+  updated_at: '2026-05-03T07:08:21Z'
   size: 896795
   visibility: public
   has_issues: true
   has_projects: false
   has_wiki: false
   has_pages: true
-  has_downloads: true
-- id: 206214867
-  name: TwiN/gatus
-  url: https://github.com/TwiN/gatus
-  stars: 10823
-  pushed_at: '2026-05-01T07:12:37Z'
-  description: Automated developer-oriented status page with alerting and incident
-    support
-  language: Go
-  forks: 728
-  open_issues: 298
-  watchers: 10823
-  owner_login: TwiN
-  owner_avatar: https://avatars.githubusercontent.com/u/15699766?v=4
-  owner_url: https://github.com/TwiN
-  topics:
-  - alerting
-  - container
-  - dashboard
-  - devops
-  - docker
-  - go
-  - golang
-  - health
-  - monitor
-  - monitoring
-  - monitoring-tool
-  - notifications
-  - self-hosted
-  - selfhosted
-  - slack
-  - status
-  - status-page
-  - statuspage
-  - uptime
-  - uptime-monitoring
-  license: Apache-2.0
-  homepage: https://gatus.io
-  default_branch: master
-  archived: false
-  disabled: false
-  created_at: '2019-09-04T02:35:40Z'
-  updated_at: '2026-05-03T05:08:31Z'
-  size: 36820
-  visibility: public
-  has_issues: true
-  has_projects: false
-  has_wiki: false
-  has_pages: false
   has_downloads: true
 - id: 121086193
   name: 99designs/gqlgen
@@ -22210,7 +22161,7 @@
   description: The most widely used Python to C compiler
   language: Cython
   forks: 1613
-  open_issues: 1514
+  open_issues: 1515
   watchers: 10715
   owner_login: cython
   owner_avatar: https://avatars.githubusercontent.com/u/486082?v=4
@@ -22477,14 +22428,14 @@
 - id: 997125912
   name: zilliztech/claude-context
   url: https://github.com/zilliztech/claude-context
-  stars: 10601
+  stars: 10606
   pushed_at: '2026-05-02T15:24:34Z'
   description: Code search MCP for Claude Code. Make entire codebase the context for
     any coding agent.
   language: TypeScript
   forks: 780
   open_issues: 107
-  watchers: 10601
+  watchers: 10606
   owner_login: zilliztech
   owner_avatar: https://avatars.githubusercontent.com/u/18416694?v=4
   owner_url: https://github.com/zilliztech
@@ -22515,7 +22466,7 @@
   archived: false
   disabled: false
   created_at: '2025-06-06T02:12:47Z'
-  updated_at: '2026-05-03T06:53:30Z'
+  updated_at: '2026-05-03T07:26:46Z'
   size: 8181
   visibility: public
   has_issues: true
@@ -22985,14 +22936,14 @@
 - id: 153097643
   name: openvinotoolkit/openvino
   url: https://github.com/openvinotoolkit/openvino
-  stars: 10168
+  stars: 10169
   pushed_at: '2026-05-01T15:15:41Z'
   description: OpenVINO™ is an open source toolkit for optimizing and deploying AI
     inference
   language: C++
   forks: 3198
   open_issues: 748
-  watchers: 10168
+  watchers: 10169
   owner_login: openvinotoolkit
   owner_avatar: https://avatars.githubusercontent.com/u/55443902?v=4
   owner_url: https://github.com/openvinotoolkit
@@ -23022,7 +22973,7 @@
   archived: false
   disabled: false
   created_at: '2018-10-15T10:54:40Z'
-  updated_at: '2026-05-02T17:57:50Z'
+  updated_at: '2026-05-03T07:12:08Z'
   size: 931095
   visibility: public
   has_issues: true
@@ -23068,13 +23019,13 @@
 - id: 498766488
   name: electric-sql/electric
   url: https://github.com/electric-sql/electric
-  stars: 10139
+  stars: 10140
   pushed_at: '2026-05-02T16:21:01Z'
   description: The agent platform built on sync.
   language: Elixir
   forks: 326
   open_issues: 274
-  watchers: 10139
+  watchers: 10140
   owner_login: electric-sql
   owner_avatar: https://avatars.githubusercontent.com/u/96433696?v=4
   owner_url: https://github.com/electric-sql
@@ -23096,7 +23047,7 @@
   archived: false
   disabled: false
   created_at: '2022-06-01T14:18:11Z'
-  updated_at: '2026-05-02T16:26:32Z'
+  updated_at: '2026-05-03T07:31:55Z'
   size: 229341
   visibility: public
   has_issues: true
@@ -23529,13 +23480,13 @@
 - id: 564072810
   name: Arize-ai/phoenix
   url: https://github.com/Arize-ai/phoenix
-  stars: 9506
+  stars: 9507
   pushed_at: '2026-05-03T06:22:23Z'
   description: AI Observability & Evaluation
   language: Python
   forks: 851
   open_issues: 523
-  watchers: 9506
+  watchers: 9507
   owner_login: Arize-ai
   owner_avatar: https://avatars.githubusercontent.com/u/59858760?v=4
   owner_url: https://github.com/Arize-ai
@@ -23562,7 +23513,7 @@
   archived: false
   disabled: false
   created_at: '2022-11-09T23:44:35Z'
-  updated_at: '2026-05-03T06:06:46Z'
+  updated_at: '2026-05-03T07:03:26Z'
   size: 468095
   visibility: public
   has_issues: true
@@ -24439,7 +24390,7 @@
   description: 'CakePHP: The Rapid Development Framework for PHP - Official Repository'
   language: PHP
   forks: 3370
-  open_issues: 18
+  open_issues: 19
   watchers: 8794
   owner_login: cakephp
   owner_avatar: https://avatars.githubusercontent.com/u/23666?v=4
@@ -24475,13 +24426,13 @@
 - id: 660776503
   name: paradedb/paradedb
   url: https://github.com/paradedb/paradedb
-  stars: 8720
+  stars: 8721
   pushed_at: '2026-05-02T20:50:55Z'
   description: Simple, Elastic-quality search for Postgres
   language: Rust
   forks: 376
   open_issues: 171
-  watchers: 8720
+  watchers: 8721
   owner_login: paradedb
   owner_avatar: https://avatars.githubusercontent.com/u/124464601?v=4
   owner_url: https://github.com/paradedb
@@ -24506,7 +24457,7 @@
   archived: false
   disabled: false
   created_at: '2023-06-30T20:21:47Z'
-  updated_at: '2026-05-03T03:56:35Z'
+  updated_at: '2026-05-03T07:16:28Z'
   size: 956075
   visibility: public
   has_issues: true
@@ -24552,13 +24503,13 @@
 - id: 641226132
   name: huntabyte/shadcn-svelte
   url: https://github.com/huntabyte/shadcn-svelte
-  stars: 8688
+  stars: 8687
   pushed_at: '2026-05-01T12:12:24Z'
   description: shadcn/ui, but for Svelte. ✨
   language: TypeScript
   forks: 532
   open_issues: 93
-  watchers: 8688
+  watchers: 8687
   owner_login: huntabyte
   owner_avatar: https://avatars.githubusercontent.com/u/64506580?v=4
   owner_url: https://github.com/huntabyte
@@ -24579,7 +24530,7 @@
   archived: false
   disabled: false
   created_at: '2023-05-16T03:26:53Z'
-  updated_at: '2026-05-02T19:16:03Z'
+  updated_at: '2026-05-03T07:11:46Z'
   size: 37291
   visibility: public
   has_issues: true
@@ -24618,6 +24569,54 @@
   visibility: public
   has_issues: true
   has_projects: true
+  has_wiki: true
+  has_pages: false
+  has_downloads: true
+- id: 168429268
+  name: BuilderIO/builder
+  url: https://github.com/BuilderIO/builder
+  stars: 8659
+  pushed_at: '2026-05-03T07:02:55Z'
+  description: Visual Development for React, Vue, Svelte, Qwik, and more
+  language: TypeScript
+  forks: 1149
+  open_issues: 417
+  watchers: 8659
+  owner_login: BuilderIO
+  owner_avatar: https://avatars.githubusercontent.com/u/35700027?v=4
+  owner_url: https://github.com/BuilderIO
+  topics:
+  - angular
+  - builder
+  - cms
+  - drag-drop
+  - frontend
+  - gatsby
+  - headless
+  - headless-cms
+  - landing-pages
+  - next-js
+  - nocode
+  - page-builder
+  - pwa
+  - qwik
+  - react
+  - react-native
+  - shopify
+  - vue
+  - webcomponents
+  - wysiwyg
+  license: MIT
+  homepage: https://builder.io
+  default_branch: main
+  archived: false
+  disabled: false
+  created_at: '2019-01-30T23:06:02Z'
+  updated_at: '2026-05-03T01:20:24Z'
+  size: 349293
+  visibility: public
+  has_issues: true
+  has_projects: false
   has_wiki: true
   has_pages: false
   has_downloads: true
@@ -25078,7 +25077,7 @@
     Nx + TypeScript 🤍
   language: TypeScript
   forks: 1105
-  open_issues: 264
+  open_issues: 265
   watchers: 8330
   owner_login: ghostfolio
   owner_avatar: https://avatars.githubusercontent.com/u/82473144?v=4
@@ -25125,7 +25124,7 @@
   description: Complete Open Source and Modular solution for MMO
   language: C++
   forks: 3346
-  open_issues: 2462
+  open_issues: 2463
   watchers: 8269
   owner_login: azerothcore
   owner_avatar: https://avatars.githubusercontent.com/u/20147732?v=4
@@ -25833,7 +25832,7 @@
   description: A Chaos Engineering Platform for Kubernetes.
   language: Go
   forks: 946
-  open_issues: 515
+  open_issues: 516
   watchers: 7646
   owner_login: chaos-mesh
   owner_avatar: https://avatars.githubusercontent.com/u/59082378?v=4
@@ -25901,55 +25900,6 @@
   has_wiki: false
   has_pages: true
   has_downloads: true
-- id: 1145022970
-  name: HBAI-Ltd/Toonflow-app
-  url: https://github.com/HBAI-Ltd/Toonflow-app
-  stars: 7574
-  pushed_at: '2026-05-01T14:56:39Z'
-  description: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow
-    is an open-source AI tool that turns stories and scripts into animated short dramas.
-    Features AI scriptwriting, storyboarding, character and video generation. A cross-platform
-    desktop app for efficient content creation.
-  language: HTML
-  forks: 1288
-  open_issues: 1
-  watchers: 7574
-  owner_login: HBAI-Ltd
-  owner_avatar: https://avatars.githubusercontent.com/u/257465404?v=4
-  owner_url: https://github.com/HBAI-Ltd
-  topics:
-  - ai
-  - ai-content-creation
-  - ai-tool
-  - ai-video-generation
-  - automation
-  - content-generation
-  - desktop-app
-  - electron
-  - generative-ai
-  - image-generation
-  - llm
-  - nodejs
-  - shorts
-  - text-to-video
-  - typescript
-  - video-generation
-  - vite
-  - vue3
-  license: Apache-2.0
-  homepage: https://toonflow.net
-  default_branch: master
-  archived: false
-  disabled: false
-  created_at: '2026-01-29T10:25:45Z'
-  updated_at: '2026-05-03T06:57:11Z'
-  size: 191669
-  visibility: public
-  has_issues: true
-  has_projects: true
-  has_wiki: true
-  has_pages: false
-  has_downloads: true
 - id: 131135585
   name: svenstaro/miniserve
   url: https://github.com/svenstaro/miniserve
@@ -25984,6 +25934,55 @@
   has_issues: true
   has_projects: false
   has_wiki: false
+  has_pages: false
+  has_downloads: true
+- id: 1145022970
+  name: HBAI-Ltd/Toonflow-app
+  url: https://github.com/HBAI-Ltd/Toonflow-app
+  stars: 7573
+  pushed_at: '2026-05-01T14:56:39Z'
+  description: Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow
+    is an open-source AI tool that turns stories and scripts into animated short dramas.
+    Features AI scriptwriting, storyboarding, character and video generation. A cross-platform
+    desktop app for efficient content creation.
+  language: HTML
+  forks: 1288
+  open_issues: 1
+  watchers: 7573
+  owner_login: HBAI-Ltd
+  owner_avatar: https://avatars.githubusercontent.com/u/257465404?v=4
+  owner_url: https://github.com/HBAI-Ltd
+  topics:
+  - ai
+  - ai-content-creation
+  - ai-tool
+  - ai-video-generation
+  - automation
+  - content-generation
+  - desktop-app
+  - electron
+  - generative-ai
+  - image-generation
+  - llm
+  - nodejs
+  - shorts
+  - text-to-video
+  - typescript
+  - video-generation
+  - vite
+  - vue3
+  license: Apache-2.0
+  homepage: https://toonflow.net
+  default_branch: master
+  archived: false
+  disabled: false
+  created_at: '2026-01-29T10:25:45Z'
+  updated_at: '2026-05-03T07:21:48Z'
+  size: 191669
+  visibility: public
+  has_issues: true
+  has_projects: true
+  has_wiki: true
   has_pages: false
   has_downloads: true
 - id: 330616364
@@ -26152,7 +26151,7 @@
   description: Official Anytype client for MacOS, Linux, and Windows
   language: TypeScript
   forks: 470
-  open_issues: 158
+  open_issues: 159
   watchers: 7489
   owner_login: anyproto
   owner_avatar: https://avatars.githubusercontent.com/u/128061343?v=4
@@ -26181,7 +26180,7 @@
 - id: 315977578
   name: evidentlyai/evidently
   url: https://github.com/evidentlyai/evidently
-  stars: 7443
+  stars: 7444
   pushed_at: '2026-05-02T13:20:18Z'
   description: Evidently is ​​an open-source ML and LLM observability framework. Evaluate,
     test, and monitor any AI-powered system or data pipeline. From tabular data to
@@ -26189,7 +26188,7 @@
   language: Jupyter Notebook
   forks: 836
   open_issues: 265
-  watchers: 7443
+  watchers: 7444
   owner_login: evidentlyai
   owner_avatar: https://avatars.githubusercontent.com/u/75031056?v=4
   owner_url: https://github.com/evidentlyai
@@ -26214,7 +26213,7 @@
   archived: false
   disabled: false
   created_at: '2020-11-25T15:20:08Z'
-  updated_at: '2026-05-03T03:04:34Z'
+  updated_at: '2026-05-03T07:21:35Z'
   size: 561021
   visibility: public
   has_issues: true
@@ -26448,7 +26447,7 @@
   disabled: false
   created_at: '2024-06-05T13:42:28Z'
   updated_at: '2026-05-03T06:05:22Z'
-  size: 21598
+  size: 21724
   visibility: public
   has_issues: true
   has_projects: true
@@ -26647,7 +26646,7 @@
   disabled: false
   created_at: '2018-12-10T07:20:15Z'
   updated_at: '2026-05-03T06:07:39Z'
-  size: 245227
+  size: 245113
   visibility: public
   has_issues: true
   has_projects: false
@@ -27455,7 +27454,7 @@
   name: RediSearch/RediSearch
   url: https://github.com/RediSearch/RediSearch
   stars: 6121
-  pushed_at: '2026-05-03T05:11:15Z'
+  pushed_at: '2026-05-03T07:29:36Z'
   description: A query and indexing engine for Redis, providing secondary indexing,
     full-text search, vector similarity search and aggregations.
   language: C
@@ -27537,11 +27536,11 @@
   name: chakra-ui/panda
   url: https://github.com/chakra-ui/panda
   stars: 6050
-  pushed_at: '2026-05-01T15:48:52Z'
+  pushed_at: '2026-05-03T07:29:13Z'
   description: 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
   language: TypeScript
   forks: 292
-  open_issues: 8
+  open_issues: 7
   watchers: 6050
   owner_login: chakra-ui
   owner_avatar: https://avatars.githubusercontent.com/u/54212428?v=4
@@ -27567,7 +27566,7 @@
   archived: false
   disabled: false
   created_at: '2022-07-27T06:49:27Z'
-  updated_at: '2026-05-02T20:32:24Z'
+  updated_at: '2026-05-03T07:29:17Z'
   size: 69925
   visibility: public
   has_issues: true
@@ -28140,14 +28139,14 @@
 - id: 930459670
   name: AmanVarshney01/create-better-t-stack
   url: https://github.com/AmanVarshney01/create-better-t-stack
-  stars: 5330
+  stars: 5331
   pushed_at: '2026-05-02T17:52:25Z'
   description: A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects
     with best practices and customizable configurations
   language: TypeScript
   forks: 295
   open_issues: 144
-  watchers: 5330
+  watchers: 5331
   owner_login: AmanVarshney01
   owner_avatar: https://avatars.githubusercontent.com/u/45312299?v=4
   owner_url: https://github.com/AmanVarshney01
@@ -28174,7 +28173,7 @@
   archived: false
   disabled: false
   created_at: '2025-02-10T17:06:23Z'
-  updated_at: '2026-05-02T20:55:30Z'
+  updated_at: '2026-05-03T07:10:43Z'
   size: 13792
   visibility: public
   has_issues: true
@@ -28449,13 +28448,13 @@
 - id: 1075381375
   name: getpaseo/paseo
   url: https://github.com/getpaseo/paseo
-  stars: 5229
-  pushed_at: '2026-05-03T07:00:02Z'
+  stars: 5233
+  pushed_at: '2026-05-03T07:17:39Z'
   description: Orchestrate coding agents remotely from your phone, desktop and CLI
   language: TypeScript
-  forks: 457
+  forks: 458
   open_issues: 367
-  watchers: 5229
+  watchers: 5233
   owner_login: getpaseo
   owner_avatar: https://avatars.githubusercontent.com/u/259503569?v=4
   owner_url: https://github.com/getpaseo
@@ -28477,7 +28476,7 @@
   archived: false
   disabled: false
   created_at: '2025-10-13T12:27:02Z'
-  updated_at: '2026-05-03T07:00:06Z'
+  updated_at: '2026-05-03T07:27:22Z'
   size: 66306
   visibility: public
   has_issues: true
@@ -28829,14 +28828,14 @@
 - id: 383777434
   name: chakra-ui/zag
   url: https://github.com/chakra-ui/zag
-  stars: 5066
+  stars: 5067
   pushed_at: '2026-05-02T17:55:26Z'
   description: Build your design system in React, Solid, Vue or Svelte. Powered by
     finite state machines
   language: TypeScript
   forks: 252
   open_issues: 14
-  watchers: 5066
+  watchers: 5067
   owner_login: chakra-ui
   owner_avatar: https://avatars.githubusercontent.com/u/54212428?v=4
   owner_url: https://github.com/chakra-ui
@@ -28867,7 +28866,7 @@
   archived: false
   disabled: false
   created_at: '2021-07-07T11:38:07Z'
-  updated_at: '2026-05-01T17:10:31Z'
+  updated_at: '2026-05-03T07:04:33Z'
   size: 88793
   visibility: public
   has_issues: true
@@ -29117,14 +29116,14 @@
 - id: 831066597
   name: MarSeventh/CloudFlare-ImgBed
   url: https://github.com/MarSeventh/CloudFlare-ImgBed
-  stars: 4980
+  stars: 4981
   pushed_at: '2026-05-01T13:00:38Z'
   description: A serverless, open-source file hosting solution built on Cloudflare.
     Supports image hosting, secure file storage, and personal cloud drive capabilities.
   language: JavaScript
   forks: 6054
   open_issues: 30
-  watchers: 4980
+  watchers: 4981
   owner_login: MarSeventh
   owner_avatar: https://avatars.githubusercontent.com/u/108160987?v=4
   owner_url: https://github.com/MarSeventh
@@ -29144,7 +29143,7 @@
   archived: false
   disabled: false
   created_at: '2024-07-19T15:24:19Z'
-  updated_at: '2026-05-03T06:06:32Z'
+  updated_at: '2026-05-03T07:22:06Z'
   size: 645287
   visibility: public
   has_issues: true
@@ -29396,47 +29395,6 @@
   has_projects: true
   has_wiki: true
   has_pages: false
-  has_downloads: true
-- id: 168782501
-  name: kanidm/kanidm
-  url: https://github.com/kanidm/kanidm
-  stars: 4895
-  pushed_at: '2026-05-01T07:22:07Z'
-  description: 'Kanidm: A simple, secure, and fast identity management platform'
-  language: Rust
-  forks: 319
-  open_issues: 243
-  watchers: 4895
-  owner_login: kanidm
-  owner_avatar: https://avatars.githubusercontent.com/u/59422346?v=4
-  owner_url: https://github.com/kanidm
-  topics:
-  - authentication
-  - iam
-  - identity
-  - identity-management
-  - idm
-  - ldap
-  - oidc
-  - radius
-  - rust
-  - scim
-  - security
-  - ssh-authentication
-  - webauthn
-  license: MPL-2.0
-  homepage: https://kanidm.com
-  default_branch: master
-  archived: false
-  disabled: false
-  created_at: '2019-02-02T01:41:26Z'
-  updated_at: '2026-05-03T02:32:18Z'
-  size: 174163
-  visibility: public
-  has_issues: true
-  has_projects: true
-  has_wiki: true
-  has_pages: true
   has_downloads: true
 - id: 621929252
   name: ArroyoSystems/arroyo
@@ -29752,13 +29710,13 @@
 - id: 1054512829
   name: vllm-project/vllm-omni
   url: https://github.com/vllm-project/vllm-omni
-  stars: 4591
+  stars: 4592
   pushed_at: '2026-05-03T04:36:16Z'
   description: A framework for efficient model inference with omni-modality models
   language: Python
   forks: 867
   open_issues: 764
-  watchers: 4591
+  watchers: 4592
   owner_login: vllm-project
   owner_avatar: https://avatars.githubusercontent.com/u/136984999?v=4
   owner_url: https://github.com/vllm-project
@@ -29778,7 +29736,7 @@
   archived: false
   disabled: false
   created_at: '2025-09-11T00:34:43Z'
-  updated_at: '2026-05-03T06:29:31Z'
+  updated_at: '2026-05-03T07:07:29Z'
   size: 29223
   visibility: public
   has_issues: true
@@ -29823,7 +29781,7 @@
   name: the-open-agent/openagent
   url: https://github.com/the-open-agent/openagent
   stars: 4527
-  pushed_at: '2026-05-03T06:53:44Z'
+  pushed_at: '2026-05-03T07:12:14Z'
   description: '⚡️next-generation personal AI assistant powered by LLM, RAG and agent
     loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org'
   language: Go
@@ -30417,14 +30375,14 @@
 - id: 867433720
   name: mostlygeek/llama-swap
   url: https://github.com/mostlygeek/llama-swap
-  stars: 3781
+  stars: 3783
   pushed_at: '2026-05-02T23:28:55Z'
   description: Reliable model swapping for any local OpenAI/Anthropic compatible server
     - llama.cpp, vllm, etc
   language: Go
   forks: 295
   open_issues: 49
-  watchers: 3781
+  watchers: 3783
   owner_login: mostlygeek
   owner_avatar: https://avatars.githubusercontent.com/u/83972?v=4
   owner_url: https://github.com/mostlygeek
@@ -30443,7 +30401,7 @@
   archived: false
   disabled: false
   created_at: '2024-10-04T04:06:01Z'
-  updated_at: '2026-05-03T05:09:49Z'
+  updated_at: '2026-05-03T07:21:25Z'
   size: 2956
   visibility: public
   has_issues: true
@@ -30567,7 +30525,7 @@
   name: WeThinkIn/AIGC-Interview-Book
   url: https://github.com/WeThinkIn/AIGC-Interview-Book
   stars: 3614
-  pushed_at: '2026-05-03T05:47:54Z'
+  pushed_at: '2026-05-03T07:22:39Z'
   description: 【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
   language: null
   forks: 394
@@ -30597,7 +30555,7 @@
   archived: false
   disabled: false
   created_at: '2023-10-14T16:15:40Z'
-  updated_at: '2026-05-03T05:47:59Z'
+  updated_at: '2026-05-03T07:22:42Z'
   size: 333838
   visibility: public
   has_issues: true
@@ -30955,13 +30913,13 @@
 - id: 997390194
   name: PurpleAILAB/Decepticon
   url: https://github.com/PurpleAILAB/Decepticon
-  stars: 3364
+  stars: 3367
   pushed_at: '2026-05-03T04:46:24Z'
   description: Autonomous Hacking Agent for Red Team
   language: Python
   forks: 659
   open_issues: 2
-  watchers: 3364
+  watchers: 3367
   owner_login: PurpleAILAB
   owner_avatar: https://avatars.githubusercontent.com/u/211282590?v=4
   owner_url: https://github.com/PurpleAILAB
@@ -30982,7 +30940,7 @@
   archived: false
   disabled: false
   created_at: '2025-06-06T12:55:02Z'
-  updated_at: '2026-05-03T06:52:50Z'
+  updated_at: '2026-05-03T07:23:57Z'
   size: 294844
   visibility: public
   has_issues: true
@@ -31241,6 +31199,51 @@
   has_wiki: false
   has_pages: true
   has_downloads: true
+- id: 1139136822
+  name: CJackHwang/ds2api
+  url: https://github.com/CJackHwang/ds2api
+  stars: 3195
+  pushed_at: '2026-05-02T23:43:05Z'
+  description: 'DeepSeek-Compatible Middleware Interface: A technical exploration
+    project in Go, focusing on high-concurrency protocol adaptation. It serves as
+    a reference implementation for converting diverse web protocols into standardized
+    formats.'
+  language: Go
+  forks: 836
+  open_issues: 13
+  watchers: 3195
+  owner_login: CJackHwang
+  owner_avatar: https://avatars.githubusercontent.com/u/155826701?v=4
+  owner_url: https://github.com/CJackHwang
+  topics:
+  - api
+  - claude-api
+  - deepseek
+  - deepseek-api
+  - docker
+  - freeapi
+  - go
+  - openai-api
+  - proxy
+  - proxy-server
+  - react
+  - vercel
+  - vercel-deployment
+  - zeabur
+  license: AGPL-3.0
+  homepage: https://linux.do/u/cjackhwang
+  default_branch: main
+  archived: false
+  disabled: false
+  created_at: '2026-01-21T15:14:40Z'
+  updated_at: '2026-05-03T07:30:32Z'
+  size: 5408
+  visibility: public
+  has_issues: true
+  has_projects: true
+  has_wiki: false
+  has_pages: false
+  has_downloads: true
 - id: 168944140
   name: simolus3/drift
   url: https://github.com/simolus3/drift
@@ -31274,51 +31277,6 @@
   has_issues: true
   has_projects: true
   has_wiki: true
-  has_pages: false
-  has_downloads: true
-- id: 1139136822
-  name: CJackHwang/ds2api
-  url: https://github.com/CJackHwang/ds2api
-  stars: 3193
-  pushed_at: '2026-05-02T23:43:05Z'
-  description: 'DeepSeek-Compatible Middleware Interface: A technical exploration
-    project in Go, focusing on high-concurrency protocol adaptation. It serves as
-    a reference implementation for converting diverse web protocols into standardized
-    formats.'
-  language: Go
-  forks: 836
-  open_issues: 14
-  watchers: 3193
-  owner_login: CJackHwang
-  owner_avatar: https://avatars.githubusercontent.com/u/155826701?v=4
-  owner_url: https://github.com/CJackHwang
-  topics:
-  - api
-  - claude-api
-  - deepseek
-  - deepseek-api
-  - docker
-  - freeapi
-  - go
-  - openai-api
-  - proxy
-  - proxy-server
-  - react
-  - vercel
-  - vercel-deployment
-  - zeabur
-  license: AGPL-3.0
-  homepage: https://linux.do/u/cjackhwang
-  default_branch: main
-  archived: false
-  disabled: false
-  created_at: '2026-01-21T15:14:40Z'
-  updated_at: '2026-05-03T06:46:17Z'
-  size: 5408
-  visibility: public
-  has_issues: true
-  has_projects: true
-  has_wiki: false
   has_pages: false
   has_downloads: true
 - id: 342259394
@@ -31424,7 +31382,7 @@
   pushed_at: '2026-05-01T19:36:15Z'
   description: ' Memory library for building stateful agents'
   language: Python
-  forks: 365
+  forks: 366
   open_issues: 84
   watchers: 3166
   owner_login: plastic-labs
@@ -31465,43 +31423,41 @@
   has_wiki: true
   has_pages: false
   has_downloads: true
-- id: 41571541
-  name: inspec/inspec
-  url: https://github.com/inspec/inspec
-  stars: 3065
-  pushed_at: '2026-05-01T07:27:01Z'
-  description: 'InSpec: Auditing and Testing Framework'
-  language: Ruby
-  forks: 675
-  open_issues: 483
-  watchers: 3065
-  owner_login: inspec
-  owner_avatar: https://avatars.githubusercontent.com/u/39202509?v=4
-  owner_url: https://github.com/inspec
+- id: 227265548
+  name: gluesql/gluesql
+  url: https://github.com/gluesql/gluesql
+  stars: 3059
+  pushed_at: '2026-05-03T07:29:54Z'
+  description: GlueSQL is quite sticky. It attaches to anywhere.
+  language: Rust
+  forks: 246
+  open_issues: 206
+  watchers: 3059
+  owner_login: gluesql
+  owner_avatar: https://avatars.githubusercontent.com/u/69316759?v=4
+  owner_url: https://github.com/gluesql
   topics:
-  - audit
-  - compliance
-  - devops
-  - devsec
-  - inspec
-  - security
-  - spec
-  - tdd
-  - tdd-utilities
-  - testing
-  license: NOASSERTION
-  homepage: http://inspec.io
+  - database
+  - nosql
+  - rust
+  - schemaless
+  - sql
+  - storage
+  - webassembly
+  - websql
+  license: Apache-2.0
+  homepage: https://gluesql.org/docs
   default_branch: main
   archived: false
   disabled: false
-  created_at: '2015-08-28T22:16:01Z'
-  updated_at: '2026-05-03T05:37:45Z'
-  size: 60814
+  created_at: '2019-12-11T03:09:07Z'
+  updated_at: '2026-05-01T07:29:15Z'
+  size: 6642
   visibility: public
   has_issues: true
   has_projects: true
   has_wiki: true
-  has_pages: true
+  has_pages: false
   has_downloads: true
 - id: 672651553
   name: MrNeRF/LichtFeld-Studio
@@ -32038,14 +31994,14 @@
 - id: 934999287
   name: langchain-ai/agent-chat-ui
   url: https://github.com/langchain-ai/agent-chat-ui
-  stars: 2797
+  stars: 2798
   pushed_at: '2026-05-03T03:55:21Z'
   description: 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a
     chat interface.
   language: TypeScript
   forks: 618
   open_issues: 89
-  watchers: 2797
+  watchers: 2798
   owner_login: langchain-ai
   owner_avatar: https://avatars.githubusercontent.com/u/126733545?v=4
   owner_url: https://github.com/langchain-ai
@@ -32060,7 +32016,7 @@
   archived: false
   disabled: false
   created_at: '2025-02-18T18:36:18Z'
-  updated_at: '2026-05-01T17:22:46Z'
+  updated_at: '2026-05-03T07:20:53Z'
   size: 1229
   visibility: public
   has_issues: true
@@ -33362,13 +33318,13 @@
 - id: 1015280784
   name: nizos/tdd-guard
   url: https://github.com/nizos/tdd-guard
-  stars: 2055
+  stars: 2056
   pushed_at: '2026-05-02T21:07:32Z'
   description: Automated TDD enforcement for Claude Code
   language: TypeScript
   forks: 153
   open_issues: 25
-  watchers: 2055
+  watchers: 2056
   owner_login: nizos
   owner_avatar: https://avatars.githubusercontent.com/u/16970186?v=4
   owner_url: https://github.com/nizos
@@ -33386,7 +33342,7 @@
   archived: false
   disabled: false
   created_at: '2025-07-07T09:14:14Z'
-  updated_at: '2026-05-03T05:30:17Z'
+  updated_at: '2026-05-03T07:18:06Z'
   size: 6512
   visibility: public
   has_issues: true
@@ -34019,14 +33975,14 @@
   name: wiremock/WireMock.Net
   url: https://github.com/wiremock/WireMock.Net
   stars: 1655
-  pushed_at: '2026-05-02T17:46:16Z'
+  pushed_at: '2026-05-03T07:28:32Z'
   description: WireMock.Net is a flexible product for stubbing and mocking web HTTP
     responses using advanced request matching and response templating. Based on WireMock
     Java, but extended and different functionality. Full documentation can be found
     at https://wiremock.org/dotnet/.
   language: C#
   forks: 238
-  open_issues: 25
+  open_issues: 23
   watchers: 1655
   owner_login: wiremock
   owner_avatar: https://avatars.githubusercontent.com/u/21368587?v=4
@@ -34053,7 +34009,7 @@
   archived: false
   disabled: false
   created_at: '2017-01-17T19:44:53Z'
-  updated_at: '2026-05-02T17:46:18Z'
+  updated_at: '2026-05-03T07:27:24Z'
   size: 12478
   visibility: public
   has_issues: true
@@ -34511,7 +34467,7 @@
   disabled: false
   created_at: '2023-10-22T15:56:45Z'
   updated_at: '2026-05-02T13:20:54Z'
-  size: 559483
+  size: 559497
   visibility: public
   has_issues: true
   has_projects: true
@@ -35022,12 +34978,12 @@
   name: yamada-ui/yamada-ui
   url: https://github.com/yamada-ui/yamada-ui
   stars: 1016
-  pushed_at: '2026-05-03T05:00:12Z'
+  pushed_at: '2026-05-03T07:30:55Z'
   description: React UI components of the Yamada, by the Yamada, for the Yamada built
     with React and Emotion.
   language: TypeScript
   forks: 262
-  open_issues: 198
+  open_issues: 205
   watchers: 1016
   owner_login: yamada-ui
   owner_avatar: https://avatars.githubusercontent.com/u/162002886?v=4
@@ -35070,7 +35026,7 @@
     (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.
   language: C#
   forks: 292
-  open_issues: 243
+  open_issues: 242
   watchers: 1006
   owner_login: microsoft
   owner_avatar: https://avatars.githubusercontent.com/u/6154722?v=4
@@ -35420,11 +35376,11 @@
   name: theachoem/storypad
   url: https://github.com/theachoem/storypad
   stars: 853
-  pushed_at: '2026-05-03T06:55:50Z'
+  pushed_at: '2026-05-03T07:20:10Z'
   description: An open source diary & journal app with over 100k downloads 🪴
   language: Dart
   forks: 113
-  open_issues: 15
+  open_issues: 16
   watchers: 853
   owner_login: theachoem
   owner_avatar: https://avatars.githubusercontent.com/u/29684683?v=4
@@ -35855,7 +35811,7 @@
 - id: 1144764199
   name: didilili/ai-agents-from-zero
   url: https://github.com/didilili/ai-agents-from-zero
-  stars: 639
+  stars: 640
   pushed_at: '2026-05-03T03:55:40Z'
   description: ' 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位
     · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调
@@ -35863,7 +35819,7 @@
   language: Python
   forks: 94
   open_issues: 3
-  watchers: 639
+  watchers: 640
   owner_login: didilili
   owner_avatar: https://avatars.githubusercontent.com/u/49889928?v=4
   owner_url: https://github.com/didilili
@@ -35888,7 +35844,7 @@
   archived: false
   disabled: false
   created_at: '2026-01-29T02:49:11Z'
-  updated_at: '2026-05-03T06:46:02Z'
+  updated_at: '2026-05-03T07:26:22Z'
   size: 643377
   visibility: public
   has_issues: true
@@ -36027,8 +35983,8 @@
   pushed_at: '2026-05-02T21:54:02Z'
   description: Open Source Formula 1 Database
   language: Kotlin
-  forks: 63
-  open_issues: 6
+  forks: 64
+  open_issues: 7
   watchers: 537
   owner_login: f1db
   owner_avatar: https://avatars.githubusercontent.com/u/90254145?v=4
@@ -36351,12 +36307,12 @@
   name: mondoohq/cnspec
   url: https://github.com/mondoohq/cnspec
   stars: 434
-  pushed_at: '2026-05-03T05:55:24Z'
+  pushed_at: '2026-05-03T07:21:30Z'
   description: An open source, cloud-native security to protect everything from build
     to runtime
   language: Go
   forks: 36
-  open_issues: 120
+  open_issues: 122
   watchers: 434
   owner_login: mondoohq
   owner_avatar: https://avatars.githubusercontent.com/u/99198514?v=4
@@ -36377,7 +36333,7 @@
   archived: false
   disabled: false
   created_at: '2022-09-21T08:34:41Z'
-  updated_at: '2026-05-02T01:06:27Z'
+  updated_at: '2026-05-03T07:21:33Z'
   size: 71489
   visibility: public
   has_issues: true
